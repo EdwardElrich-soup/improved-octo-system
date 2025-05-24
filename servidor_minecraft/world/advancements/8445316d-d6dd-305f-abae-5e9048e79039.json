@@ -2491,6 +2491,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-23 22:14:34 +0000",
       "cooked_mutton": "2025-05-22 21:54:21 +0000",
+      "cooked_beef": "2025-05-24 04:54:31 +0000",
       "beef": "2025-05-23 01:38:03 +0000"
     },
     "done": false
@@ -4442,6 +4443,42 @@
   "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
     "criteria": {
       "has_item": "2025-05-23 22:14:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-24 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-24 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-24 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-24 05:04:10 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/feathery_wing": {
+    "criteria": {
+      "has_chicken": "2025-05-24 05:00:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-05-24 05:04:10 +0000"
     },
     "done": true
   },

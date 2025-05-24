@@ -489,3 +489,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [24May2025 04:51:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
 [24May2025 04:51:17.385] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
 [24May2025 04:51:19.322] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@584b007c[id=<null>,name=MarcoDelNorte,properties={},legacy=false] (/127.142.0.33:50123) lost connection: Disconnected
+[24May2025 05:00:39.616] [Worker-Main-11/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24May2025 05:06:30.517] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@512ca648[id=<null>,name=MarcoDelNorte,properties={},legacy=false] (/127.142.0.33:34889) lost connection: Disconnected
+[24May2025 05:08:10.276] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@11cb165d[id=<null>,name=MarcoDelNorte,properties={},legacy=false] (/127.142.0.33:42915) lost connection: Disconnected
+[24May2025 05:08:32.567] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ca8e9f4[id=<null>,name=MarcoDelNorte,properties={},legacy=false] (/127.142.0.33:35289) lost connection: Disconnected
+[24May2025 05:16:35.711] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ff52592[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:36111) lost connection: Disconnected
+[24May2025 05:18:05.530] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3277f10a[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:34005) lost connection: Disconnected
