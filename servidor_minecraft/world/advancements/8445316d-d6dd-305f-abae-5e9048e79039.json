@@ -2384,6 +2384,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-24 05:33:25 +0000",
       "minecraft:skeleton": "2025-05-22 21:53:08 +0000",
       "minecraft:spider": "2025-05-23 01:37:10 +0000",
       "minecraft:zombie": "2025-05-22 21:55:55 +0000",
@@ -4458,9 +4459,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-24 05:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-05-24 05:19:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-05-24 05:32:53 +0000"
     },
     "done": true
   },
@@ -4521,6 +4534,12 @@
   "rats:recipes/misc/upgrades/flight_upgrade": {
     "criteria": {
       "has_lapis": "2025-05-24 05:16:12 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-24 05:30:40 +0000"
     },
     "done": true
   },
@@ -4602,6 +4621,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-24 05:32:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-24 05:33:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_frame": {
     "criteria": {
       "has_redstone": "2025-05-24 05:19:17 +0000"
@@ -4641,6 +4672,12 @@
   "securitycraft:recipes/tools/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2025-05-24 05:19:17 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-24 05:31:31 +0000"
     },
     "done": true
   },
