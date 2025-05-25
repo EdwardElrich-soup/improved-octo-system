@@ -488,3 +488,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 07:28:37.412] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
 [25May2025 07:42:05.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
 [25May2025 07:43:51.305] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/6145, l='ServerLevel[world]', x=438.36, y=64.00, z=357.98] died: Honeyed Archer was slain by tacticalMus4sh1
+[25May2025 07:54:54.898] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[25May2025 07:54:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[25May2025 07:55:05.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:40219] logged in with entity id 9578 at (368.0761675441952, -35.0, 331.47300613242044)
+[25May2025 07:55:05.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[25May2025 07:55:05.847] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[25May2025 07:55:46.229] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
