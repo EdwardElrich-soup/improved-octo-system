@@ -6861,3 +6861,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 08:12:20.703] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=349, y=-18, z=365}) doesn't have enough leaves around top most log
 [25May2025 08:12:21.514] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=350, y=-18, z=365}) doesn't have enough leaves around top most log
 [25May2025 08:12:22.309] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=351, y=-18, z=365}) doesn't have enough leaves around top most log
+[25May2025 08:13:09.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Ice Bucket Challenge]
+[25May2025 08:13:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Who is Cutting Onions?]
+[25May2025 08:14:24.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 08:14:24.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 08:17:05.588] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=320, y=-24, z=351}) doesn't have enough leaves around top most log
+[25May2025 08:17:07.190] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=317, y=-24, z=349}) doesn't have enough leaves around top most log
+[25May2025 08:17:08.402] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=317, y=-23, z=349}) doesn't have enough leaves around top most log
+[25May2025 08:17:09.555] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=317, y=-22, z=349}) doesn't have enough leaves around top most log
+[25May2025 08:17:10.846] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=317, y=-25, z=349}) doesn't have enough leaves around top most log
+[25May2025 08:17:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Hidden in the Depths]
+[25May2025 08:19:24.435] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 08:19:24.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 08:20:45.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Spooky Scary Skeleton]
