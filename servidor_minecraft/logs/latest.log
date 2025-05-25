@@ -498,3 +498,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 08:13:10.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Who is Cutting Onions?]
 [25May2025 08:17:56.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Hidden in the Depths]
 [25May2025 08:20:45.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Spooky Scary Skeleton]
+[25May2025 08:29:30.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=282, y=63, z=261} BlockPos{x=281, y=63, z=261}
