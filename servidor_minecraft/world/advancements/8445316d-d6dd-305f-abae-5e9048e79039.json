@@ -3130,7 +3130,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-05-25 02:16:29 +0000",
-      "cooked_beef": "2025-05-25 03:00:27 +0000"
+      "cooked_beef": "2025-05-25 03:00:27 +0000",
+      "bread": "2025-05-25 07:32:02 +0000"
     },
     "done": false
   },
@@ -4634,6 +4635,42 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-25 03:37:25 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/rat_seed_bowl": {
+    "criteria": {
+      "has_seeds": "2025-05-25 07:31:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/farmer_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-05-25 07:31:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/replanter_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-05-25 07:31:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-05-25 07:31:47 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/breeder_upgrade": {
+    "criteria": {
+      "has_seeds": "2025-05-25 07:31:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-25 07:31:50 +0000"
     },
     "done": true
   },
