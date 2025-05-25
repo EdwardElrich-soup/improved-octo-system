@@ -2371,6 +2371,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-25 03:24:51 +0000",
       "minecraft:sunflower_plains": "2025-05-25 03:06:36 +0000",
       "minecraft:beach": "2025-05-25 03:07:29 +0000",
       "minecraft:river": "2025-05-25 02:26:29 +0000",
@@ -3083,7 +3084,9 @@
       "cooked_porkchop": "2025-05-25 02:23:25 +0000",
       "cooked_mutton": "2025-05-25 02:16:50 +0000",
       "cooked_beef": "2025-05-25 02:52:59 +0000",
-      "apple": "2025-05-25 02:17:00 +0000"
+      "beef": "2025-05-25 03:20:40 +0000",
+      "apple": "2025-05-25 02:17:00 +0000",
+      "bread": "2025-05-25 03:18:51 +0000"
     },
     "done": false
   },
@@ -3745,7 +3748,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-25 02:29:02 +0000",
       "minecraft:spider": "2025-05-25 02:28:58 +0000",
-      "minecraft:zombie": "2025-05-25 02:56:16 +0000"
+      "minecraft:zombie": "2025-05-25 02:56:16 +0000",
+      "minecraft:drowned": "2025-05-25 03:20:18 +0000"
     },
     "done": false
   },
@@ -3815,6 +3819,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-25 03:18:06 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/basic_mount_upgrade": {
     "criteria": {
       "has_saddle": "2025-05-25 02:51:46 +0000"
@@ -3842,6 +3858,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
     },
     "done": true
   },
@@ -3941,6 +3963,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-05-25 03:21:27 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/health_upgrade": {
     "criteria": {
       "has_bread": "2025-05-25 03:10:55 +0000"
@@ -3983,9 +4011,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
+    },
+    "done": true
+  },
   "rediscovered:recipes/building_blocks/dirt_slab": {
     "criteria": {
       "has_item": "2025-05-25 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
     },
     "done": true
   },
@@ -4007,6 +4047,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-25 03:25:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 03:14:18 +0000"
@@ -4019,9 +4065,27 @@
     },
     "done": true
   },
+  "witherstormmod:recipes/food/golden_apple_stew": {
+    "criteria": {
+      "has_cure_ingredient": "2025-05-25 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-25 03:18:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
     },
     "done": true
   },
@@ -4052,6 +4116,18 @@
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-05-25 03:12:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-25 03:21:28 +0000"
     },
     "done": true
   },
@@ -4163,9 +4239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-25 03:17:47 +0000"
     },
     "done": true
   },
@@ -4178,6 +4266,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-25 02:51:49 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/studded_leggings_from_chainmail": {
+    "criteria": {
+      "has_chain": "2025-05-25 03:19:20 +0000"
     },
     "done": true
   },
