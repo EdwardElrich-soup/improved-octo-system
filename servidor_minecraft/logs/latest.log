@@ -2240,3 +2240,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 02:35:50.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Pic-A-Nic Basket?]
 [25May2025 02:36:25.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Pic-A-Nic Basket?]
 [25May2025 02:37:15.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Suit Up]
+[25May2025 02:41:03.281] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
+[25May2025 02:41:03.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[25May2025 02:43:40.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:57013] logged in with entity id 15119 at (273.5862441740026, 69.5625, 260.78366631345375)
+[25May2025 02:43:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[25May2025 02:43:40.290] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[25May2025 02:46:20.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[25May2025 02:46:20.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[25May2025 02:46:20.454] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[25May2025 02:46:20.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:53527] logged in with entity id 15474 at (278.8446253072249, 66.0, 259.0021989835489)
+[25May2025 02:46:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[25May2025 02:46:20.665] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
