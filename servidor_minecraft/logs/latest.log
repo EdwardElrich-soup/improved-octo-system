@@ -494,3 +494,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 19:31:15.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Once Upon a Cave]
 [25May2025 19:31:15.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Getting an Upgrade]
 [25May2025 19:33:15.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Bone Crusher]
+[25May2025 19:37:01.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Strong or Careful]
+[25May2025 19:37:01.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 withered away whilst fighting Lifestealer
+[25May2025 19:37:01.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Your First Grave]
+[25May2025 19:37:01.903] [Server thread/INFO] [tombstone/]: The player tacticalMus4sh1 has successfully been saved
+[25May2025 19:37:53.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Here They Come]
