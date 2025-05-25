@@ -11123,3 +11123,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [25May2025 02:46:20.464] [Server thread/DEBUG] [com.github.alexthe666.rats.RatsMod/]: Ratlantis datapack flag has been set to false for tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
 [25May2025 02:46:20.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
 [25May2025 02:46:20.665] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[25May2025 02:48:15.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Ancient Civilization]
+[25May2025 02:48:21.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Ancient Civilization]
+[25May2025 02:50:10.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Monster Hunter]
+[25May2025 02:51:05.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 02:51:05.256] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 02:51:06.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Not Today, Thank You]
+[25May2025 02:51:41.105] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Shane the Manly'/17196, l='ServerLevel[world]', x=241.70, y=-39.00, z=352.22] died: Shane the Manly was slain by MarcoDelNorte
+[25May2025 02:51:42.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [He Wasn't So Strong]
+[25May2025 02:51:50.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Where Is The Stone Pen?]
+[25May2025 02:54:16.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Wind Darkening]
+[25May2025 02:56:05.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25May2025 02:56:05.174] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25May2025 02:56:27.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Knowledge of Death]
+[25May2025 02:56:27.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Ashes 'n Bones]
