@@ -510,3 +510,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 05:08:16.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Dark Creator]
 [26May2025 05:12:51.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Blade Arts -Aerial Cleave-       ]
 [26May2025 05:12:52.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Blade Arts -Upper Slash-         ]
+[26May2025 05:22:24.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=72, z=244} BlockPos{x=274, y=72, z=244}
+[26May2025 05:22:24.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=72, z=244} BlockPos{x=274, y=72, z=244}
+[26May2025 05:22:24.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=275, y=72, z=244} BlockPos{x=274, y=72, z=244}
+[26May2025 05:22:28.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=277, y=72, z=239} BlockPos{x=276, y=72, z=240}
+[26May2025 05:22:31.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=278, y=72, z=245} BlockPos{x=277, y=71, z=245}
+[26May2025 05:22:32.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=71, z=243} BlockPos{x=279, y=71, z=242}
+[26May2025 05:22:32.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=280, y=71, z=243} BlockPos{x=279, y=71, z=242}
+[26May2025 05:24:38.904] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/5559, l='ServerLevel[world]', x=177.30, y=74.00, z=301.01] died: Honeyed Archer was slain by tacticalMus4sh1
+[26May2025 05:25:50.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[26May2025 05:28:47.263] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26May2025 05:28:47.264] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26May2025 05:28:47.265] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[26May2025 05:28:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [We Need to Go Deeper]
+[26May2025 05:28:57.190] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12121ms or 242 ticks behind
+[26May2025 05:29:01.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [We Need to Go Deeper]
+[26May2025 05:29:18.344] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7142, l='ServerLevel[world]', x=25.00, y=31.00, z=129.00] as it would cause deadlock
+[26May2025 05:29:44.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Nightmare Fuel]
