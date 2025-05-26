@@ -503,3 +503,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 00:29:19.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
 [26May2025 00:29:21.298] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
 [26May2025 00:33:52.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Abilities -Enemy Step-           ]
+[26May2025 00:47:45.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Diamonds!]
