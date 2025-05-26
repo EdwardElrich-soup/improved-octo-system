@@ -5280,9 +5280,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-05-26 23:30:17 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/demon_upgrade": {
     "criteria": {
       "has_obsidian": "2025-05-26 23:20:00 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_carrot": "2025-05-26 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-05-26 23:30:17 +0000"
     },
     "done": true
   },
@@ -5310,6 +5328,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-05-26 23:27:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-05-26 22:58:08 +0000"
@@ -5331,6 +5355,12 @@
   "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
     "criteria": {
       "has_raw_silver": "2025-05-26 22:58:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/flute_upgrade": {
+    "criteria": {
+      "has_clay": "2025-05-26 23:30:17 +0000"
     },
     "done": true
   },
