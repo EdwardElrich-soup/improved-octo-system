@@ -4307,6 +4307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-26 01:02:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-05-26 00:47:45 +0000"
@@ -4415,6 +4421,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/flight_upgrade": {
+    "criteria": {
+      "has_lapis": "2025-05-26 01:02:02 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/purifying_liquid": {
     "criteria": {
       "has_diamond": "2025-05-26 00:47:45 +0000"
@@ -4502,6 +4514,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-26 01:02:02 +0000"
     },
     "done": true
   },
