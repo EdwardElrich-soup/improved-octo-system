@@ -6896,3 +6896,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 06:04:00.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 06:09:00.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 06:09:00.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:14:00.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:14:00.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:19:00.122] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:19:00.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:21:25.709] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[26May2025 06:21:35.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
