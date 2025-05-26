@@ -4100,6 +4100,7 @@
       "minecraft:enderman": "2025-05-26 06:29:57 +0000",
       "minecraft:vex": "2025-05-25 08:03:20 +0000",
       "minecraft:zombie": "2025-05-25 19:10:20 +0000",
+      "minecraft:drowned": "2025-05-26 07:51:24 +0000",
       "minecraft:zombie_villager": "2025-05-25 19:16:01 +0000"
     },
     "done": false
@@ -6021,6 +6022,7 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-05-26 05:09:47 +0000",
+      "charm_collector_3": "2025-05-26 07:56:59 +0000",
       "charm_collector_2": "2025-05-26 06:36:44 +0000"
     },
     "done": false
@@ -6086,6 +6088,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-26 07:53:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 06:25:13 +0000"
@@ -6125,6 +6133,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-05-26 07:50:50 +0000"
     },
     "done": true
   },
