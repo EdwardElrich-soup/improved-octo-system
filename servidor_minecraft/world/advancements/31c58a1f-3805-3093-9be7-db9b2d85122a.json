@@ -4933,5 +4933,17 @@
     },
     "done": true
   },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-05-26 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-05-26 05:12:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
