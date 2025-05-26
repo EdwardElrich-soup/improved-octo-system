@@ -6279,3 +6279,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 23:13:12.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Far From Perfect]
 [26May2025 23:13:37.794] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
 [26May2025 23:13:37.855] [Worker-Main-8/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[26May2025 23:16:06.092] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:16:06.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 23:17:48.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was doomed to fall
+[26May2025 23:17:48.291] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:599, y:-30, z:148, dim:minecraft:overworld]
+[26May2025 23:17:48.297] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[26May2025 23:20:00.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Who is Cutting Onions?]
+[26May2025 23:21:05.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 23:21:05.973] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
