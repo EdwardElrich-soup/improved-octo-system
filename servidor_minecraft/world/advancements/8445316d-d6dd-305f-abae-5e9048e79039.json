@@ -6006,6 +6006,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-26 07:19:11 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
       "has_item": "2025-05-26 05:35:06 +0000"
@@ -6230,6 +6236,18 @@
     },
     "done": true
   },
+  "rats:rat_trap": {
+    "criteria": {
+      "make_trap": "2025-05-26 07:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-05-26 07:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-26 05:38:07 +0000"
@@ -6320,6 +6338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-05-26 07:22:59 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/nether_bricks/blue/nether_bricks": {
     "criteria": {
       "has_item": "2025-05-26 05:38:07 +0000"
@@ -6353,6 +6377,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-26 05:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-05-26 07:22:59 +0000"
     },
     "done": true
   },
@@ -6428,6 +6458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-26 07:19:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-05-26 05:38:07 +0000"
@@ -6455,6 +6491,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-05-26 07:19:11 +0000"
     },
     "done": true
   },
@@ -6533,6 +6575,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 06:25:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-05-26 07:22:59 +0000"
     },
     "done": true
   },
