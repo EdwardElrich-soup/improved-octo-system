@@ -564,3 +564,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 07:09:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Flawless Crystals]
 [26May2025 07:09:48.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/34706, l='ServerLevel[world]', x=-273.10, y=63.85, z=555.01] died: Honeyed Archer was slain by Dread Hound
 [26May2025 07:10:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Isn't It Iron Pick]
+[26May2025 07:14:48.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Book of Monsters]
+[26May2025 07:15:11.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Would you Like to Know More?]
+[26May2025 07:18:03.137] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36183, l='ServerLevel[world]', x=-256.10, y=-128.08, z=756.86] died, message: 'Unemployed fell out of the world'
+[26May2025 07:18:06.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36181, l='ServerLevel[world]', x=-256.86, y=-128.08, z=756.17] died, message: 'Unemployed fell out of the world'
+[26May2025 07:19:57.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35630, l='ServerLevel[world]', x=-205.70, y=-128.08, z=723.83] died, message: 'Unemployed fell out of the world'
+[26May2025 07:22:26.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35612, l='ServerLevel[world]', x=-179.62, y=-128.08, z=711.21] died, message: 'Unemployed fell out of the world'

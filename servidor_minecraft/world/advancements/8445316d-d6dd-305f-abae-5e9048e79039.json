@@ -1795,7 +1795,9 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-05-26 07:14:21 +0000",
       "minecraft:river": "2025-05-25 02:23:04 +0000",
+      "minecraft:forest": "2025-05-26 07:09:09 +0000",
       "minecraft:ocean": "2025-05-25 19:15:18 +0000",
       "minecraft:flower_forest": "2025-05-25 02:13:57 +0000",
       "minecraft:plains": "2025-05-25 02:06:02 +0000"
@@ -6042,6 +6044,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-05-26 07:09:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet": {
     "criteria": {
       "has_black_wool": "2025-05-26 06:21:51 +0000"
@@ -6132,6 +6140,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-05-26 07:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
@@ -6192,6 +6206,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-26 07:14:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-26 05:38:07 +0000"
@@ -6213,6 +6233,12 @@
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-26 07:10:33 +0000"
     },
     "done": true
   },
@@ -6300,6 +6326,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-26 07:10:26 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/studded_chestplate_from_chainmail": {
+    "criteria": {
+      "has_chain": "2025-05-26 07:10:26 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate/bricks": {
     "criteria": {
       "has_item": "2025-05-26 06:45:02 +0000"
@@ -6384,6 +6422,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-05-26 07:15:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_item": "2025-05-26 05:38:07 +0000"
@@ -6399,6 +6443,12 @@
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-26 07:15:24 +0000"
     },
     "done": true
   },
@@ -6432,9 +6482,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-26 07:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-05-26 07:15:22 +0000"
     },
     "done": true
   },
