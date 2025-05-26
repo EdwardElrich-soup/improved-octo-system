@@ -6889,3 +6889,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 05:58:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Nightmare Fuel]
 [26May2025 05:59:00.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 05:59:00.127] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:02:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 was slain by Zombified Piglin
+[26May2025 06:02:14.730] [Server thread/DEBUG] [tombstone/]: A new grave of the player tacticalMus4sh1 was created at position [x:174, y:60, z:-69, dim:minecraft:the_nether]
+[26May2025 06:02:14.743] [Server thread/INFO] [tombstone/]: The player tacticalMus4sh1 has successfully been saved
+[26May2025 06:04:00.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:04:00.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:09:00.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:09:00.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
