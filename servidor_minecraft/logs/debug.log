@@ -6938,3 +6938,20 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 06:54:00.163] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 06:59:00.106] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26May2025 06:59:00.130] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 07:04:00.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 07:04:00.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 07:05:40.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [What a Deal!]
+[26May2025 07:05:55.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[26May2025 07:05:55.437] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[26May2025 07:05:55.441] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[26May2025 07:06:23.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Funeral Theft]
+[26May2025 07:06:32.989] [Worker-Main-124/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[26May2025 07:08:08.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-193, y=70, z=338} BlockPos{x=-194, y=70, z=338}
+[26May2025 07:08:38.823] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Brooke the Jerk'/34419, l='ServerLevel[world]', x=-166.49, y=66.00, z=337.54] died: Brooke the Jerk was slain by tacticalMus4sh1
+[26May2025 07:08:40.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [He Wasn't So Strong]
+[26May2025 07:09:00.117] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 07:09:00.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 07:09:42.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Flawless Crystals]
+[26May2025 07:09:48.836] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/34706, l='ServerLevel[world]', x=-273.10, y=63.85, z=555.01] died: Honeyed Archer was slain by Dread Hound
+[26May2025 07:10:26.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Isn't It Iron Pick]
+[26May2025 07:11:53.989] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
