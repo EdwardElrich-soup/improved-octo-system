@@ -6902,3 +6902,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 06:19:00.149] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [26May2025 06:21:25.709] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
 [26May2025 06:21:35.389] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[26May2025 06:22:34.006] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[26May2025 06:22:42.216] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[26May2025 06:22:42.374] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[26May2025 06:22:42.526] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[26May2025 06:22:42.720] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[26May2025 06:22:47.690] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[26May2025 06:22:47.701] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[26May2025 06:22:58.143] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[26May2025 06:23:55.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[26May2025 06:24:00.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:24:00.168] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:27:25.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 9.792319934743603,0.24813599859093927,2.296775452841958
+[26May2025 06:28:42.132] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[26May2025 06:29:00.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 06:29:00.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 06:29:07.403] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=371, y=66, z=234}) doesn't have enough leaves around top most log
+[26May2025 06:29:10.547] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=370, y=66, z=233}) doesn't have enough leaves around top most log
+[26May2025 06:29:14.098] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=370, y=66, z=234}) doesn't have enough leaves around top most log
+[26May2025 06:29:15.141] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=370, y=65, z=234}) doesn't have enough leaves around top most log
+[26May2025 06:31:54.045] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=264, y=75, z=235}) doesn't have enough leaves around top most log
+[26May2025 06:31:54.848] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=264, y=74, z=235}) doesn't have enough leaves around top most log
+[26May2025 06:31:55.645] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=264, y=73, z=235}) doesn't have enough leaves around top most log

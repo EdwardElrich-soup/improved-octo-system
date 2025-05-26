@@ -554,3 +554,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 05:58:36.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Nightmare Fuel]
 [26May2025 06:02:14.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 was slain by Zombified Piglin
 [26May2025 06:02:14.743] [Server thread/INFO] [tombstone/]: The player tacticalMus4sh1 has successfully been saved
+[26May2025 06:27:25.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 9.792319934743603,0.24813599859093927,2.296775452841958
