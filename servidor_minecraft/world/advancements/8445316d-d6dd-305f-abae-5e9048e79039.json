@@ -4093,6 +4093,7 @@
       "minecraft:wither_skeleton": "2025-05-26 05:33:49 +0000",
       "minecraft:cave_spider": "2025-05-25 07:26:01 +0000",
       "minecraft:silverfish": "2025-05-25 03:06:24 +0000",
+      "minecraft:enderman": "2025-05-26 06:29:57 +0000",
       "minecraft:vex": "2025-05-25 08:03:20 +0000",
       "minecraft:zombie": "2025-05-25 19:10:20 +0000",
       "minecraft:zombie_villager": "2025-05-25 19:16:01 +0000"
@@ -6009,7 +6010,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_1": "2025-05-26 05:09:47 +0000"
+      "charm_collector_1": "2025-05-26 05:09:47 +0000",
+      "charm_collector_2": "2025-05-26 06:36:44 +0000"
     },
     "done": false
   },
@@ -6088,6 +6090,12 @@
   "minecraft:recipes/redstone/polished_blackstone_button": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 06:25:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ender_upgrade": {
+    "criteria": {
+      "has_pearl": "2025-05-26 06:30:00 +0000"
     },
     "done": true
   },
@@ -6484,6 +6492,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-05-26 05:38:40 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/ruby_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-26 06:30:00 +0000"
     },
     "done": true
   },
