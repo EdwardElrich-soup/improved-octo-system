@@ -6023,7 +6023,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000"
+      "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000",
+      "minecraft:nether_wastes": "2025-05-26 06:47:36 +0000"
     },
     "done": false
   },
@@ -6072,6 +6073,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-05-26 06:25:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/jagged": {
+    "criteria": {
+      "has_planks": "2025-05-26 06:45:02 +0000"
     },
     "done": true
   },
@@ -6153,6 +6160,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/pale": {
+    "criteria": {
+      "has_planks": "2025-05-26 06:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-05-26 06:21:51 +0000"
@@ -6207,6 +6220,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 06:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-05-26 05:38:07 +0000"
@@ -6222,6 +6241,12 @@
   "securitycraft:recipes/misc/reinforced_nether_brick_fence": {
     "criteria": {
       "has_stick": "2025-05-26 05:50:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 06:45:02 +0000"
     },
     "done": true
   },
@@ -6243,6 +6268,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks_from_etched": {
+    "criteria": {
+      "has_item": "2025-05-26 06:45:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-05-26 05:54:15 +0000"
@@ -6261,6 +6292,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate/bricks": {
+    "criteria": {
+      "has_item": "2025-05-26 06:45:02 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/fence": {
     "criteria": {
       "has_item": "2025-05-26 06:25:13 +0000"
@@ -6270,6 +6307,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-26 05:29:01 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/crimson_liquid": {
+    "criteria": {
+      "has_fungus": "2025-05-26 06:42:06 +0000"
     },
     "done": true
   },
@@ -6324,6 +6367,12 @@
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-05-26 06:21:51 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate/wall": {
+    "criteria": {
+      "has_planks": "2025-05-26 06:45:02 +0000"
     },
     "done": true
   },
