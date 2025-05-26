@@ -570,3 +570,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 07:18:06.080] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/36181, l='ServerLevel[world]', x=-256.86, y=-128.08, z=756.17] died, message: 'Unemployed fell out of the world'
 [26May2025 07:19:57.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35630, l='ServerLevel[world]', x=-205.70, y=-128.08, z=723.83] died, message: 'Unemployed fell out of the world'
 [26May2025 07:22:26.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35612, l='ServerLevel[world]', x=-179.62, y=-128.08, z=711.21] died, message: 'Unemployed fell out of the world'
+[26May2025 07:50:50.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Fighting Nightmares]
+[26May2025 07:53:15.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Take Aim]
