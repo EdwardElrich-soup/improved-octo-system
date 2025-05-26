@@ -3747,9 +3747,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-26 05:39:02 +0000",
       "minecraft:skeleton": "2025-05-25 02:29:02 +0000",
       "minecraft:spider": "2025-05-25 02:28:58 +0000",
       "minecraft:creeper": "2025-05-26 00:50:53 +0000",
+      "minecraft:wither_skeleton": "2025-05-26 05:47:36 +0000",
       "minecraft:cave_spider": "2025-05-26 00:54:13 +0000",
       "minecraft:zombie": "2025-05-25 02:56:16 +0000",
       "minecraft:drowned": "2025-05-25 03:20:18 +0000",
@@ -4933,15 +4935,51 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-05-26 05:35:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-26 05:28:58 +0000"
     },
     "done": false
   },
+  "tombstone:recipes/from_grave_key": {
+    "criteria": {
+      "has_ingredient": "2025-05-26 05:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-26 05:42:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-05-26 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-26 05:47:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
     "criteria": {
       "has_wheat": "2025-05-26 05:27:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
     },
     "done": true
   },
@@ -4951,9 +4989,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-26 05:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_wart": "2025-05-26 05:39:03 +0000"
     },
     "done": true
   },
@@ -4963,9 +5025,99 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 05:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-26 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 05:44:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-05-26 05:24:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-26 05:44:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-26 05:38:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-26 05:35:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-05-26 05:29:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2025-05-26 05:42:06 +0000"
     },
     "done": true
   },
@@ -4981,9 +5133,87 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-26 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/marbled_cheese_raw_alt": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/redstone/gear": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-26 05:24:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/elite_energy_upgrade": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-05-26 05:33:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-05-26 05:35:16 +0000"
     },
     "done": true
   },
@@ -4999,9 +5229,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_wart": "2025-05-26 05:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-05-26 05:28:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-26 05:32:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-05-26 05:44:29 +0000"
     },
     "done": true
   },

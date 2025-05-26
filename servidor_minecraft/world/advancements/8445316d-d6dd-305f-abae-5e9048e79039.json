@@ -4084,9 +4084,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:blaze": "2025-05-26 05:38:39 +0000",
       "minecraft:skeleton": "2025-05-25 03:04:05 +0000",
       "minecraft:spider": "2025-05-25 02:50:10 +0000",
       "minecraft:creeper": "2025-05-25 19:29:27 +0000",
+      "minecraft:wither_skeleton": "2025-05-26 05:33:49 +0000",
       "minecraft:cave_spider": "2025-05-25 07:26:01 +0000",
       "minecraft:silverfish": "2025-05-25 03:06:24 +0000",
       "minecraft:vex": "2025-05-25 08:03:20 +0000",
@@ -5997,6 +5999,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-05-26 05:35:06 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-05-26 05:09:47 +0000"
@@ -6009,9 +6017,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000"
+    },
+    "done": false
+  },
+  "netherexp:recipes/ivy/weeping_ivy": {
+    "criteria": {
+      "has_item": "2025-05-26 05:35:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_saddle": "2025-05-26 05:46:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-05-26 05:38:40 +0000"
     },
     "done": true
   },
@@ -6027,9 +6059,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-26 05:45:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-26 05:44:39 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/remedy_upgrade": {
+    "criteria": {
+      "has_wart": "2025-05-26 05:39:11 +0000"
     },
     "done": true
   },
@@ -6039,9 +6089,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/nether_bricks/nether_brick_pillar": {
+    "criteria": {
+      "has_item": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
     },
     "done": true
   },
@@ -6051,15 +6113,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-05-26 05:08:16 +0000"
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-05-26 05:38:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-26 05:35:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/nether_bricks/blue/nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-05-26 05:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-05-26 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-05-26 05:39:11 +0000"
     },
     "done": true
   },
@@ -6072,6 +6188,18 @@
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-26 05:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_item": "2025-05-26 05:38:07 +0000"
     },
     "done": true
   },
@@ -6099,6 +6227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-05-26 05:24:39 +0000"
@@ -6111,6 +6245,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/support_upgrade": {
+    "criteria": {
+      "has_wart": "2025-05-26 05:39:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-05-26 05:29:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-26 05:11:00 +0000"
@@ -6120,6 +6272,30 @@
   "rats:recipes/misc/feathery_wing": {
     "criteria": {
       "has_feather": "2025-05-26 05:25:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-05-26 05:42:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-26 05:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-05-26 05:38:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-05-26 05:38:40 +0000"
     },
     "done": true
   },

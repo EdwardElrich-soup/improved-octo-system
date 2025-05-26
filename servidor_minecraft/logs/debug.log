@@ -6848,3 +6848,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26May2025 05:29:13.849] [Worker-Main-31/DEBUG] [ModernFix/]: Using cached upgraded version of creature_compendium:bastion/netherite_forge
 [26May2025 05:29:18.344] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7142, l='ServerLevel[world]', x=25.00, y=31.00, z=129.00] as it would cause deadlock
 [26May2025 05:29:44.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Nightmare Fuel]
+[26May2025 05:31:39.829] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[26May2025 05:31:43.558] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[26May2025 05:31:44.556] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[26May2025 05:33:49.970] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Arthur the Mythical'/7062, l='ServerLevel[world]', x=47.63, y=62.12, z=13.65] died: Arthur the Mythical was slain by tacticalMus4sh1
+[26May2025 05:34:00.123] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 05:34:00.153] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 05:34:16.691] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7691, l='ServerLevel[world]', x=-60.00, y=31.00, z=239.00] as it would cause deadlock
+[26May2025 05:34:36.611] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7729, l='ServerLevel[world]', x=-51.00, y=31.00, z=-212.00] as it would cause deadlock
+[26May2025 05:35:28.652] [Worker-Main-31/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8004, l='ServerLevel[world]', x=277.00, y=31.00, z=-127.00] as it would cause deadlock
+[26May2025 05:38:08.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [A Terrible Fortress]
+[26May2025 05:38:12.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [A Terrible Fortress]
+[26May2025 05:38:18.190] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8668, l='ServerLevel[world]', x=178.00, y=31.00, z=-259.00] as it would cause deadlock
+[26May2025 05:38:18.191] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/8670, l='ServerLevel[world]', x=179.00, y=31.00, z=-258.00] as it would cause deadlock
+[26May2025 05:38:40.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Into Fire]
+[26May2025 05:39:00.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 05:39:00.215] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 05:42:27.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Epic!]
+[26May2025 05:44:00.146] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 05:44:00.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26May2025 05:44:27.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Strong or Careful]
+[26May2025 05:44:27.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was burnt to a crisp whilst fighting Fortress Keeper
+[26May2025 05:44:27.547] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:156, y:65, z:-61, dim:minecraft:the_nether]
+[26May2025 05:44:27.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Your First Grave]
+[26May2025 05:44:27.550] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[26May2025 05:44:29.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Most Useful Key]
+[26May2025 05:44:40.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [A Fast Comeback]
+[26May2025 05:47:04.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Take Aim]
+[26May2025 05:49:00.150] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26May2025 05:49:00.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
