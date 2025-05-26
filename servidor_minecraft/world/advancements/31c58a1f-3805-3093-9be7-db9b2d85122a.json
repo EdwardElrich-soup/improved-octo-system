@@ -3748,6 +3748,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-25 02:29:02 +0000",
       "minecraft:spider": "2025-05-25 02:28:58 +0000",
+      "minecraft:creeper": "2025-05-26 00:50:53 +0000",
+      "minecraft:cave_spider": "2025-05-26 00:54:13 +0000",
       "minecraft:zombie": "2025-05-25 02:56:16 +0000",
       "minecraft:drowned": "2025-05-25 03:20:18 +0000"
     },
@@ -4305,15 +4307,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/slashblade_bamboo": {
     "criteria": {
       "has_slashblade_wood": "2025-05-26 00:23:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/rapid_slash": {
     "criteria": {
       "customtrigger": "2025-05-26 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4329,9 +4355,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4353,6 +4391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jungle_sign": {
     "criteria": {
       "has_planks": "2025-05-26 00:31:42 +0000"
@@ -4371,6 +4415,18 @@
     },
     "done": true
   },
+  "rats:recipes/misc/purifying_liquid": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/kick_jump": {
     "criteria": {
       "customtrigger": "2025-05-26 00:24:07 +0000"
@@ -4383,9 +4439,33 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/big_bucket_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-26 00:53:20 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ore_doubling_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4410,6 +4490,12 @@
   "slashblade:arts/combo_c": {
     "criteria": {
       "customtrigger": "2025-05-26 00:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4455,6 +4541,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/warrior_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_b": {
     "criteria": {
       "customtrigger": "2025-05-26 00:24:22 +0000"
@@ -4464,6 +4556,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-05-26 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_hammer": {
+    "criteria": {
+      "has_material": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4482,6 +4580,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
@@ -4548,6 +4652,18 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-26 00:53:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-05-26 00:47:45 +0000"
     },
     "done": true
   },
