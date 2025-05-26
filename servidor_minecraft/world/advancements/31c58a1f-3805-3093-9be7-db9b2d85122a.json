@@ -4367,6 +4367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-26 02:01:25 +0000"
+    },
+    "done": true
+  },
   "rediscovered:recipes/decorations/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-05-26 00:31:42 +0000"
@@ -4415,6 +4421,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-05-26 02:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-05-26 01:09:53 +0000"
@@ -4424,6 +4436,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-26 02:01:25 +0000"
     },
     "done": true
   },
@@ -4442,6 +4460,12 @@
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-05-26 01:47:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-05-26 02:01:25 +0000"
     },
     "done": true
   },
@@ -4886,6 +4910,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2025-05-26 00:47:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-05-26 02:01:25 +0000"
     },
     "done": true
   },
