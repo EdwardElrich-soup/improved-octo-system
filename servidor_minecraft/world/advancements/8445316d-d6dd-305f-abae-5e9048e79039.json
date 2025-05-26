@@ -5901,6 +5901,12 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_helmet_from_chainmail": {
+    "criteria": {
+      "has_chain": "2025-05-25 20:02:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-05-25 19:35:55 +0000"

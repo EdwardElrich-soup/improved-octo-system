@@ -3813,93 +3813,9 @@
     },
     "done": true
   },
-  "rats:contaminated_food": {
-    "criteria": {
-      "find_contaminated_food": "2025-05-25 03:03:28 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/find_grave_dust": {
-    "criteria": {
-      "from_undead": "2025-05-25 03:18:06 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
-    "criteria": {
-      "has_saddle": "2025-05-25 02:51:46 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/rat_burger": {
-    "criteria": {
-      "has_bread": "2025-05-25 03:10:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/tools/rat_capture_net": {
-    "criteria": {
-      "has_iron": "2025-05-25 02:51:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_smelting": {
-    "criteria": {
-      "has_rat": "2025-05-25 03:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/first_knowledge": {
-    "criteria": {
-      "coded_trigger": "2025-05-25 02:56:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/throw_trident": {
-    "criteria": {
-      "shot_trident": "2025-05-25 03:00:02 +0000"
     },
     "done": true
   },
@@ -3921,12 +3837,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
@@ -3939,9 +3849,201 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-05-25 02:48:21 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-05-25 02:50:54 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/purple_arrow": {
+    "criteria": {
+      "has_arrow": "2025-05-25 02:50:54 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_capture_net": {
+    "criteria": {
+      "has_iron": "2025-05-25 02:51:03 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/rat_water_bottle": {
     "criteria": {
       "has_iron": "2025-05-25 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-05-25 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_flute": {
+    "criteria": {
+      "has_iron": "2025-05-25 02:51:03 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-05-25 02:51:42 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/basic_mount_upgrade": {
+    "criteria": {
+      "has_saddle": "2025-05-25 02:51:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-25 02:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-25 02:51:49 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-25 02:51:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-25 02:51:56 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-05-25 02:54:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-25 02:56:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/throw_trident": {
+    "criteria": {
+      "shot_trident": "2025-05-25 03:00:02 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/building_blocks/dirt_slab": {
+    "criteria": {
+      "has_item": "2025-05-25 03:00:21 +0000"
+    },
+    "done": true
+  },
+  "rats:plague_doctor": {
+    "criteria": {
+      "meet_doctor": "2025-05-25 03:01:41 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/cooked_rat_smelting": {
+    "criteria": {
+      "has_rat": "2025-05-25 03:03:24 +0000"
     },
     "done": true
   },
@@ -3963,69 +4065,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/food/gold_pile": {
+  "rats:recipes/misc/upgrades/sculked_upgrade": {
     "criteria": {
-      "has_item": "2025-05-25 03:21:27 +0000"
+      "has_paw": "2025-05-25 03:03:24 +0000"
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/health_upgrade": {
+  "rats:recipes/misc/rat_banner_pattern": {
     "criteria": {
-      "has_bread": "2025-05-25 03:10:55 +0000"
+      "has_pelt": "2025-05-25 03:03:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+  "rats:recipes/food/cooked_rat_smoking": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+      "has_rat": "2025-05-25 03:03:24 +0000"
     },
     "done": true
   },
-  "rats:plague_doctor": {
+  "rats:recipes/misc/upgrades/quarry_upgrade": {
     "criteria": {
-      "meet_doctor": "2025-05-25 03:01:41 +0000"
+      "has_paw": "2025-05-25 03:03:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/firework_rocket_simple": {
+  "rats:contaminated_food": {
     "criteria": {
-      "has_gunpowder": "2025-05-25 02:51:49 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-05-25 02:54:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-05-25 02:51:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/crystal_quartz_item": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
-    },
-    "done": true
-  },
-  "rediscovered:recipes/building_blocks/dirt_slab": {
-    "criteria": {
-      "has_item": "2025-05-25 03:00:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
+      "find_contaminated_food": "2025-05-25 03:03:28 +0000"
     },
     "done": true
   },
@@ -4035,69 +4101,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/misc/paper": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+      "has_reeds": "2025-05-25 03:06:24 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_siren": {
-    "criteria": {
-      "killed_fire_dragon": "2025-05-25 03:25:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_ancient_factory": {
-    "criteria": {
-      "factory": "2025-05-25 02:48:21 +0000"
-    },
-    "done": true
-  },
-  "witherstormmod:recipes/food/golden_apple_stew": {
-    "criteria": {
-      "has_cure_ingredient": "2025-05-25 03:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-05-25 03:18:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/prismarine_bricks": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/sculked_upgrade": {
-    "criteria": {
-      "has_paw": "2025-05-25 03:03:24 +0000"
+      "has_sugar_cane": "2025-05-25 03:06:24 +0000"
     },
     "done": true
   },
@@ -4107,9 +4119,21 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/bow_upgrade": {
+  "apotheosis:affix/chests": {
     "criteria": {
-      "has_arrow": "2025-05-25 02:50:54 +0000"
+      "sword": "2025-05-25 03:10:52 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/food/rat_burger": {
+    "criteria": {
+      "has_bread": "2025-05-25 03:10:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/health_upgrade": {
+    "criteria": {
+      "has_bread": "2025-05-25 03:10:55 +0000"
     },
     "done": true
   },
@@ -4119,39 +4143,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine": {
-    "criteria": {
-      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cave_tablet": {
-    "criteria": {
-      "cave_tablet": "2025-05-25 03:21:28 +0000"
-    },
-    "done": true
-  },
   "iceandfire:iceandfire/rotten_egg": {
     "criteria": {
       "bestiary": "2025-05-25 03:12:39 +0000"
     },
     "done": true
   },
-  "apotheosis:affix/chests": {
+  "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
-      "sword": "2025-05-25 03:10:52 +0000"
+      "has_boat": "2025-05-25 03:14:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+  "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+      "has_boat": "2025-05-25 03:14:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate": {
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+      "has_boat": "2025-05-25 03:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-25 03:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-05-25 03:14:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-05-25 03:14:18 +0000"
     },
     "done": true
   },
@@ -4167,87 +4197,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-05-25 03:06:24 +0000"
-    },
-    "done": true
-  },
-  "rediscovered:recipes/combat/purple_arrow": {
-    "criteria": {
-      "has_arrow": "2025-05-25 02:50:54 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_tablet": {
-    "criteria": {
-      "has_magic_tablet": "2025-05-25 02:51:50 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/rat_banner_pattern": {
-    "criteria": {
-      "has_pelt": "2025-05-25 03:03:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-05-25 03:14:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/iron_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-05-25 02:51:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-05-25 03:06:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:affix/boss": {
-    "criteria": {
-      "sword": "2025-05-25 02:51:42 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/food/cooked_rat_smoking": {
-    "criteria": {
-      "has_rat": "2025-05-25 03:03:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
-    "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
     },
     "done": true
   },
@@ -4257,15 +4209,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+  "tombstone:adventure/find_grave_dust": {
     "criteria": {
-      "has_cobbled_deepslate": "2025-05-25 02:47:41 +0000"
+      "from_undead": "2025-05-25 03:18:06 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
+  "witherstormmod:recipes/food/golden_apple_stew": {
     "criteria": {
-      "has_gunpowder": "2025-05-25 02:51:49 +0000"
+      "has_cure_ingredient": "2025-05-25 03:18:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-05-25 03:18:20 +0000"
     },
     "done": true
   },
@@ -4275,21 +4233,321 @@
     },
     "done": true
   },
-  "rats:recipes/misc/upgrades/quarry_upgrade": {
+  "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
-      "has_paw": "2025-05-25 03:03:24 +0000"
+      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "iceandfire:recipes/food/gold_pile": {
     "criteria": {
-      "coded_trigger": "2025-05-25 02:56:27 +0000"
+      "has_item": "2025-05-25 03:21:27 +0000"
     },
     "done": true
   },
-  "rats:recipes/tools/rat_flute": {
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
-      "has_iron": "2025-05-25 02:51:03 +0000"
+      "has_gold_nugget": "2025-05-25 03:21:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-25 03:21:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-25 03:25:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/crystal_quartz_item": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-05-25 03:26:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-05-25 03:26:09 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-05-26 00:31:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:19 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_jungle_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:07 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:39 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_b": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:28:46 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-26 00:28:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-05-26 00:24:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-26 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/decorations/dark_oak_chair": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-05-26 00:31:26 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-26 00:22:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-05-26 00:23:30 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-05-26 00:23:20 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/decorations/dark_oak_table": {
+    "criteria": {
+      "has_dark_oak_planks": "2025-05-26 00:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-26 00:31:42 +0000"
     },
     "done": true
   },
