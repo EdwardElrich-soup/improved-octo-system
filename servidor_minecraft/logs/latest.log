@@ -528,3 +528,19 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 07:44:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Combo C-              ]
 [27May2025 07:44:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Aerial Rave B-       ]
 [27May2025 07:59:16.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -0.0447381529673585,0.0,10.076467418126384
+[27May2025 08:12:07.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Aerial Cleave-       ]
+[27May2025 08:12:08.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Upper Slash-         ]
+[27May2025 08:17:25.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Rapid Slash-         ]
+[27May2025 08:18:03.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Abilities -Enemy Step-           ]
+[27May2025 08:19:47.188] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72985, l='ServerLevel[world]', x=320.90, y=31.00, z=251.00] as it would cause deadlock
+[27May2025 08:19:47.189] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72987, l='ServerLevel[world]', x=323.00, y=31.00, z=253.00] as it would cause deadlock
+[27May2025 08:20:11.577] [Worker-Main-211/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/73300, l='ServerLevel[world]', x=329.00, y=31.00, z=288.90] as it would cause deadlock
+[27May2025 08:20:11.578] [Worker-Main-211/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/73300, l='ServerLevel[world]', x=329.00, y=31.00, z=288.90] as it would cause deadlock
+[27May2025 08:23:08.033] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74154, l='ServerLevel[world]', x=242.00, y=31.00, z=345.00] as it would cause deadlock
+[27May2025 08:24:04.924] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74460, l='ServerLevel[world]', x=455.00, y=31.00, z=398.00] as it would cause deadlock
+[27May2025 08:24:05.229] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74476, l='ServerLevel[world]', x=251.00, y=31.00, z=392.00] as it would cause deadlock
+[27May2025 08:24:05.315] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74485, l='ServerLevel[world]', x=227.00, y=31.00, z=392.00] as it would cause deadlock
+[27May2025 08:24:10.417] [Worker-Main-271/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/74610, l='ServerLevel[world]', x=630.00, y=31.00, z=57.00] as it would cause deadlock
+[27May2025 08:25:36.967] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/75570, l='ServerLevel[world]', x=501.00, y=31.00, z=444.00] as it would cause deadlock
+[27May2025 08:25:37.479] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/75587, l='ServerLevel[world]', x=289.00, y=31.00, z=435.00] as it would cause deadlock
+[27May2025 08:27:17.429] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76167, l='ServerLevel[world]', x=712.00, y=31.00, z=113.00] as it would cause deadlock

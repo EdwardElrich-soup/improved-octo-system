@@ -7428,6 +7428,12 @@
     },
     "done": true
   },
+  "slashblade:arts/rapid_slash": {
+    "criteria": {
+      "customtrigger": "2025-05-27 08:17:25 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/bone_cortical": {
     "criteria": {
       "has_item": "2025-05-27 05:59:35 +0000"
@@ -7455,6 +7461,18 @@
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-05-27 07:12:55 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/strider_mount_upgrade": {
+    "criteria": {
+      "has_cheese": "2025-05-27 08:28:27 +0000"
+    },
+    "done": true
+  },
+  "rats:nether_cheese": {
+    "criteria": {
+      "get_nether_cheese": "2025-05-27 08:28:27 +0000"
     },
     "done": true
   },
@@ -7497,6 +7515,12 @@
   "apotheosis:affix/socket": {
     "criteria": {
       "socket": "2025-05-27 07:06:43 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/upperslash": {
+    "criteria": {
+      "customtrigger": "2025-05-27 08:12:08 +0000"
     },
     "done": true
   },
@@ -7590,6 +7614,12 @@
     },
     "done": true
   },
+  "rats:recipes/building_blocks/nether_cheese_compressed": {
+    "criteria": {
+      "has_cheese": "2025-05-27 08:28:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-05-27 05:50:02 +0000"
@@ -7620,6 +7650,12 @@
     },
     "done": true
   },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-27 08:18:03 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_b": {
     "criteria": {
       "customtrigger": "2025-05-27 07:44:22 +0000"
@@ -7629,6 +7665,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-05-27 07:44:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_cleave": {
+    "criteria": {
+      "customtrigger": "2025-05-27 08:12:07 +0000"
     },
     "done": true
   },
