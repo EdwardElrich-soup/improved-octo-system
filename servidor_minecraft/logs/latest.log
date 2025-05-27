@@ -518,3 +518,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 06:33:22.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Lord Wally the Rough'/38309, l='ServerLevel[world]', x=197.45, y=61.00, z=26.52] died: Lord Wally the Rough was slain by tacticalMus4sh1
 [27May2025 06:40:08.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Mister Esquid the Gorilla Slaughterer'/38698, l='ServerLevel[world]', x=155.70, y=61.05, z=-44.70] died: Mister Esquid the Gorilla Slaughterer was slain by tacticalMus4sh1
 [27May2025 06:43:10.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[27May2025 07:06:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Jeweler]
+[27May2025 07:07:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Dark Blacksmith]
