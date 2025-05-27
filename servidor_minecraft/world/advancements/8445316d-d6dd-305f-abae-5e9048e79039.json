@@ -6153,7 +6153,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000",
-      "minecraft:nether_wastes": "2025-05-26 06:47:36 +0000"
+      "minecraft:nether_wastes": "2025-05-26 06:47:36 +0000",
+      "minecraft:basalt_deltas": "2025-05-27 03:39:02 +0000"
     },
     "done": false
   },
@@ -7237,33 +7238,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
+  "born_in_chaos_v1:double_trouble": {
     "criteria": {
-      "has_brown_wool": "2025-05-27 03:07:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_bed": {
-    "criteria": {
-      "has_brown_wool": "2025-05-27 03:07:31 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_chestplate": {
-    "criteria": {
-      "has_item": "2025-05-27 02:38:52 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_teal_leggings": {
-    "criteria": {
-      "has_item": "2025-05-27 02:38:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+      "double_trouble_0": "2025-05-27 02:26:19 +0000"
     },
     "done": true
   },
@@ -7279,45 +7256,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:good_demoman": {
+  "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
-      "good_demoman_0": "2025-05-27 02:59:57 +0000"
+      "has_item": "2025-05-27 02:38:52 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:double_trouble": {
+  "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
-      "double_trouble_0": "2025-05-27 02:26:19 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:food_fight": {
-    "criteria": {
-      "food_fight_0": "2025-05-27 02:59:43 +0000"
+      "has_item": "2025-05-27 02:38:52 +0000"
     },
     "done": true
   },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-05-27 02:38:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-05-27 03:07:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-05-27 03:07:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/brown_carpet": {
-    "criteria": {
-      "has_brown_wool": "2025-05-27 03:07:31 +0000"
     },
     "done": true
   },
@@ -7339,15 +7292,111 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-05-27 02:38:52 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2025-05-27 02:59:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-05-27 02:59:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
+    },
+    "done": true
+  },
   "rediscovered:recipes/combat/studded_helmet_from_iron": {
     "criteria": {
       "has_item": "2025-05-27 03:23:03 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/sea_serpent_arrow": {
+  "born_in_chaos_v1:horror_underthe_mantle": {
     "criteria": {
-      "has_item": "2025-05-27 02:38:52 +0000"
+      "horror_underthe_mantle_0": "2025-05-27 03:24:32 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/slab": {
+    "criteria": {
+      "has_item": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/stairs": {
+    "criteria": {
+      "has_item": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/basalt/wall": {
+    "criteria": {
+      "has_item": "2025-05-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-05-27 03:52:57 +0000"
     },
     "done": true
   },
