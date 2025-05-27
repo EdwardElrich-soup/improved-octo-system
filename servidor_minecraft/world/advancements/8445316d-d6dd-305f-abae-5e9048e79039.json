@@ -7778,6 +7778,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_wood": {
+    "criteria": {
+      "has_wooden_sword": "2025-05-27 09:52:22 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/food/cooked_rat_smoking": {
     "criteria": {
       "has_rat": "2025-05-27 07:12:55 +0000"
