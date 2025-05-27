@@ -7237,6 +7237,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_bed": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_chestplate": {
     "criteria": {
       "has_item": "2025-05-27 02:38:52 +0000"
@@ -7246,6 +7258,12 @@
   "iceandfire:recipes/combat/tide_teal_leggings": {
     "criteria": {
       "has_item": "2025-05-27 02:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
     },
     "done": true
   },
@@ -7282,6 +7300,24 @@
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-05-27 02:38:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-05-27 03:07:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_carpet": {
+    "criteria": {
+      "has_brown_wool": "2025-05-27 03:07:31 +0000"
     },
     "done": true
   },
