@@ -7235,5 +7235,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-05-27 02:26:19 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
