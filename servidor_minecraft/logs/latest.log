@@ -521,3 +521,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 07:06:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Jeweler]
 [27May2025 07:07:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Dark Blacksmith]
 [27May2025 07:32:03.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Sheila the Angry'/52723, l='ServerLevel[world]', x=247.76, y=68.76, z=76.41] died: Sheila the Angry was slain by tacticalMus4sh1
+[27May2025 07:40:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Anonymity -Wood-]
+[27May2025 07:43:14.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Abilities -Kick Jump-            ]
+[27May2025 07:44:13.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Combo A-              ]
+[27May2025 07:44:17.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[27May2025 07:44:20.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Combo C-              ]
+[27May2025 07:44:22.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Blade Arts -Aerial Rave B-       ]
+[27May2025 07:59:16.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -0.0447381529673585,0.0,10.076467418126384

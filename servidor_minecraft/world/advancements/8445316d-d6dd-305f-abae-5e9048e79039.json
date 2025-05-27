@@ -7416,6 +7416,12 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/slashblade_bamboo": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-05-27 05:56:24 +0000"
@@ -7449,6 +7455,12 @@
   "rats:recipes/food/cooked_rat_smelting": {
     "criteria": {
       "has_rat": "2025-05-27 07:12:55 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/orotiagito_sealed": {
+    "criteria": {
+      "has_proudsoul": "2025-05-27 07:40:40 +0000"
     },
     "done": true
   },
@@ -7524,9 +7536,33 @@
     },
     "done": true
   },
+  "slashblade:abilities/kick_jump": {
+    "criteria": {
+      "customtrigger": "2025-05-27 07:43:14 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/agito": {
+    "criteria": {
+      "has_proudsoul": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
       "has_item": "2025-05-27 05:25:03 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-05-27 07:44:13 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_c": {
+    "criteria": {
+      "customtrigger": "2025-05-27 07:44:20 +0000"
     },
     "done": true
   },
@@ -7572,15 +7608,51 @@
     },
     "done": true
   },
+  "slashblade:recipes/combat/tagayasan": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-27 05:56:52 +0000"
     },
     "done": true
   },
+  "slashblade:arts/aerial_b": {
+    "criteria": {
+      "customtrigger": "2025-05-27 07:44:22 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-05-27 07:44:17 +0000"
+    },
+    "done": true
+  },
+  "slashblade:recipes/combat/slashblade_white": {
+    "criteria": {
+      "has_slashblade_wood": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "slashblade_addon:recipes/combat/fluorescent_bar": {
+    "criteria": {
+      "has_proudsoul": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/ambush": {
     "criteria": {
       "coded_trigger": "2025-05-27 04:49:24 +0000"
+    },
+    "done": true
+  },
+  "slashblade:blade/s_wood": {
+    "criteria": {
+      "crafting": "2025-05-27 07:40:40 +0000"
     },
     "done": true
   },
