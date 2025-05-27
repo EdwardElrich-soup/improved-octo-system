@@ -513,3 +513,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 05:55:21.358] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/32560, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
 [27May2025 05:55:21.359] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/32560, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
 [27May2025 05:56:24.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Fetch Me Their Souls!]
+[27May2025 06:07:39.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Those Were the Days]
