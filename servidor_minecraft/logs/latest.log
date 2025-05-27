@@ -492,3 +492,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 02:38:33.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Sea? Not a Problem]
 [27May2025 02:59:43.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Food Fight]
 [27May2025 02:59:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Good Demoman]
+[27May2025 03:21:13.104] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/15494, l='ServerLevel[world]', x=326.28, y=66.25, z=190.65] died: Honeyed Archer suffocated in a wall
+[27May2025 03:24:32.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Horror Under the Mantle]

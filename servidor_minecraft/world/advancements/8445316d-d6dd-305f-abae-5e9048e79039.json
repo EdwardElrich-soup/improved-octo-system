@@ -7339,6 +7339,12 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_helmet_from_iron": {
+    "criteria": {
+      "has_item": "2025-05-27 03:23:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-05-27 02:38:52 +0000"
