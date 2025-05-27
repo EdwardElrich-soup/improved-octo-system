@@ -6480,3 +6480,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 09:55:34.209] [Worker-Main-337/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
 [27May2025 10:00:20.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 10:00:20.406] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 10:05:20.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 10:05:20.306] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 10:10:20.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 10:10:20.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
