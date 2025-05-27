@@ -3141,6 +3141,7 @@
       "bread": "2025-05-25 07:32:02 +0000",
       "glow_berries": "2025-05-25 19:35:00 +0000",
       "melon_slice": "2025-05-25 08:23:16 +0000",
+      "golden_carrot": "2025-05-27 08:42:27 +0000",
       "carrot": "2025-05-27 02:40:04 +0000"
     },
     "done": false
@@ -4092,6 +4093,7 @@
       "minecraft:blaze": "2025-05-26 05:38:39 +0000",
       "minecraft:pillager": "2025-05-27 04:49:24 +0000",
       "minecraft:skeleton": "2025-05-25 03:04:05 +0000",
+      "minecraft:zoglin": "2025-05-27 08:46:02 +0000",
       "minecraft:hoglin": "2025-05-27 05:25:00 +0000",
       "minecraft:magma_cube": "2025-05-26 05:55:36 +0000",
       "minecraft:spider": "2025-05-25 02:50:10 +0000",
@@ -7542,6 +7544,12 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/carrat_upgrade": {
+    "criteria": {
+      "has_garrot": "2025-05-27 08:42:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
@@ -7608,6 +7616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-27 08:54:40 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/blackstone/twisting": {
     "criteria": {
       "has_item": "2025-05-27 06:09:13 +0000"
@@ -7656,6 +7670,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/phasmo_arrow": {
+    "criteria": {
+      "item": "2025-05-27 08:47:11 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/ssv_sub_biomes": {
     "criteria": {
       "netherexp:black_ice_glaciers": "2025-05-27 08:34:53 +0000"
@@ -7671,6 +7691,12 @@
   "slashblade:arts/aerial_a": {
     "criteria": {
       "customtrigger": "2025-05-27 07:44:17 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/soul_glass": {
+    "criteria": {
+      "item": "2025-05-27 08:47:11 +0000"
     },
     "done": true
   },
