@@ -4095,6 +4095,7 @@
       "minecraft:hoglin": "2025-05-27 05:25:00 +0000",
       "minecraft:magma_cube": "2025-05-26 05:55:36 +0000",
       "minecraft:spider": "2025-05-25 02:50:10 +0000",
+      "minecraft:piglin_brute": "2025-05-27 06:08:48 +0000",
       "minecraft:creeper": "2025-05-25 19:29:27 +0000",
       "minecraft:zombified_piglin": "2025-05-26 05:51:00 +0000",
       "minecraft:wither_skeleton": "2025-05-26 05:33:49 +0000",
@@ -7403,6 +7404,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
       "killed_by": "2025-05-27 05:56:24 +0000"
@@ -7427,6 +7434,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/weeping": {
+    "criteria": {
+      "has_item": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2025-05-27 05:56:52 +0000"
@@ -7445,15 +7464,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-05-27 06:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/bone_blocks/stacked_bones": {
     "criteria": {
       "has_item": "2025-05-27 05:59:35 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/cooked_hogham": {
     "criteria": {
       "has_item": "2025-05-27 05:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
     },
     "done": true
   },
@@ -7466,6 +7515,12 @@
   "netherexp:recipes/bone_blocks/wither/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-27 05:56:52 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/blackstone/twisting": {
+    "criteria": {
+      "has_item": "2025-05-27 06:09:13 +0000"
     },
     "done": true
   },
@@ -7511,9 +7566,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-05-27 06:09:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-05-27 05:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-05-27 06:07:39 +0000"
     },
     "done": true
   },
