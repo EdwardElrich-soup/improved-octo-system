@@ -6156,6 +6156,7 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000",
       "minecraft:nether_wastes": "2025-05-26 06:47:36 +0000",
+      "minecraft:soul_sand_valley": "2025-05-27 05:33:00 +0000",
       "minecraft:basalt_deltas": "2025-05-27 03:39:02 +0000"
     },
     "done": false
@@ -7399,6 +7400,12 @@
   "alexsmobs:alexsmobs/murmur": {
     "criteria": {
       "killed_by": "2025-05-27 03:52:57 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/soul_sand_valley": {
+    "criteria": {
+      "condition": "2025-05-27 05:33:00 +0000"
     },
     "done": true
   },
