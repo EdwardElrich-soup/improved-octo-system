@@ -6425,3 +6425,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 08:27:17.429] [Worker-Main-238/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/76167, l='ServerLevel[world]', x=712.00, y=31.00, z=113.00] as it would cause deadlock
 [27May2025 08:30:20.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 08:30:20.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 08:31:43.624] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77019, l='ServerLevel[world]', x=918.00, y=31.00, z=404.00] as it would cause deadlock
+[27May2025 08:31:43.624] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77019, l='ServerLevel[world]', x=918.00, y=31.00, z=404.00] as it would cause deadlock
+[27May2025 08:32:38.526] [Worker-Main-239/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77263, l='ServerLevel[world]', x=827.00, y=31.00, z=519.00] as it would cause deadlock
+[27May2025 08:32:39.240] [Worker-Main-271/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77296, l='ServerLevel[world]', x=880.90, y=31.00, z=514.00] as it would cause deadlock
+[27May2025 08:32:39.329] [Worker-Main-271/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77301, l='ServerLevel[world]', x=646.00, y=31.00, z=525.00] as it would cause deadlock
+[27May2025 08:33:07.965] [Worker-Main-211/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77447, l='ServerLevel[world]', x=821.00, y=31.00, z=578.00] as it would cause deadlock
+[27May2025 08:34:01.581] [Worker-Main-237/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/77714, l='ServerLevel[world]', x=379.00, y=31.00, z=575.00] as it would cause deadlock
+[27May2025 08:34:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [The Fright Before Xmas]
+[27May2025 08:35:20.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 08:35:20.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 08:40:20.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 08:40:20.316] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

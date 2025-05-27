@@ -7656,6 +7656,12 @@
     },
     "done": true
   },
+  "netherexp:nether/ssv_sub_biomes": {
+    "criteria": {
+      "netherexp:black_ice_glaciers": "2025-05-27 08:34:53 +0000"
+    },
+    "done": true
+  },
   "slashblade:arts/aerial_b": {
     "criteria": {
       "customtrigger": "2025-05-27 07:44:22 +0000"
@@ -7677,6 +7683,12 @@
   "slashblade:recipes/combat/slashblade_white": {
     "criteria": {
       "has_slashblade_wood": "2025-05-27 07:40:40 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/dragon_upgrade": {
+    "criteria": {
+      "has_charge": "2025-05-27 08:30:46 +0000"
     },
     "done": true
   },
