@@ -5274,6 +5274,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-05-26 22:51:14 +0000"
@@ -5283,6 +5295,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-05-26 23:30:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
     },
     "done": true
   },
@@ -5307,6 +5325,12 @@
   "apotheosis:affix/rare_gem": {
     "criteria": {
       "gem": "2025-05-26 23:13:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-05-26 23:42:49 +0000"
     },
     "done": true
   },
@@ -5370,9 +5394,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-26 23:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
     },
     "done": true
   },
@@ -5397,6 +5439,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-05-26 22:51:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-05-26 23:31:44 +0000"
     },
     "done": true
   },
