@@ -498,3 +498,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 04:00:21.128] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3888ms or 77 ticks behind
 [27May2025 04:00:48.520] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12430ms or 248 ticks behind
 [27May2025 04:01:05.638] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2148ms or 42 ticks behind
+[27May2025 04:49:24.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Ambush]
+[27May2025 04:49:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Life turned out to be a comedy]
