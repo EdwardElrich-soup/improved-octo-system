@@ -6397,3 +6397,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 07:59:16.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -0.0447381529673585,0.0,10.076467418126384
 [27May2025 08:00:20.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 08:00:20.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 08:05:20.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 08:05:20.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 08:10:20.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 08:10:20.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
