@@ -520,3 +520,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 06:43:10.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
 [27May2025 07:06:43.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Jeweler]
 [27May2025 07:07:38.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Dark Blacksmith]
+[27May2025 07:32:03.315] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Sheila the Angry'/52723, l='ServerLevel[world]', x=247.76, y=68.76, z=76.41] died: Sheila the Angry was slain by tacticalMus4sh1
