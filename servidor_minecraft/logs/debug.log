@@ -6272,3 +6272,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 04:14:51.867] [Server thread/DEBUG] [mixin/]: Mixing EnchantmentUtilsMixin from taxfreelevels-forge.mixins.json into dev.shadowsoffire.placebo.util.EnchantmentUtils
 [27May2025 04:15:18.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 04:15:18.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:20:18.338] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:20:18.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 04:25:18.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 04:25:18.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
