@@ -7568,6 +7568,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-05-27 09:14:02 +0000"
+    },
+    "done": true
+  },
   "slashblade:abilities/kick_jump": {
     "criteria": {
       "customtrigger": "2025-05-27 07:43:14 +0000"
@@ -7661,6 +7667,12 @@
   "netherexp:recipes/bone_blocks/soul_burning_skull_block": {
     "criteria": {
       "has_item": "2025-05-27 05:56:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-27 09:14:02 +0000"
     },
     "done": true
   },

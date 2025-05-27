@@ -6451,3 +6451,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 09:05:20.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27May2025 09:10:20.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27May2025 09:10:20.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 09:12:30.369] [Worker-Main-237/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84955, l='ServerLevel[world]', x=34.00, y=31.00, z=617.00] as it would cause deadlock
+[27May2025 09:15:20.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 09:15:20.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27May2025 09:15:45.536] [Worker-Main-271/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/85605, l='ServerLevel[world]', x=1.00, y=31.00, z=538.00] as it would cause deadlock
+[27May2025 09:15:58.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[27May2025 09:16:00.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[27May2025 09:19:58.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 9.940399359789694,1.1371331040009238,-0.501985661411311
+[27May2025 09:20:20.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27May2025 09:20:20.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

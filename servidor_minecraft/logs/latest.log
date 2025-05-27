@@ -554,3 +554,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [27May2025 08:34:53.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [The Fright Before Xmas]
 [27May2025 08:46:02.216] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Thompson the President'/78573, l='ServerLevel[world]', x=452.93, y=61.00, z=696.81] died: Thompson the President was slain by tacticalMus4sh1
 [27May2025 08:47:43.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[27May2025 09:12:30.369] [Worker-Main-237/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/84955, l='ServerLevel[world]', x=34.00, y=31.00, z=617.00] as it would cause deadlock
+[27May2025 09:15:45.536] [Worker-Main-271/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/85605, l='ServerLevel[world]', x=1.00, y=31.00, z=538.00] as it would cause deadlock
+[27May2025 09:15:58.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[27May2025 09:16:00.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[27May2025 09:19:58.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 9.940399359789694,1.1371331040009238,-0.501985661411311
