@@ -485,3 +485,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 20:18:11.119] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
 [28May2025 20:18:14.219] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2176ms or 43 ticks behind
 [28May2025 20:18:38.183] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8990ms or 179 ticks behind
+[28May2025 20:38:03.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Duchess Michael Morbius the Honest'/7333, l='ServerLevel[world]', x=61.55, y=48.00, z=38.63] died: Duchess Michael Morbius the Honest was slain by tacticalMus4sh1
+[28May2025 20:44:03.526] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28May2025 20:44:03.529] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28May2025 20:44:03.534] [Worker-Main-34/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[28May2025 20:44:21.688] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 20:44:53.839] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9698, l='ServerLevel[world]', x=-426.00, y=93.00, z=-55.00] as it would cause deadlock
+[28May2025 20:44:57.073] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9768, l='ServerLevel[world]', x=-447.10, y=31.00, z=100.00] as it would cause deadlock
+[28May2025 20:46:43.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Rattling Remnants]
+[28May2025 20:54:30.265] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Brandy the Feeble'/11220, l='ServerLevel[world]', x=-281.38, y=82.00, z=-148.39] died: Brandy the Feeble was slain by tacticalMus4sh1
+[28May2025 20:54:53.028] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11490, l='ServerLevel[world]', x=-511.10, y=31.00, z=-342.00] as it would cause deadlock
+[28May2025 20:54:53.029] [Worker-Main-36/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11492, l='ServerLevel[world]', x=-510.00, y=31.00, z=-343.00] as it would cause deadlock
+[28May2025 20:54:56.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Non-renewable? Yeah, right..]
+[28May2025 20:55:05.978] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/11538, l='ServerLevel[world]', x=-372.00, y=31.00, z=-381.00] as it would cause deadlock
+[28May2025 20:55:08.167] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Withering Archer'/11413, l='ServerLevel[world]', x=-327.27, y=95.00, z=-182.17] died: Withering Archer was slain by tacticalMus4sh1
+[28May2025 21:00:38.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[28May2025 21:00:38.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[28May2025 21:02:00.926] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:49139] logged in with entity id 12524 at (-318.3847244300121, 26.30983830443239, -294.9255472427632)
+[28May2025 21:02:00.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[28May2025 21:02:01.012] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[28May2025 21:02:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Creative Mode
+[28May2025 21:03:58.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Survival Mode

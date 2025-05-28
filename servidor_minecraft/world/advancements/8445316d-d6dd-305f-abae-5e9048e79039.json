@@ -7815,5 +7815,23 @@
     },
     "done": true
   },
+  "netherexp:nether/rattling_remnants": {
+    "criteria": {
+      "structure": "2025-05-28 20:46:43 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-05-28 20:48:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/non_renewable_yeah_right": {
+    "criteria": {
+      "killed_entity": "2025-05-28 20:54:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
