@@ -6843,3 +6843,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:02:38.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28May2025 21:02:38.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28May2025 21:03:58.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Survival Mode
+[28May2025 21:06:22.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Calvin the Funky'/13195, l='ServerLevel[world]', x=-318.94, y=88.00, z=-220.50] died: Calvin the Funky was slain by tacticalMus4sh1
+[28May2025 21:07:38.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:07:38.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:12:38.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:12:38.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:12:51.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Withering Archer'/15060, l='ServerLevel[world]', x=-166.64, y=55.00, z=-157.10] died: Withering Archer was slain by tacticalMus4sh1
+[28May2025 21:17:38.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:17:38.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:22:05.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sir Habon the Ogre Slayer'/18296, l='ServerLevel[world]', x=9.84, y=14.00, z=-129.06] died: Sir Habon the Ogre Slayer was shot by tacticalMus4sh1
+[28May2025 21:22:38.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:22:38.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

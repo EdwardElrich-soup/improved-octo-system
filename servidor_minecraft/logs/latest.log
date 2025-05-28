@@ -506,3 +506,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:02:01.012] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
 [28May2025 21:02:02.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Creative Mode
 [28May2025 21:03:58.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Survival Mode
+[28May2025 21:06:22.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Calvin the Funky'/13195, l='ServerLevel[world]', x=-318.94, y=88.00, z=-220.50] died: Calvin the Funky was slain by tacticalMus4sh1
+[28May2025 21:12:51.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Withering Archer'/15060, l='ServerLevel[world]', x=-166.64, y=55.00, z=-157.10] died: Withering Archer was slain by tacticalMus4sh1
+[28May2025 21:22:05.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sir Habon the Ogre Slayer'/18296, l='ServerLevel[world]', x=9.84, y=14.00, z=-129.06] died: Sir Habon the Ogre Slayer was shot by tacticalMus4sh1
