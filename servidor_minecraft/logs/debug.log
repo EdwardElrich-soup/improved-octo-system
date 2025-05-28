@@ -6866,3 +6866,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:44:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [EMF-Raider]
 [28May2025 21:44:56.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
 [28May2025 21:45:22.288] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/24873, l='ServerLevel[world]', x=-513.00, y=31.00, z=351.00] as it would cause deadlock
+[28May2025 21:47:40.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:47:40.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:48:03.726] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Chicbroena the Crying'/24900, l='ServerLevel[world]', x=-380.70, y=78.20, z=211.30] died: Chicbroena the Crying was slain by tacticalMus4sh1
+[28May2025 21:52:40.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:52:40.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:52:41.298] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26005, l='ServerLevel[world]', x=-711.00, y=31.00, z=17.00] as it would cause deadlock
+[28May2025 21:53:54.082] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26445, l='ServerLevel[world]', x=-741.00, y=31.00, z=212.00] as it would cause deadlock
+[28May2025 21:53:54.085] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26447, l='ServerLevel[world]', x=-744.00, y=31.00, z=211.00] as it would cause deadlock

@@ -7833,9 +7833,69 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_tiles/indented": {
+    "criteria": {
+      "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-28 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/slab": {
+    "criteria": {
+      "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-05-28 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/enter_soul_glass": {
+    "criteria": {
+      "condition": "2025-05-28 21:43:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-28 21:50:11 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/wall": {
+    "criteria": {
+      "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_tiles/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
       "has_item": "2025-05-28 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/emf_raider": {
+    "criteria": {
+      "has_item": "2025-05-28 21:44:56 +0000"
     },
     "done": true
   },
