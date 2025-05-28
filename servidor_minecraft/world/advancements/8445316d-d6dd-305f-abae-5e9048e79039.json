@@ -8086,5 +8086,11 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-05-28 23:38:14 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

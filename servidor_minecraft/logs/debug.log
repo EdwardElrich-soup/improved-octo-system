@@ -6260,3 +6260,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 23:34:22.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [28May2025 23:36:45.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28May2025 23:36:45.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 23:41:45.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 23:41:45.296] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 23:42:10.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Chancellor Stephanie the Bishop'/6303, l='ServerLevel[world]', x=-1072.65, y=49.00, z=-276.92] died: Chancellor Stephanie the Bishop was slain by tacticalMus4sh1
+[28May2025 23:42:43.072] [Worker-Main-12/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6872, l='ServerLevel[world]', x=-1151.10, y=31.00, z=-79.00] as it would cause deadlock
+[28May2025 23:46:12.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 23:46:45.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 23:46:45.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 23:48:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Straddle My Ol' Saddle]
