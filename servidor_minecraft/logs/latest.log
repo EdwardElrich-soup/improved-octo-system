@@ -509,3 +509,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:06:22.135] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Calvin the Funky'/13195, l='ServerLevel[world]', x=-318.94, y=88.00, z=-220.50] died: Calvin the Funky was slain by tacticalMus4sh1
 [28May2025 21:12:51.623] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Withering Archer'/15060, l='ServerLevel[world]', x=-166.64, y=55.00, z=-157.10] died: Withering Archer was slain by tacticalMus4sh1
 [28May2025 21:22:05.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sir Habon the Ogre Slayer'/18296, l='ServerLevel[world]', x=9.84, y=14.00, z=-129.06] died: Sir Habon the Ogre Slayer was shot by tacticalMus4sh1
+[28May2025 21:43:48.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Phasmophobic]
+[28May2025 21:44:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [EMF-Raider]
+[28May2025 21:44:56.474] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[28May2025 21:45:22.288] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/24873, l='ServerLevel[world]', x=-513.00, y=31.00, z=351.00] as it would cause deadlock
