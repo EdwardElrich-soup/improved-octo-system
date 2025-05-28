@@ -490,3 +490,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 23:23:13.432] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [28May2025 23:23:42.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Caduceus]
 [28May2025 23:28:54.661] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 23:34:22.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
