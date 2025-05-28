@@ -7852,6 +7852,18 @@
     },
     "done": true
   },
+  "netherexp:nether/eldritch_manipulation": {
+    "criteria": {
+      "used_item": "2025-05-28 22:34:28 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ancient_wax/burning_wither_skull": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/cracked": {
     "criteria": {
       "has_planks": "2025-05-28 22:11:37 +0000"
@@ -7876,6 +7888,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/ancient_wax/block": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-05-28 21:50:11 +0000"
@@ -7885,6 +7903,12 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-05-28 22:08:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ancient_wax/lantern": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
     },
     "done": true
   },
@@ -7918,9 +7942,33 @@
     },
     "done": true
   },
+  "netherexp:recipes/ancient_wax/candle": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ancient_wax/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ancient_wax/torch": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/indented": {
     "criteria": {
       "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-05-28 22:34:05 +0000"
     },
     "done": true
   },
@@ -7933,6 +7981,12 @@
   "netherexp:recipes/soul_slate_bricks/pillar": {
     "criteria": {
       "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-28 22:35:46 +0000"
     },
     "done": true
   },
@@ -7954,15 +8008,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-05-28 22:35:46 +0000"
+    },
+    "done": false
+  },
   "netherexp:nether/hp_minecraftian": {
     "criteria": {
       "has_item": "2025-05-28 22:26:35 +0000"
     },
     "done": true
   },
+  "netherexp:recipes/ancient_wax/campfire": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_bricks/stairs": {
     "criteria": {
       "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/ancient_wax/burning_skull": {
+    "criteria": {
+      "has_item": "2025-05-28 22:35:44 +0000"
     },
     "done": true
   },
@@ -7975,6 +8047,12 @@
   "netherexp:recipes/soul_slate_bricks/wall": {
     "criteria": {
       "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-05-28 22:34:05 +0000"
     },
     "done": true
   },
