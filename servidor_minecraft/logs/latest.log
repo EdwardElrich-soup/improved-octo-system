@@ -546,3 +546,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 22:10:37.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Castlemania]
 [28May2025 22:14:07.868] [Worker-Main-98/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31046, l='ServerLevel[world]', x=-1732.00, y=31.00, z=-636.00] as it would cause deadlock
 [28May2025 22:14:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Rekindled Betrayal]
+[28May2025 22:26:35.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [H.P Minecraftian]

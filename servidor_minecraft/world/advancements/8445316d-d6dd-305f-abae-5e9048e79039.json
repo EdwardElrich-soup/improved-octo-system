@@ -7870,6 +7870,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/banshee_powder": {
+    "criteria": {
+      "item": "2025-05-28 22:15:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/protecto": {
     "criteria": {
       "has_ender_eye": "2025-05-28 21:50:11 +0000"
@@ -7930,6 +7936,12 @@
     },
     "done": true
   },
+  "netherexp:nether/rekindled_betrayal": {
+    "criteria": {
+      "used_item": "2025-05-28 22:14:39 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/stairs": {
     "criteria": {
       "has_planks": "2025-05-28 21:44:20 +0000"
@@ -7939,6 +7951,12 @@
   "netherexp:recipes/misc/soul_soil_layer": {
     "criteria": {
       "has_item": "2025-05-28 21:12:18 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/hp_minecraftian": {
+    "criteria": {
+      "has_item": "2025-05-28 22:26:35 +0000"
     },
     "done": true
   },
