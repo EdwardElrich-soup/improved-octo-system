@@ -6854,3 +6854,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:22:05.320] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zoglin['Sir Habon the Ogre Slayer'/18296, l='ServerLevel[world]', x=9.84, y=14.00, z=-129.06] died: Sir Habon the Ogre Slayer was shot by tacticalMus4sh1
 [28May2025 21:22:38.740] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28May2025 21:22:38.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:27:38.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:27:38.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 21:32:38.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:32:38.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
