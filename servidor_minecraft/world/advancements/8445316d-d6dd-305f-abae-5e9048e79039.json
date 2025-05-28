@@ -6161,9 +6161,10 @@
       "minecraft:crimson_forest": "2025-05-26 05:29:02 +0000",
       "minecraft:nether_wastes": "2025-05-26 06:47:36 +0000",
       "minecraft:soul_sand_valley": "2025-05-27 05:33:00 +0000",
-      "minecraft:basalt_deltas": "2025-05-27 03:39:02 +0000"
+      "minecraft:basalt_deltas": "2025-05-27 03:39:02 +0000",
+      "minecraft:warped_forest": "2025-05-28 22:07:22 +0000"
     },
-    "done": false
+    "done": true
   },
   "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
@@ -7851,9 +7852,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/cracked": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/slab": {
     "criteria": {
       "has_planks": "2025-05-28 21:44:20 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/slab": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
     },
     "done": true
   },
@@ -7863,9 +7876,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-28 22:08:06 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/enter_soul_glass": {
     "criteria": {
       "condition": "2025-05-28 21:43:48 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/chiseled": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "netherexp:nether/occult_manor": {
+    "criteria": {
+      "structure": "2025-05-28 22:10:37 +0000"
     },
     "done": true
   },
@@ -7881,6 +7912,24 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/indented": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-28 22:08:06 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/pillar": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/soul_slate_tiles/stairs": {
     "criteria": {
       "has_planks": "2025-05-28 21:44:20 +0000"
@@ -7893,9 +7942,21 @@
     },
     "done": true
   },
+  "netherexp:recipes/soul_slate_bricks/stairs": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/emf_raider": {
     "criteria": {
       "has_item": "2025-05-28 21:44:56 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/soul_slate_bricks/wall": {
+    "criteria": {
+      "has_planks": "2025-05-28 22:11:37 +0000"
     },
     "done": true
   },

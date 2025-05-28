@@ -6874,3 +6874,55 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [28May2025 21:52:41.298] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26005, l='ServerLevel[world]', x=-711.00, y=31.00, z=17.00] as it would cause deadlock
 [28May2025 21:53:54.082] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26445, l='ServerLevel[world]', x=-741.00, y=31.00, z=212.00] as it would cause deadlock
 [28May2025 21:53:54.085] [Worker-Main-34/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26447, l='ServerLevel[world]', x=-744.00, y=31.00, z=211.00] as it would cause deadlock
+[28May2025 21:57:40.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 21:57:40.922] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 22:02:40.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 22:02:40.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 22:04:43.006] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Sir Jenbingtoast the Ultimate'/28988, l='ServerLevel[world]', x=-1216.65, y=103.00, z=-488.65] died: Sir Jenbingtoast the Ultimate was slain by tacticalMus4sh1
+[28May2025 22:07:03.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 22:07:06.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 22:07:10.685] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 22:07:22.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Hot Tourist Destinations]
+[28May2025 22:07:40.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 22:07:40.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 22:08:03.236] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=78, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:05.684] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=79, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:06.489] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=80, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:07.282] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=81, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:08.382] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=82, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:09.373] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=83, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:11.087] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1347, y=77, z=-367}) doesn't have enough leaves around top most log
+[28May2025 22:08:12.691] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:13.652] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:14.806] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1351, y=78, z=-373}) doesn't have enough leaves around top most log
+[28May2025 22:08:16.036] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:16.796] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:17.617] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:18.393] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[28May2025 22:08:20.187] [Server thread/DEBUG] [fr.rakambda.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=-1351, y=77, z=-373}) doesn't have enough leaves around top most log
+[28May2025 22:08:44.184] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/29951, l='ServerLevel[world]', x=-1582.00, y=31.00, z=-315.00] as it would cause deadlock
+[28May2025 22:08:58.322] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-152}
+[28May2025 22:08:58.330] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-146}
+[28May2025 22:08:58.333] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-152}
+[28May2025 22:08:58.333] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-152}
+[28May2025 22:08:58.335] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-146}
+[28May2025 22:08:58.335] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-146}
+[28May2025 22:09:08.541] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 22:09:16.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[28May2025 22:09:41.325] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-152}
+[28May2025 22:09:41.328] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-152}
+[28May2025 22:09:41.330] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-152}
+[28May2025 22:09:42.102] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-146}
+[28May2025 22:09:42.104] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-146}
+[28May2025 22:09:42.104] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-146}
+[28May2025 22:09:42.219] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-152}
+[28May2025 22:09:42.220] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-152}
+[28May2025 22:09:42.220] [Worker-Main-98/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-152}
+[28May2025 22:09:42.317] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=158, y=-35, z=-146}
+[28May2025 22:09:42.318] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=162, y=-35, z=-146}
+[28May2025 22:09:42.319] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=160, y=-35, z=-146}
+[28May2025 22:10:37.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Castlemania]
+[28May2025 22:12:40.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28May2025 22:12:40.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28May2025 22:14:07.868] [Worker-Main-98/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31046, l='ServerLevel[world]', x=-1732.00, y=31.00, z=-636.00] as it would cause deadlock
+[28May2025 22:14:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Rekindled Betrayal]
