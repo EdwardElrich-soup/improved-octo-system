@@ -7888,6 +7888,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/netherite/netherite_plating": {
+    "criteria": {
+      "has_item": "2025-05-28 22:39:57 +0000"
+    },
+    "done": true
+  },
   "netherexp:recipes/ancient_wax/block": {
     "criteria": {
       "has_item": "2025-05-28 22:35:44 +0000"
