@@ -2111,6 +2111,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/flower_banner_pattern": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-29 05:59:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 05:49:22 +0000"
@@ -2300,6 +2306,12 @@
   "rats:recipes/misc/upgrades/health_upgrade": {
     "criteria": {
       "has_bread": "2025-05-29 04:40:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-05-29 06:00:55 +0000"
     },
     "done": true
   },
@@ -2891,6 +2903,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-29 06:00:25 +0000"
+    },
+    "done": true
+  },
   "justhammers:recipes/tools/iron_hammer": {
     "criteria": {
       "has_material": "2025-05-29 05:49:22 +0000"
@@ -3023,6 +3041,12 @@
       "minecraft:plains": "2025-05-29 04:35:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
+    "criteria": {
+      "has_oxeye_daisy": "2025-05-29 05:59:43 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {

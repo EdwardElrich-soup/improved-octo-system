@@ -8078,3 +8078,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 05:49:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Acquire Hardware]
 [29May2025 05:53:06.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 05:53:06.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 05:58:06.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 05:58:06.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 06:00:11.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [A Seedy Place]
+[29May2025 06:00:57.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Parrots and the Bats]
+[29May2025 06:03:06.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 06:03:06.915] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 06:03:50.123] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
+[29May2025 06:03:50.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
