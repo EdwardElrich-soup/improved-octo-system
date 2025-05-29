@@ -1186,3 +1186,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 05:28:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Cover Me with Diamonds]
 [29May2025 05:28:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Diamonds!]
 [29May2025 05:29:57.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[29May2025 05:43:31.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Ambush]
+[29May2025 05:44:59.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Ol' Betsy]
+[29May2025 05:49:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Acquire Hardware]
