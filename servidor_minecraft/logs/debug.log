@@ -8048,3 +8048,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 05:03:06.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29May2025 05:03:34.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Stone Age]
 [29May2025 05:05:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Bone Crusher]
+[29May2025 05:08:06.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 05:08:07.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 05:13:06.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 05:13:06.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -1835,6 +1835,18 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-29 04:56:04 +0000"
@@ -1862,6 +1874,12 @@
   "securitycraft:recipes/redstone/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-29 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -1895,6 +1913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-05-29 04:56:04 +0000"
@@ -1916,6 +1940,18 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-29 04:56:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -1958,6 +1994,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-29 04:53:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -2009,6 +2051,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/health_upgrade": {
     "criteria": {
       "has_bread": "2025-05-29 04:40:54 +0000"
@@ -2045,6 +2093,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/building_blocks/rat_quarry": {
     "criteria": {
       "has_table": "2025-05-29 04:54:38 +0000"
@@ -2066,6 +2120,12 @@
   "securitycraft:recipes/misc/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-29 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -2099,9 +2159,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-29 04:53:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -2114,6 +2186,24 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-29 04:54:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -2132,6 +2222,12 @@
   "rats:recipes/tools/radius_stick": {
     "criteria": {
       "has_stick": "2025-05-29 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/redstone/laser_block": {
+    "criteria": {
+      "has_stone": "2025-05-29 05:03:34 +0000"
     },
     "done": true
   },
@@ -2261,12 +2357,30 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:flower_forest": "2025-05-29 04:43:13 +0000",
       "minecraft:plains": "2025-05-29 04:35:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
@@ -2279,6 +2393,12 @@
       "bread": "2025-05-29 04:46:33 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
   },
   "rats:recipes/tools/patrol_stick": {
     "criteria": {
