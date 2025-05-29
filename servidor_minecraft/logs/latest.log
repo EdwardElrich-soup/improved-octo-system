@@ -1183,3 +1183,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 05:21:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte drowned
 [29May2025 05:21:31.359] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
 [29May2025 05:24:41.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
+[29May2025 05:28:34.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Cover Me with Diamonds]
+[29May2025 05:28:34.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Diamonds!]
+[29May2025 05:29:57.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
