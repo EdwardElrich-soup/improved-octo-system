@@ -8052,3 +8052,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 05:08:07.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29May2025 05:13:06.925] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29May2025 05:13:06.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 05:18:07.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 05:18:07.068] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 05:21:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte drowned
+[29May2025 05:21:31.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:449, y:7, z:349, dim:minecraft:overworld]
+[29May2025 05:21:31.359] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[29May2025 05:23:06.970] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 05:23:07.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 05:24:41.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!

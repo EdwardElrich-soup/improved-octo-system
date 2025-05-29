@@ -1180,3 +1180,6 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [29May2025 04:54:59.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Getting an Upgrade]
 [29May2025 05:03:34.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Stone Age]
 [29May2025 05:05:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Bone Crusher]
+[29May2025 05:21:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte drowned
+[29May2025 05:21:31.359] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[29May2025 05:24:41.090] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
