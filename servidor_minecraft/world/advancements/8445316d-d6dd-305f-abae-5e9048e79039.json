@@ -8080,6 +8080,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-05-28 23:48:01 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/the_caduceus": {
     "criteria": {
       "c1": "2025-05-28 23:23:42 +0000"
