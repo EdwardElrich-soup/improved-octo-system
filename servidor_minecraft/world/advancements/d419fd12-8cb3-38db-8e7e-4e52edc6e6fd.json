@@ -2693,6 +2693,12 @@
     },
     "done": true
   },
+  "rats:recipes/food/assorted_vegetables": {
+    "criteria": {
+      "has_a_veggie": "2025-05-29 06:12:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-05-29 04:54:57 +0000"
@@ -2972,6 +2978,12 @@
   "securitycraft:recipes/redstone/reinforced_mangrove_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-29 04:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-29 06:12:27 +0000"
     },
     "done": true
   },
