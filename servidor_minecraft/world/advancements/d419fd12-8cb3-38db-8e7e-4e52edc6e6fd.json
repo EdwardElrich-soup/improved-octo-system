@@ -2009,6 +2009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-05-29 05:28:34 +0000"
@@ -2042,6 +2048,12 @@
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-29 05:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
     },
     "done": true
   },
@@ -2297,6 +2309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 05:49:22 +0000"
@@ -2504,6 +2522,12 @@
   "securitycraft:recipes/tools/universal_block_remover": {
     "criteria": {
       "has_iron": "2025-05-29 05:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
     },
     "done": true
   },
@@ -2765,6 +2789,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/lumberjack_upgrade": {
     "criteria": {
       "has_sapling": "2025-05-29 04:53:56 +0000"
@@ -2801,9 +2831,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/decorations/copper_pile": {
     "criteria": {
       "has_item": "2025-05-29 05:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
     },
     "done": true
   },
@@ -2876,6 +2918,12 @@
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 05:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
     },
     "done": true
   },
@@ -3074,7 +3122,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-05-29 04:46:33 +0000"
+      "bread": "2025-05-29 04:46:33 +0000",
+      "carrot": "2025-05-29 06:14:35 +0000"
     },
     "done": false
   },
@@ -3123,6 +3172,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-29 05:49:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-29 06:14:44 +0000"
     },
     "done": true
   },
