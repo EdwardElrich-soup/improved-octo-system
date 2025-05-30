@@ -510,3 +510,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 04:19:24.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
 [30May2025 04:19:40.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55e5d925[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:59613) lost connection: Disconnected
 [30May2025 04:20:43.464] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fc39876[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:34789) lost connection: Disconnected
+[30May2025 04:20:54.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:51919] logged in with entity id 17917 at (205.5, 62.0, 273.5)
+[30May2025 04:20:54.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 04:20:54.316] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 04:21:11.871] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 moved too quickly! 6.578614701361317,-2.0,7.357467794856291
+[30May2025 04:21:13.132] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[30May2025 04:21:24.301] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 04:21:24.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 04:21:39.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:43537] logged in with entity id 18299 at (234.59999829566382, 65.0, 286.9669364248542)
+[30May2025 04:21:39.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 04:21:39.514] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 04:29:53.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Apothic Affixes]
