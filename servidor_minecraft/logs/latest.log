@@ -495,3 +495,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 17:16:46.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
 [30May2025 17:16:47.091] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
 [30May2025 17:20:08.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [A Seedy Place]
+[30May2025 17:23:48.216] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[30May2025 17:27:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Knowledge of Death]
+[30May2025 17:27:13.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Ashes 'n Bones]
+[30May2025 17:29:14.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte withered away
+[30May2025 17:29:14.260] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[30May2025 17:32:03.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 17:32:03.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 17:32:39.581] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@17e4b3b5[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:44357) lost connection: Disconnected
+[30May2025 17:33:00.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:38613] logged in with entity id 5731 at (216.1073164231672, 68.0, 275.23678561831673)
+[30May2025 17:33:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 17:33:00.302] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
