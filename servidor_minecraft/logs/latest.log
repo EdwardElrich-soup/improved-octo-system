@@ -498,3 +498,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:43:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
 [30May2025 03:43:43.086] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
 [30May2025 03:44:31.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Captured!]
+[30May2025 04:16:01.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 04:16:01.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 04:17:00.350] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@400f3e05[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:45331) lost connection: Disconnected
+[30May2025 04:17:46.550] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2a1c0e63[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:36367) lost connection: Disconnected
+[30May2025 04:18:02.971] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:58575] logged in with entity id 16894 at (205.5, 62.0, 273.5)
+[30May2025 04:18:03.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 04:18:03.113] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 04:19:03.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 04:19:03.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 04:19:24.062] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[30May2025 04:19:40.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@55e5d925[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:59613) lost connection: Disconnected
+[30May2025 04:20:43.464] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1fc39876[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:34789) lost connection: Disconnected
