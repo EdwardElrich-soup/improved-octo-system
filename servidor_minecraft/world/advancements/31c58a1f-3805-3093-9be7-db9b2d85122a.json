@@ -3757,6 +3757,7 @@
       "minecraft:creeper": "2025-05-26 00:50:53 +0000",
       "minecraft:slime": "2025-05-30 03:45:04 +0000",
       "minecraft:wither_skeleton": "2025-05-26 05:47:36 +0000",
+      "minecraft:husk": "2025-05-30 17:47:59 +0000",
       "minecraft:cave_spider": "2025-05-26 00:54:13 +0000",
       "minecraft:silverfish": "2025-05-26 23:00:13 +0000",
       "minecraft:enderman": "2025-05-30 03:46:53 +0000",
@@ -6259,6 +6260,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-05-30 17:26:38 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/studded_helmet_from_chainmail": {
+    "criteria": {
+      "has_chain": "2025-05-30 17:48:19 +0000"
     },
     "done": true
   },

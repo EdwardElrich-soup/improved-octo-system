@@ -506,3 +506,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 17:33:00.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:38613] logged in with entity id 5731 at (216.1073164231672, 68.0, 275.23678561831673)
 [30May2025 17:33:00.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
 [30May2025 17:33:00.302] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 17:36:02.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte withered away whilst fighting Lifestealer
+[30May2025 17:36:02.631] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[30May2025 17:37:30.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 17:37:30.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 17:37:49.886] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:39583] logged in with entity id 6664 at (239.38420296563226, 64.0, 315.85009915313793)
+[30May2025 17:37:49.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 17:37:49.996] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 17:40:35.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 17:40:35.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 17:40:48.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:33339] logged in with entity id 7971 at (240.70988344121525, 65.0, 285.4465763461594)
+[30May2025 17:40:48.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 17:40:48.281] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 17:42:33.479] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 17:42:33.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 17:43:09.398] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:46321] logged in with entity id 8432 at (354.59161593854816, 65.0, 244.9927313649781)
+[30May2025 17:43:09.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 17:43:09.493] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 17:44:45.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Isn't It Iron Pick]
+[30May2025 17:46:09.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 17:46:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 17:46:36.143] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:33849] logged in with entity id 9259 at (380.71789676855064, 71.0, 227.6903160593837)
+[30May2025 17:46:36.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 17:46:36.218] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 17:47:59.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Manny the Dirt Digger'/9311, l='ServerLevel[world]', x=363.48, y=70.00, z=92.92] died: Manny the Dirt Digger was slain by MarcoDelNorte
+[30May2025 17:48:50.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has reached the goal [Strong or Careful]
+[30May2025 17:48:50.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Nightmare Stalker
+[30May2025 17:48:50.500] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[30May2025 17:50:57.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Door Knight
+[30May2025 17:50:57.400] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
