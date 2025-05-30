@@ -495,3 +495,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 02:28:31.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8262ms or 165 ticks behind
 [30May2025 02:38:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Bulldrogioth
 [30May2025 02:38:51.387] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[30May2025 02:51:51.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Timed out
+[30May2025 02:51:51.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[30May2025 02:52:20.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:52945] logged in with entity id 7232 at (407.3748381026573, 34.0, 298.7156126966075)
+[30May2025 02:52:20.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[30May2025 02:52:20.453] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[30May2025 02:53:05.524] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Timed out
+[30May2025 02:53:05.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[30May2025 02:53:05.578] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
