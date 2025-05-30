@@ -5732,5 +5732,41 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/aquatic_upgrade": {
+    "criteria": {
+      "has_feesh": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/fish_barrel": {
+    "criteria": {
+      "has_fish": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/fisherman_upgrade": {
+    "criteria": {
+      "has_fish": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-05-30 02:40:50 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

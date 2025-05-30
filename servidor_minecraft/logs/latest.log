@@ -493,3 +493,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 02:28:05.499] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
 [30May2025 02:28:08.580] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2233ms or 44 ticks behind
 [30May2025 02:28:31.809] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8262ms or 165 ticks behind
+[30May2025 02:38:51.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Bulldrogioth
+[30May2025 02:38:51.387] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
