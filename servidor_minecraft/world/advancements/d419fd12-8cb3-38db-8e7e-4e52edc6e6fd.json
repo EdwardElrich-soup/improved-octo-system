@@ -3205,5 +3205,83 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/milker_upgrade": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/tools/rat_sack": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/dragon_wing": {
+    "criteria": {
+      "has_leather": "2025-05-30 03:34:34 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

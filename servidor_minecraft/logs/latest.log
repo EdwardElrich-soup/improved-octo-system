@@ -490,3 +490,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:15:00.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:50325] logged in with entity id 4254 at (229.56147818989686, 65.0, 319.33454475230576)
 [30May2025 03:15:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
 [30May2025 03:15:00.940] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 03:36:49.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> gaaaaaaaaaaaaaa
+[30May2025 03:42:18.506] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 03:42:18.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 03:43:05.452] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@409c72b5[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:38515) lost connection: Disconnected
+[30May2025 03:43:42.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:56935] logged in with entity id 10242 at (235.79326978082332, 65.0, 314.65944976588037)
+[30May2025 03:43:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 03:43:43.086] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 03:44:31.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Captured!]
