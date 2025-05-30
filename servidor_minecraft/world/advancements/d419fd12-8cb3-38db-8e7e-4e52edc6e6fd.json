@@ -3193,5 +3193,17 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/bow_upgrade": {
+    "criteria": {
+      "has_arrow": "2025-05-30 03:26:24 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/purple_arrow": {
+    "criteria": {
+      "has_arrow": "2025-05-30 03:26:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
