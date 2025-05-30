@@ -6185,6 +6185,12 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_chestplate_from_iron": {
+    "criteria": {
+      "has_item": "2025-05-30 18:07:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2025-05-30 17:19:14 +0000"
@@ -6266,6 +6272,12 @@
   "rediscovered:recipes/combat/studded_helmet_from_chainmail": {
     "criteria": {
       "has_chain": "2025-05-30 17:48:19 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/combat/studded_boots_from_iron": {
+    "criteria": {
+      "has_item": "2025-05-30 18:07:41 +0000"
     },
     "done": true
   },
