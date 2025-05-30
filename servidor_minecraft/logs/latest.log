@@ -487,3 +487,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 03:02:00.286] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
 [30May2025 03:02:02.829] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [30May2025 03:02:27.495] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9669ms or 193 ticks behind
+[30May2025 03:15:00.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:50325] logged in with entity id 4254 at (229.56147818989686, 65.0, 319.33454475230576)
+[30May2025 03:15:00.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 03:15:00.940] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
