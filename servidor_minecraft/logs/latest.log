@@ -485,3 +485,18 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [30May2025 20:13:25.818] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
 [30May2025 20:13:29.199] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
 [30May2025 20:13:54.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10644ms or 212 ticks behind
+[30May2025 20:24:38.294] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[30May2025 20:26:51.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[30May2025 20:28:26.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 20:28:26.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 20:28:26.823] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[30May2025 20:28:50.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:39131] logged in with entity id 4817 at (717.866803629585, 75.0625, 102.93353359061388)
+[30May2025 20:28:51.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 20:28:51.047] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 20:29:36.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[30May2025 20:29:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[30May2025 20:30:27.244] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@44f6c741[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:57837) lost connection: Disconnected
+[30May2025 20:30:36.860] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:50211] logged in with entity id 5213 at (712.3246463607934, 75.0, 102.69999998807907)
+[30May2025 20:30:36.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[30May2025 20:30:36.973] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[30May2025 20:32:10.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Hot Stuff]
