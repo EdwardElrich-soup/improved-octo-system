@@ -6149,6 +6149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-30 18:33:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_wool": {
     "criteria": {
       "has_needed_dye": "2025-05-30 17:19:14 +0000"
@@ -6176,6 +6182,18 @@
   "rats:recipes/misc/hammocks/hammock_dyed_yellow": {
     "criteria": {
       "has_dye": "2025-05-30 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-30 18:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-30 18:33:41 +0000"
     },
     "done": true
   },
@@ -6230,6 +6248,12 @@
   "minecraft:recipes/decorations/yellow_carpet": {
     "criteria": {
       "has_yellow_wool": "2025-05-30 17:19:20 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-30 18:33:41 +0000"
     },
     "done": true
   },
@@ -6302,6 +6326,12 @@
   "connectedglass:recipes/misc/scratched_glass_yellow_pane2": {
     "criteria": {
       "recipe_condition2": "2025-05-30 17:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-05-30 18:33:41 +0000"
     },
     "done": true
   },
