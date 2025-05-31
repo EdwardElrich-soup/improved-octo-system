@@ -6347,45 +6347,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-05-31 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-05-31 01:15:32 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
       "coded_trigger": "2025-05-31 01:34:52 +0000"
     },
     "done": true
   },
-  "rediscovered:recipes/combat/studded_leggings_from_iron": {
+  "minecraft:adventure/trade": {
     "criteria": {
-      "has_item": "2025-05-31 01:57:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-05-31 02:20:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/cauldron": {
-    "criteria": {
-      "has_water_bucket": "2025-05-31 02:09:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-05-31 02:04:02 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/building_blocks/auto_curdler": {
-    "criteria": {
-      "has_hopper": "2025-05-31 03:05:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2025-05-31 01:58:36 +0000"
+      "traded": "2025-05-31 01:36:25 +0000"
     },
     "done": true
   },
@@ -6401,33 +6383,21 @@
     },
     "done": true
   },
-  "tombstone:adventure/chain_death": {
+  "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
-      "coded_trigger": "2025-05-31 02:49:08 +0000"
+      "has_brown_mushroom": "2025-05-31 01:49:34 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/trade": {
+  "rediscovered:recipes/combat/studded_leggings_from_iron": {
     "criteria": {
-      "traded": "2025-05-31 01:36:25 +0000"
+      "has_item": "2025-05-31 01:57:59 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_item": "2025-05-31 01:15:32 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-05-31 01:15:32 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/keypad_item": {
-    "criteria": {
-      "has_stone_button": "2025-05-31 03:09:07 +0000"
+      "has_smelts_to_glass": "2025-05-31 01:58:36 +0000"
     },
     "done": true
   },
@@ -6437,15 +6407,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+  "minecraft:recipes/misc/red_dye_from_tulip": {
     "criteria": {
-      "has_cobbled_deepslate_slab": "2025-05-31 03:14:02 +0000"
+      "has_red_flower": "2025-05-31 02:04:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "minecraft:recipes/brewing/cauldron": {
     "criteria": {
-      "has_brown_mushroom": "2025-05-31 01:49:34 +0000"
+      "has_water_bucket": "2025-05-31 02:09:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-05-31 02:20:50 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 02:49:08 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/building_blocks/auto_curdler": {
+    "criteria": {
+      "has_hopper": "2025-05-31 03:05:16 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2025-05-31 03:09:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2025-05-31 03:14:02 +0000"
     },
     "done": true
   },
