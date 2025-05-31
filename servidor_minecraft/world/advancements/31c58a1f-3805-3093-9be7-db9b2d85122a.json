@@ -6353,6 +6353,24 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_leggings_from_iron": {
+    "criteria": {
+      "has_item": "2025-05-31 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-05-31 02:04:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-31 01:58:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2025-05-31 01:49:34 +0000"
@@ -6380,6 +6398,12 @@
   "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
     "criteria": {
       "has_item": "2025-05-31 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-31 01:58:36 +0000"
     },
     "done": true
   },
