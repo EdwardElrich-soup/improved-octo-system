@@ -521,3 +521,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 02:01:37.148] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
 [31May2025 02:01:55.871] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3762ms or 75 ticks behind
 [31May2025 02:03:43.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Tie me to the Mast]
+[31May2025 02:09:17.235] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2025ms or 40 ticks behind
+[31May2025 02:10:37.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Bulldrogioth
+[31May2025 02:10:37.561] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[31May2025 02:15:08.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Disconnected
+[31May2025 02:15:08.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[31May2025 02:16:13.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:43501] logged in with entity id 24443 at (391.86217527167236, 60.249949256690584, 443.88504940598466)
+[31May2025 02:16:13.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[31May2025 02:16:13.483] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[31May2025 02:20:50.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Hot Stuff]
