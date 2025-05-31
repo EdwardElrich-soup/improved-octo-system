@@ -494,3 +494,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 23:39:58.246] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 15422ms or 308 ticks behind
 [31May2025 23:40:19.123] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5899ms or 117 ticks behind
 [31May2025 23:40:44.637] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[31May2025 23:53:36.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Man Of Steel]
