@@ -494,3 +494,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 01:34:52.401] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/8843, l='ServerLevel[world]', x=307.69, y=70.00, z=220.53] died, message: 'Librarian was slain by MarcoDelNorte'
 [31May2025 01:34:52.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Neighborhood Brawl]
 [31May2025 01:36:25.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [What a Deal!]
+[31May2025 01:39:18.507] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a2940e3[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:52297) lost connection: Disconnected
+[31May2025 01:39:52.583] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4eeadcfb[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:37053) lost connection: Disconnected
+[31May2025 01:40:39.882] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30e67639[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:43387) lost connection: Disconnected
+[31May2025 01:41:55.434] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7b7a62fb[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:50179) lost connection: Disconnected
+[31May2025 01:42:53.842] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a49776b[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:33305) lost connection: Disconnected
+[31May2025 01:43:10.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:55399] logged in with entity id 11456 at (231.31029327373616, 64.5, 315.1720045012156)
+[31May2025 01:43:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[31May2025 01:43:10.468] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
