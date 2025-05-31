@@ -3384,8 +3384,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-31 01:54:27 +0000",
       "minecraft:skeleton": "2025-05-30 17:34:19 +0000",
       "minecraft:spider": "2025-05-30 17:34:06 +0000",
+      "minecraft:enderman": "2025-05-31 01:48:35 +0000",
       "minecraft:zombie": "2025-05-30 04:32:33 +0000"
     },
     "done": false
@@ -4222,6 +4224,36 @@
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-05-30 21:44:02 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/ender_upgrade": {
+    "criteria": {
+      "has_pearl": "2025-05-31 01:49:04 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/ruby_eye": {
+    "criteria": {
+      "has_ender_pearl": "2025-05-31 01:49:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-05-31 01:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-31 01:54:27 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-05-31 01:54:27 +0000"
     },
     "done": true
   },

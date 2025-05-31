@@ -502,3 +502,17 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 01:43:10.322] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:55399] logged in with entity id 11456 at (231.31029327373616, 64.5, 315.1720045012156)
 [31May2025 01:43:10.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
 [31May2025 01:43:10.468] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[31May2025 01:52:56.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Timed out
+[31May2025 01:52:56.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[31May2025 01:53:26.577] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4ff9bd8b[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:33923) lost connection: Disconnected
+[31May2025 01:53:46.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:58177] logged in with entity id 13927 at (370.69999998807907, 63.0, 354.6471127279014)
+[31May2025 01:53:46.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[31May2025 01:53:46.432] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[31May2025 01:54:17.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Not Today, Thank You]
+[31May2025 01:54:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Ambush]
+[31May2025 01:54:27.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Voluntary Exile]
+[31May2025 01:57:24.396] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[31May2025 01:57:47.740] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8381ms or 167 ticks behind
+[31May2025 01:58:06.318] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3608ms or 72 ticks behind
+[31May2025 01:58:25.954] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
+[31May2025 01:58:42.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [It Belongs in a Museum]
