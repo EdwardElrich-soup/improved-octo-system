@@ -564,3 +564,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [31May2025 03:23:17.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
 [31May2025 03:26:31.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Not a Diamond]
 [31May2025 03:29:01.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has reached the goal [Flawless Crystals]
+[31May2025 03:31:06.405] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[31May2025 03:31:23.553] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2193ms or 43 ticks behind
+[31May2025 03:32:10.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
+[31May2025 03:32:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[31May2025 03:38:12.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 drowned
+[31May2025 03:38:12.440] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[31May2025 03:49:57.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/72417, l='ServerLevel[world]', x=796.91, y=63.85, z=207.32] died: Honeyed Archer was slain by Dread Hound
