@@ -6451,39 +6451,33 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
-    "criteria": {
-      "has_feeding_upgrade": "2025-06-01 01:18:30 +0000"
-    },
-    "done": true
-  },
   "dungeons_and_combat:the_man_of_steel": {
     "criteria": {
       "the_man_of_steel_0": "2025-05-31 23:53:36 +0000"
     },
     "done": true
   },
-  "apotheosis:enchanting/enchanter": {
+  "dungeons_and_combat:the_cursed_soul": {
     "criteria": {
-      "enchanting_table": "2025-06-01 02:23:22 +0000"
+      "the_cursed_soul_0": "2025-06-01 00:05:11 +0000"
     },
     "done": true
   },
-  "justhammers:recipes/tools/iron_reinforced_hammer": {
+  "rediscovered:recipes/building_blocks/grass_slab": {
     "criteria": {
-      "has_material": "2025-06-01 01:31:53 +0000"
+      "has_item": "2025-06-01 00:21:02 +0000"
     },
     "done": true
   },
-  "apotheosis:enchanting/bookshelf": {
+  "tombstone:adventure/funeral_theft": {
     "criteria": {
-      "bookshelf": "2025-06-01 01:44:10 +0000"
+      "coded_trigger": "2025-06-01 00:21:33 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
-      "has_pumpkin": "2025-06-01 00:48:49 +0000"
+      "has_receptacle_of_familiar": "2025-06-01 00:21:39 +0000"
     },
     "done": true
   },
@@ -6505,6 +6499,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 00:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-01 00:48:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-01 00:48:49 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-06-01 01:18:30 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/iron_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-01 01:31:53 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/golem_mount_upgrade": {
     "criteria": {
       "has_iron": "2025-06-01 01:31:53 +0000"
@@ -6517,45 +6541,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
-    "criteria": {
-      "coded_trigger": "2025-06-01 00:21:33 +0000"
-    },
-    "done": true
-  },
-  "rediscovered:recipes/building_blocks/grass_slab": {
-    "criteria": {
-      "has_item": "2025-06-01 00:21:02 +0000"
-    },
-    "done": true
-  },
   "justhammers:recipes/tools/iron_reinforced_impact_hammer": {
     "criteria": {
       "has_material": "2025-06-01 01:31:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2025-06-01 00:48:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_familiar_receptacle": {
-    "criteria": {
-      "has_receptacle_of_familiar": "2025-06-01 00:21:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/misc/reinforced_lectern": {
-    "criteria": {
-      "has_bookshelf": "2025-06-01 01:44:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_and_combat:the_cursed_soul": {
-    "criteria": {
-      "the_cursed_soul_0": "2025-06-01 00:05:11 +0000"
     },
     "done": true
   },
@@ -6571,15 +6559,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-06-01 00:36:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-06-01 01:31:53 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-06-01 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/reinforced_lectern": {
+    "criteria": {
+      "has_bookshelf": "2025-06-01 01:44:10 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-01 02:23:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-06-01 02:48:09 +0000"
     },
     "done": true
   },
