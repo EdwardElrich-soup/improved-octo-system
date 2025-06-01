@@ -6451,6 +6451,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_feeding_upgrade": {
+    "criteria": {
+      "has_feeding_upgrade": "2025-06-01 01:18:30 +0000"
+    },
+    "done": true
+  },
   "dungeons_and_combat:the_man_of_steel": {
     "criteria": {
       "the_man_of_steel_0": "2025-05-31 23:53:36 +0000"
