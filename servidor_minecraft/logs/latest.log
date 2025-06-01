@@ -38,3 +38,4 @@
 [01Jun2025 01:04:44.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=63, z=-20} BlockPos{x=10, y=66, z=5}
 [01Jun2025 01:04:46.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1, y=63, z=-20} BlockPos{x=10, y=66, z=5}
 [01Jun2025 01:35:06.128] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/31242, l='ServerLevel[world]', x=524.48, y=95.84, z=172.54] died: Honeyed Archer burned to death
+[01Jun2025 01:44:10.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Local Librarian]
