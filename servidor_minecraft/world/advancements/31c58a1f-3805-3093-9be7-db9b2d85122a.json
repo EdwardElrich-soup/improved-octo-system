@@ -2379,6 +2379,7 @@
       "minecraft:ocean": "2025-05-25 03:12:02 +0000",
       "minecraft:flower_forest": "2025-05-25 02:13:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 03:15:35 +0000",
+      "minecraft:meadow": "2025-06-01 00:13:54 +0000",
       "minecraft:plains": "2025-05-25 02:06:01 +0000"
     },
     "done": false
@@ -6452,6 +6453,12 @@
   "dungeons_and_combat:the_man_of_steel": {
     "criteria": {
       "the_man_of_steel_0": "2025-05-31 23:53:36 +0000"
+    },
+    "done": true
+  },
+  "dungeons_and_combat:the_cursed_soul": {
+    "criteria": {
+      "the_cursed_soul_0": "2025-06-01 00:05:11 +0000"
     },
     "done": true
   },
