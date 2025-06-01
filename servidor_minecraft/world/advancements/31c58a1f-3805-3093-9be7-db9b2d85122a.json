@@ -2373,6 +2373,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-25 03:24:51 +0000",
       "minecraft:sunflower_plains": "2025-05-25 03:06:36 +0000",
+      "minecraft:cherry_grove": "2025-06-01 00:33:47 +0000",
       "minecraft:beach": "2025-05-25 03:07:29 +0000",
       "minecraft:river": "2025-05-25 02:26:29 +0000",
       "minecraft:forest": "2025-05-25 03:10:17 +0000",
@@ -6456,6 +6457,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-06-01 00:48:49 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/dragon_armor_chain_smithing_template": {
+    "criteria": {
+      "has_center": "2025-06-01 00:36:47 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/building_blocks/ancient_crying_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 00:36:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-06-01 00:36:47 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/funeral_theft": {
     "criteria": {
       "coded_trigger": "2025-06-01 00:21:33 +0000"
@@ -6468,6 +6493,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-06-01 00:48:49 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_familiar_receptacle": {
     "criteria": {
       "has_receptacle_of_familiar": "2025-06-01 00:21:39 +0000"
@@ -6477,6 +6508,12 @@
   "dungeons_and_combat:the_cursed_soul": {
     "criteria": {
       "the_cursed_soul_0": "2025-06-01 00:05:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-06-01 00:36:47 +0000"
     },
     "done": true
   },
