@@ -7785,6 +7785,12 @@
     },
     "done": true
   },
+  "scguns:main/blackpowder/musket": {
+    "criteria": {
+      "musket": "2025-06-05 16:24:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/logistics/pulse_repeater": {
     "criteria": {
       "has_item": "2025-06-05 16:12:39 +0000"
