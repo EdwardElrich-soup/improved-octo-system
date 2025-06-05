@@ -577,3 +577,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 05:39:05.144] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jun2025 05:39:05.146] [Worker-Main-9/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jun2025 05:39:05.362] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
+[05Jun2025 05:52:34.173] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Mister Bingiuson the Feeble'/8580, l='ServerLevel[world]', x=264.60, y=63.00, z=275.42] died: Mister Bingiuson the Feeble was slain by tacticalMus4sh1
+[05Jun2025 05:55:47.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 05:59:31.478] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[05Jun2025 06:00:40.794] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[05Jun2025 06:01:59.896] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2070ms or 41 ticks behind
+[05Jun2025 06:04:56.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2106ms or 42 ticks behind
+[05Jun2025 06:06:46.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[05Jun2025 06:06:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[05Jun2025 06:06:46.887] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05Jun2025 06:07:03.107] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:52713] logged in with entity id 28568 at (772.2228822200619, -58.0, 749.7796630674234)
+[05Jun2025 06:07:03.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[05Jun2025 06:07:03.280] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[05Jun2025 06:07:47.802] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[05Jun2025 06:07:47.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[05Jun2025 06:07:58.272] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:55819] logged in with entity id 30055 at (760.8830237858166, -58.0, 750.6457561984171)
+[05Jun2025 06:07:58.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[05Jun2025 06:07:58.340] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[05Jun2025 06:08:19.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2109ms or 42 ticks behind
+[05Jun2025 06:08:42.629] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8553ms or 171 ticks behind
+[05Jun2025 06:10:47.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:11:47.829] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32519, l='ServerLevel[world]', x=448.50, y=58.00, z=562.50]
+[05Jun2025 06:11:54.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:11:54.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/32578, l='ServerLevel[world]', x=421.50, y=57.00, z=560.50]
+[05Jun2025 06:11:56.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:11:59.296] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:12:20.872] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:22:22.864] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Jun2025 06:22:30.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:22:43.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
