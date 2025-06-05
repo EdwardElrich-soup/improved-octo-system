@@ -606,3 +606,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 06:22:22.864] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
 [05Jun2025 06:22:30.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [05Jun2025 06:22:43.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:23:51.240] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:23:53.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:30:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Overkill]
+[05Jun2025 06:30:34.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Senpai Eremanmas the Rough'/36659, l='ServerLevel[world]', x=341.71, y=65.00, z=247.43] died: Senpai Eremanmas the Rough was slain by tacticalMus4sh1
+[05Jun2025 06:32:19.559] [Worker-Main-61/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=289, y=-23, z=-107}
