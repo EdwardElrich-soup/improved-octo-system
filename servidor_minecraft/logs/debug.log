@@ -9769,3 +9769,8 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 09:17:20.428] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jun2025 09:17:20.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [05Jun2025 09:19:25.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Duchess Lucas the Baby'/9046, l='ServerLevel[world]', x=160.50, y=70.00, z=177.76] died: Duchess Lucas the Baby was slain by tacticalMus4sh1
+[05Jun2025 09:21:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Bad omen of the Moon]
+[05Jun2025 09:22:20.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 09:22:20.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jun2025 09:27:20.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jun2025 09:27:20.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -575,3 +575,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 09:11:03.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/4699, l='ServerLevel[world]', x=419.25, y=69.79, z=243.16] died: Honeyed Archer burned to death
 [05Jun2025 09:16:36.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Reverend William'/8024, l='ServerLevel[world]', x=370.57, y=65.00, z=241.95] died: Reverend William was slain by tacticalMus4sh1
 [05Jun2025 09:19:25.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Duchess Lucas the Baby'/9046, l='ServerLevel[world]', x=160.50, y=70.00, z=177.76] died: Duchess Lucas the Baby was slain by tacticalMus4sh1
+[05Jun2025 09:21:54.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Bad omen of the Moon]

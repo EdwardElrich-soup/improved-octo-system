@@ -10081,5 +10081,11 @@
     },
     "done": true
   },
+  "threateningly_mobs:moonpriest_defeat": {
+    "criteria": {
+      "moonpriest_defeat_0": "2025-06-05 09:21:54 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
