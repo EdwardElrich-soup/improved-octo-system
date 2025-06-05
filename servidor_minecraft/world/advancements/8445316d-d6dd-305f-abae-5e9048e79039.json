@@ -9041,9 +9041,9 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "has_item": "2025-06-05 03:13:33 +0000"
+      "deceived_hopes_0": "2025-06-05 01:58:24 +0000"
     },
     "done": true
   },
@@ -9053,27 +9053,39 @@
     },
     "done": true
   },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
-      "has_item": "2025-06-05 03:13:34 +0000"
+      "has_item": "2025-06-05 02:22:07 +0000"
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
+  "create:recipes/misc/crafting/materials/raw_zinc_block": {
     "criteria": {
-      "netherite_armor": "2025-06-05 03:13:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
-    "criteria": {
-      "has_blue_orchid": "2025-06-05 02:38:10 +0000"
+      "has_item": "2025-06-05 02:22:07 +0000"
     },
     "done": true
   },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-06-05 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:nature_sprirt_defeat": {
+    "criteria": {
+      "nature_sprirt_defeat_0": "2025-06-05 02:33:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-05 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-06-05 02:37:15 +0000"
     },
     "done": true
   },
@@ -9089,15 +9101,15 @@
     },
     "done": true
   },
-  "threateningly_mobs:nature_sprirt_defeat": {
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
-      "nature_sprirt_defeat_0": "2025-06-05 02:33:12 +0000"
+      "has_azure_bluet": "2025-06-05 02:37:48 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
     "criteria": {
-      "has_item": "2025-06-05 02:22:07 +0000"
+      "has_blue_orchid": "2025-06-05 02:38:10 +0000"
     },
     "done": true
   },
@@ -9110,12 +9122,6 @@
   "create:recipes/misc/crafting/schematics/empty_schematic": {
     "criteria": {
       "has_item": "2025-06-05 02:47:40 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-06-05 01:58:24 +0000"
     },
     "done": true
   },
@@ -9137,9 +9143,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
     "criteria": {
-      "has_azure_bluet": "2025-06-05 02:37:48 +0000"
+      "has_item": "2025-06-05 03:13:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-06-05 03:13:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-06-05 03:13:35 +0000"
     },
     "done": true
   },
@@ -9149,21 +9167,123 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:horrorofthe_depths": {
+  "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "horrorofthe_depths_0": "2025-06-05 02:34:44 +0000"
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:disgusting_lootbox": {
+  "create:recipes/building_blocks/cut_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "disgusting_lootbox_0": "2025-06-05 02:37:15 +0000"
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
     },
     "done": true
   },
-  "create:recipes/misc/crafting/materials/raw_zinc_block": {
+  "create:recipes/building_blocks/cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
-      "has_item": "2025-06-05 02:22:07 +0000"
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-06-05 05:27:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_granite_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_wall_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_granite_stairs_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_granite_bricks_from_stone_types_granite_stonecutting": {
+    "criteria": {
+      "has_stone_types_granite": "2025-06-05 05:29:13 +0000"
     },
     "done": true
   },
