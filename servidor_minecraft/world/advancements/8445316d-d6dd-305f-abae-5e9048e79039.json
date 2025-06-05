@@ -9437,6 +9437,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-06-05 06:39:50 +0000"
+    },
+    "done": true
+  },
   "netherexp:nether/overkill": {
     "criteria": {
       "overkill": "2025-06-05 06:30:31 +0000"

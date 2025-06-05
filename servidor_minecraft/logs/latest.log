@@ -611,3 +611,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 06:30:31.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Overkill]
 [05Jun2025 06:30:34.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Senpai Eremanmas the Rough'/36659, l='ServerLevel[world]', x=341.71, y=65.00, z=247.43] died: Senpai Eremanmas the Rough was slain by tacticalMus4sh1
 [05Jun2025 06:32:19.559] [Worker-Main-61/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=289, y=-23, z=-107}
+[05Jun2025 06:36:41.173] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:36:51.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:36:54.404] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:37:18.544] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:37:43.522] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:37:45.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:37:48.345] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:37:49.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:38:05.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:39:50.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Mine? Mine? Mine?]
+[05Jun2025 06:41:29.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[05Jun2025 06:44:10.335] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
