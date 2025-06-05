@@ -774,3 +774,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 02:55:19.774] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jun2025 02:55:19.776] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [05Jun2025 02:55:19.777] [Worker-Main-58/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[05Jun2025 03:11:14.364] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/68109, l='ServerLevel[world]', x=285.49, y=72.00, z=225.33] died: Undead Knight was slain by tacticalMus4sh1
+[05Jun2025 03:13:35.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Cover Me in Debris]
