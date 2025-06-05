@@ -9047,6 +9047,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_orchid": {
+    "criteria": {
+      "has_blue_orchid": "2025-06-05 02:38:10 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-05 02:30:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_sunflower": "2025-06-05 02:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-06-05 02:37:43 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:nature_sprirt_defeat": {
+    "criteria": {
+      "nature_sprirt_defeat_0": "2025-06-05 02:33:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-06-05 02:22:07 +0000"
@@ -9056,6 +9086,24 @@
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-06-05 01:58:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-06-05 02:37:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-06-05 02:34:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-06-05 02:37:15 +0000"
     },
     "done": true
   },
