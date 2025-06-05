@@ -10081,6 +10081,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-06-05 09:47:10 +0000"
+    },
+    "done": true
+  },
   "threateningly_mobs:moonpriest_defeat": {
     "criteria": {
       "moonpriest_defeat_0": "2025-06-05 09:21:54 +0000"
