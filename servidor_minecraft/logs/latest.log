@@ -572,3 +572,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [05Jun2025 08:57:22.427] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [05Jun2025 08:58:54.958] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/5221, l='ServerLevel[world]', x=312.71, y=75.85, z=196.06] died: Honeyed Archer was slain by Dread Hound
 [05Jun2025 09:01:06.376] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[05Jun2025 09:11:03.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/4699, l='ServerLevel[world]', x=419.25, y=69.79, z=243.16] died: Honeyed Archer burned to death
+[05Jun2025 09:16:36.312] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Reverend William'/8024, l='ServerLevel[world]', x=370.57, y=65.00, z=241.95] died: Reverend William was slain by tacticalMus4sh1
+[05Jun2025 09:19:25.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Duchess Lucas the Baby'/9046, l='ServerLevel[world]', x=160.50, y=70.00, z=177.76] died: Duchess Lucas the Baby was slain by tacticalMus4sh1
