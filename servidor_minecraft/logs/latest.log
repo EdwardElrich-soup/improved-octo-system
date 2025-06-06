@@ -922,3 +922,4 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06Jun2025 10:14:36.799] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:36705] logged in with entity id 78681 at (390.65740233812255, 65.0, 243.08115370737877)
 [06Jun2025 10:14:36.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
 [06Jun2025 10:14:36.836] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[06Jun2025 11:12:59.085] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/90043, l='ServerLevel[world]', x=306.68, y=74.41, z=185.17] died: Undead Knight suffocated in a wall
