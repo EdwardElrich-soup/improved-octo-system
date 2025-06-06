@@ -846,3 +846,14 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
 	... 19 more
 [06Jun2025 09:29:43.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 10.000265016775018,-0.6453665399933186,1.0587878207784556
+[06Jun2025 09:36:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Almost Unkillable]
+[06Jun2025 09:36:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 was frozen to death
+[06Jun2025 09:36:32.174] [Server thread/INFO] [tombstone/]: The player tacticalMus4sh1 has successfully been saved
+[06Jun2025 09:37:15.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[06Jun2025 09:37:19.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Creative Mode
+[06Jun2025 09:37:34.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Quickly Applied]
+[06Jun2025 09:37:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Most Useful Key]
+[06Jun2025 09:37:39.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [A Fast Comeback]
+[06Jun2025 09:37:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Easy Opening]
+[06Jun2025 09:37:45.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/66909, l='ServerLevel[world]', x=184.69, y=62.00, z=24.13] died: Withering Archer was slain by tacticalMus4sh1
+[06Jun2025 09:38:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Survival Mode
