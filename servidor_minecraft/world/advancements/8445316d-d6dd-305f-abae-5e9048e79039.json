@@ -9298,6 +9298,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+    "criteria": {
+      "has_advanced_pump_upgrade": "2025-06-06 09:59:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-06-06 09:36:32 +0000"

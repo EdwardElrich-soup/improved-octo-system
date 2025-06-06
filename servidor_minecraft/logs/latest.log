@@ -857,3 +857,4 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06Jun2025 09:37:42.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Easy Opening]
 [06Jun2025 09:37:45.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Withering Archer'/66909, l='ServerLevel[world]', x=184.69, y=62.00, z=24.13] died: Withering Archer was slain by tacticalMus4sh1
 [06Jun2025 09:38:37.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set tacticalMus4sh1's game mode to Survival Mode
+[06Jun2025 09:54:29.535] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/73581, l='ServerLevel[world]', x=116.00, y=76.41, z=179.67] died: Undead Knight was slain by Dread Hound
