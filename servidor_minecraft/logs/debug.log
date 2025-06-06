@@ -10719,3 +10719,58 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 01:28:59.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jun2025 01:29:00.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [06Jun2025 01:29:02.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:30:01.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2048ms or 40 ticks behind
+[06Jun2025 01:30:12.857] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:30:12.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:33:30.851] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[06Jun2025 01:33:30.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[06Jun2025 01:33:30.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[06Jun2025 01:33:30.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[06Jun2025 01:33:30.868] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[06Jun2025 01:33:30.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[06Jun2025 01:33:30.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[06Jun2025 01:35:11.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:35:12.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:35:30.226] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/68424, l='ServerLevel[world]', x=-917.50, y=-128.08, z=-435.50] died, message: 'Unemployed fell out of the world'
+[06Jun2025 01:35:39.221] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/70615, l='ServerLevel[world]', x=-918.70, y=-128.08, z=-436.79] died, message: 'Unemployed fell out of the world'
+[06Jun2025 01:36:53.354] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/68120, l='ServerLevel[world]', x=-840.69, y=-128.08, z=-444.17] died, message: 'Cleric fell out of the world'
+[06Jun2025 01:37:38.559] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/68083, l='ServerLevel[world]', x=-839.50, y=-128.08, z=-430.50] died, message: 'Farmer fell out of the world'
+[06Jun2025 01:37:51.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> dormi hijo de ****
+[06Jun2025 01:38:04.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> ok
+[06Jun2025 01:38:52.664] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jun2025 01:38:52.665] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 4 is dual wielding: false
+[06Jun2025 01:38:52.665] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Jun2025 01:38:52.666] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jun2025 01:38:52.666] [Netty Epoll Server IO #1/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 8 | client: 8
+[06Jun2025 01:39:08.273] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/68456, l='ServerLevel[world]', x=-840.44, y=64.00, z=-470.73] died, message: 'Nitwit was slain by tacticalMus4sh1'
+[06Jun2025 01:39:08.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Neighborhood Brawl]
+[06Jun2025 01:40:11.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:40:12.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:43:12.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/67522, l='ServerLevel[world]', x=-837.38, y=-128.08, z=-397.55] died, message: 'Unemployed fell out of the world'
+[06Jun2025 01:44:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Ancient Remnant
+[06Jun2025 01:44:54.965] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:-4805, y:28, z:-3852, dim:minecraft:overworld]
+[06Jun2025 01:44:55.003] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[06Jun2025 01:45:11.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:45:12.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:48:19.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Strong Undead]
+[06Jun2025 01:48:19.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Death finds a Way]
+[06Jun2025 01:48:24.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Magic Writing]
+[06Jun2025 01:48:28.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Back to childhood]
+[06Jun2025 01:48:28.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Not even afraid of death]
+[06Jun2025 01:48:37.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> q andas matando mamagüebo?
+[06Jun2025 01:49:56.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Magic Writing]
+[06Jun2025 01:50:11.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:50:12.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:51:09.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tacticalMus4sh1> ya ahora si duerme
+[06Jun2025 01:51:39.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <MarcoDelNorte> a dios
+[06Jun2025 01:52:14.751] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/94695, l='ServerLevel[world]', x=-4970.70, y=64.41, z=-3647.59]
+[06Jun2025 01:52:14.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntitySlowPart['Part'/94696, l='ServerLevel[world]', x=-4971.10, y=64.69, z=-3647.72]
+[06Jun2025 01:55:11.976] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 01:55:11.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 01:56:39.860] [Worker-Main-61/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[06Jun2025 01:56:54.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [My Name is Nobody]
+[06Jun2025 01:58:58.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Rude Awakening]
+[06Jun2025 01:59:53.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[06Jun2025 01:59:53.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[06Jun2025 02:00:11.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 02:00:11.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
