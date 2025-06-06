@@ -4937,15 +4937,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2025-06-06 19:12:58 +0000"
-    },
-    "done": true
-  },
   "scguns:main/root": {
     "criteria": {
       "gun": "2025-06-06 19:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-06-06 19:12:58 +0000"
     },
     "done": true
   },
@@ -4958,6 +4958,18 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2025-06-06 19:12:58 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-06 20:27:22 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-06 20:27:22 +0000"
     },
     "done": true
   },

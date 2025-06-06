@@ -878,3 +878,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 20:19:05.407] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53137, l='ServerLevel[world]', x=-175.00, y=31.00, z=-302.00] as it would cause deadlock
 [06Jun2025 20:20:28.605] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
 [06Jun2025 20:20:28.606] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
+[06Jun2025 20:23:37.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Subspace Bubble]
+[06Jun2025 20:25:41.843] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c015680[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:36287) lost connection: Disconnected
+[06Jun2025 20:25:53.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:38403] logged in with entity id 62664 at (1849.1370069142645, 63.115254209164995, -698.2562553404173)
+[06Jun2025 20:25:53.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
+[06Jun2025 20:25:53.654] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityHippocampus['Hippocampus'/62665, l='ServerLevel[world]', x=1849.14, y=62.52, z=-698.26] as it would cause deadlock
+[06Jun2025 20:25:53.712] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
+[06Jun2025 20:27:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Not even afraid of death]
+[06Jun2025 20:27:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Back to childhood]
+[06Jun2025 20:29:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [I Found It Underground]
+[06Jun2025 20:30:53.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.3872194544602984
