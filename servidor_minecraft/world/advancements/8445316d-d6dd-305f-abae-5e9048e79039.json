@@ -9285,5 +9285,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-06-06 07:49:04 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:titan_defeat": {
+    "criteria": {
+      "titan_defeat_0": "2025-06-06 07:49:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

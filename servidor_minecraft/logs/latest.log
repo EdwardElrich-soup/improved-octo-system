@@ -839,3 +839,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 07:03:39.527] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/16804, l='ServerLevel[world]', x=259.56, y=73.00, z=242.41] died, message: 'Cartographer was slain by Strong Zombie'
 [06Jun2025 07:04:23.827] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/16761, l='ServerLevel[world]', x=236.74, y=71.00, z=214.74] died, message: 'Cartographer was slain by Strong Zombie'
 [06Jun2025 07:12:10.194] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Undead Knight'/18364, l='ServerLevel[world]', x=301.37, y=65.00, z=247.04] died: Undead Knight was slain by tacticalMus4sh1
+[06Jun2025 07:45:17.480] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 07:49:01.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Titans on the plains]
