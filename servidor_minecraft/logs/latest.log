@@ -1,26 +1,26 @@
-[06Jun2025 19:01:23.270] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[06Jun2025 19:01:23.274] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
-[06Jun2025 19:01:33.958] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[06Jun2025 19:01:34.063] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/improved-octo-system/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[06Jun2025 19:01:34.650] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jun2025 19:01:34.655] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jun2025 19:01:34.656] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jun2025 19:01:34.658] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[06Jun2025 19:01:35.140] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[06Jun2025 19:01:35.142] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/improved-octo-system/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.2.jar
-[06Jun2025 19:01:35.142] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
-[06Jun2025 19:01:39.577] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[06Jun2025 19:01:39.878] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[06Jun2025 19:01:39.879] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[06Jun2025 19:01:39.884] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[06Jun2025 19:01:40.217] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
-[06Jun2025 19:01:40.217] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
-[06Jun2025 19:01:40.218] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[06Jun2025 19:01:40.235] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[06Jun2025 19:01:40.440] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Jun2025 19:01:40.551] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Jun2025 19:01:40.560] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
-[06Jun2025 19:01:40.648] [main/INFO] [Puzzles Lib/]: Loading 85 mods:
+[06Jun2025 21:32:06.810] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[06Jun2025 21:32:06.815] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.15 by Ubuntu; OS Linux arch amd64 version 6.8.0-1027-azure
+[06Jun2025 21:32:09.609] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[06Jun2025 21:32:09.700] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/improved-octo-system/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[06Jun2025 21:32:10.287] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jun2025 21:32:10.291] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jun2025 21:32:10.295] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jun2025 21:32:10.298] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[06Jun2025 21:32:10.629] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[06Jun2025 21:32:10.632] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: geckolib. Using Mod File: /workspaces/improved-octo-system/servidor_minecraft/mods/geckolib-forge-1.20.1-4.7.1.2.jar
+[06Jun2025 21:32:10.632] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[06Jun2025 21:32:15.791] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[06Jun2025 21:32:16.213] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[06Jun2025 21:32:16.216] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[06Jun2025 21:32:16.220] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[06Jun2025 21:32:16.431] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.21.0+mc1.20.1: 88 options available, 1 override(s) found
+[06Jun2025 21:32:16.433] [main/WARN] [ModernFix/]: Option 'mixin.bugfix.buffer_builder_leak' overriden (by mods [witherstormmod]) to 'false'
+[06Jun2025 21:32:16.433] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[06Jun2025 21:32:16.465] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[06Jun2025 21:32:16.639] [main/WARN] [mixin/]: Reference map 'puzzlesaccessapi.common.refmap.json' for puzzlesaccessapi.common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Jun2025 21:32:16.739] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Jun2025 21:32:16.752] [main/WARN] [mixin/]: Reference map 'justhammers-common-refmap.json' for justhammers-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[06Jun2025 21:32:16.861] [main/INFO] [Puzzles Lib/]: Loading 85 mods:
 	- alexscaves 2.0.2
 	- alexsmobs 1.22.9
 	- apotheosis 7.4.8
@@ -106,10 +106,10 @@
 	- witherstormmod 4.2.1
 		\-- crackerslib 1.20.1-0.4.1
 	- yungsapi 1.20-Forge-4.0.6
-[06Jun2025 19:01:41.448] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:41.464] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:41.663] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[06Jun2025 19:01:41.915] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[06Jun2025 21:32:17.737] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:17.759] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:18.041] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[06Jun2025 21:32:18.335] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$67$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -167,31 +167,31 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06Jun2025 19:01:42.369] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
-[06Jun2025 19:01:42.371] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:42.372] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:42.575] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[06Jun2025 19:01:42.577] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[06Jun2025 19:01:43.368] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[06Jun2025 19:01:44.057] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06Jun2025 19:01:44.775] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (28.31 s after launch)
-[06Jun2025 19:01:45.088] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[06Jun2025 19:01:45.088] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[06Jun2025 19:01:45.358] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[06Jun2025 19:01:45.359] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[06Jun2025 19:01:47.248] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
-[06Jun2025 19:01:48.173] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 3392 milliseconds
-[06Jun2025 19:01:48.925] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:48.926] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
-[06Jun2025 19:01:49.034] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
-[06Jun2025 19:01:49.038] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[06Jun2025 19:01:50.074] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$bcd000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[06Jun2025 19:01:50.868] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
-[06Jun2025 19:01:51.426] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[06Jun2025 19:01:51.427] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
-[06Jun2025 19:01:51.892] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
+[06Jun2025 21:32:18.574] [main/WARN] [mixin/]: Error loading class: org/violetmoon/quark/content/tweaks/module/GoldToolsHaveFortuneModule (java.lang.ClassNotFoundException: org.violetmoon.quark.content.tweaks.module.GoldToolsHaveFortuneModule)
+[06Jun2025 21:32:18.576] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:18.577] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:18.724] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[06Jun2025 21:32:18.724] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[06Jun2025 21:32:19.701] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[06Jun2025 21:32:21.027] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[06Jun2025 21:32:21.883] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (18.50 s after launch)
+[06Jun2025 21:32:22.066] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Jun2025 21:32:22.067] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[06Jun2025 21:32:22.280] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[06Jun2025 21:32:22.281] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[06Jun2025 21:32:24.792] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/CreativeModeTabs
+[06Jun2025 21:32:26.074] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 4184 milliseconds
+[06Jun2025 21:32:27.007] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:27.009] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[06Jun2025 21:32:27.166] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[06Jun2025 21:32:27.169] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 21:32:28.346] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$bcd000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[06Jun2025 21:32:29.597] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[06Jun2025 21:32:30.236] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[06Jun2025 21:32:30.236] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[06Jun2025 21:32:30.861] [main/WARN] [mixin/]: Mixin alexscaves.mixins.json:SwampHutPieceMixin has multiple constructors, (Lnet/minecraft/world/level/levelgen/structure/pieces/StructurePieceType;IIIIIILnet/minecraft/core/Direction;)V was selected
 
-[06Jun2025 19:01:52.080] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
+[06Jun2025 21:32:31.144] [main/ERROR] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Error occurred applying transform of coremod coremods/field_to_method.js function biome
 java.lang.IllegalStateException: Field f_47437_ is not private and an instance field
 	at net.minecraftforge.coremod.api.ASMAPI.redirectFieldToMethod(ASMAPI.java:270) ~[coremods-5.1.6.jar%2354!/:?]
 	at org.openjdk.nashorn.internal.scripts.Script$Recompilation$67$292A$\^eval\_.initializeCoreMod#transformer(<eval>:11) ~[?:?]
@@ -237,54 +237,54 @@ java.lang.IllegalStateException: Field f_47437_ is not private and an instance f
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
 	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
-[06Jun2025 19:01:52.083] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[06Jun2025 19:01:54.051] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
-[06Jun2025 19:01:57.441] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[06Jun2025 19:01:57.442] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[06Jun2025 19:01:57.998] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[06Jun2025 19:01:58.075] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[06Jun2025 19:01:58.186] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[06Jun2025 19:01:58.191] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
-[06Jun2025 19:01:58.199] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
-[06Jun2025 19:01:58.321] [modloading-worker-0/INFO] [BrandonsCore/]: Knock Knock...
-[06Jun2025 19:01:58.323] [modloading-worker-0/WARN] [draconicevolution/]: Reactor detonation initiated.
-[06Jun2025 19:01:58.323] [modloading-worker-0/INFO] [BrandonsCore/]: Wait... NO! What?
-[06Jun2025 19:01:58.324] [modloading-worker-0/INFO] [BrandonsCore/]: Stop That! That's not how this works!
-[06Jun2025 19:01:58.324] [modloading-worker-0/WARN] [draconicevolution/]: Calculating explosion ETA
-[06Jun2025 19:01:58.324] [modloading-worker-0/INFO] [BrandonsCore/]: Ahh... NO... NONONO! DONT DO THAT!!! STOP THIS NOW!
-[06Jun2025 19:01:58.324] [modloading-worker-0/WARN] [draconicevolution/]: **Explosion Imminent!!!**
-[06Jun2025 19:01:58.325] [modloading-worker-0/INFO] [BrandonsCore/]: Well...... fork...
-[06Jun2025 19:01:58.370] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
-[06Jun2025 19:02:04.640] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@3600a86e has been registered twice for the same name scguns:mechanical_pressing.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@5ade232e has been registered twice for the same name scguns:powered_mechanical_pressing.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@3b38e484 has been registered twice for the same name scguns:macerating.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@3b458ee7 has been registered twice for the same name scguns:powered_macerating.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@50c110f2 has been registered twice for the same name scguns:gun_bench.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@27c709b4 has been registered twice for the same name scguns:lightning_battery.
-[06Jun2025 19:02:04.641] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@3600a86e has been registered twice for the same name scguns:mechanical_pressing.
-[06Jun2025 19:02:04.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@5ade232e has been registered twice for the same name scguns:powered_mechanical_pressing.
-[06Jun2025 19:02:04.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@3b38e484 has been registered twice for the same name scguns:macerating.
-[06Jun2025 19:02:04.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@3b458ee7 has been registered twice for the same name scguns:powered_macerating.
-[06Jun2025 19:02:04.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@50c110f2 has been registered twice for the same name scguns:gun_bench.
-[06Jun2025 19:02:04.642] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@27c709b4 has been registered twice for the same name scguns:lightning_battery.
-[06Jun2025 19:02:05.010] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
-[06Jun2025 19:02:05.020] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
-[06Jun2025 19:02:05.027] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
-[06Jun2025 19:02:05.029] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
-[06Jun2025 19:02:05.353] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
-[06Jun2025 19:02:05.388] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
-[06Jun2025 19:02:05.688] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
-[06Jun2025 19:02:06.094] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[06Jun2025 19:02:06.524] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
-[06Jun2025 19:02:06.530] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
-[06Jun2025 19:02:06.946] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
-[06Jun2025 19:02:07.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
-[06Jun2025 19:02:07.447] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
-[06Jun2025 19:02:07.528] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
-[06Jun2025 19:02:07.529] [main/INFO] [ribbits/]: Registering Ribbit professions...
-[06Jun2025 19:02:07.529] [main/INFO] [ribbits/]: Registering Ribbit instruments...
-[06Jun2025 19:02:07.531] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
-[06Jun2025 19:02:07.659] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[06Jun2025 21:32:31.161] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[06Jun2025 21:32:32.055] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for mutantmonsters:main
+[06Jun2025 21:32:35.675] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[06Jun2025 21:32:35.675] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[06Jun2025 21:32:36.988] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[06Jun2025 21:32:37.115] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[06Jun2025 21:32:37.189] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[06Jun2025 21:32:37.210] [modloading-worker-0/INFO] [voidscape/]: Starting Donator Handler
+[06Jun2025 21:32:37.215] [Voidscape Donator Loader/INFO] [voidscape/]: Loading donor data
+[06Jun2025 21:32:37.356] [modloading-worker-0/INFO] [BrandonsCore/]: Knock Knock...
+[06Jun2025 21:32:37.358] [modloading-worker-0/WARN] [draconicevolution/]: Reactor detonation initiated.
+[06Jun2025 21:32:37.358] [modloading-worker-0/INFO] [BrandonsCore/]: Wait... NO! What?
+[06Jun2025 21:32:37.358] [modloading-worker-0/INFO] [BrandonsCore/]: Stop That! That's not how this works!
+[06Jun2025 21:32:37.358] [modloading-worker-0/WARN] [draconicevolution/]: Calculating explosion ETA
+[06Jun2025 21:32:37.358] [modloading-worker-0/INFO] [BrandonsCore/]: Ahh... NO... NONONO! DONT DO THAT!!! STOP THIS NOW!
+[06Jun2025 21:32:37.358] [modloading-worker-0/WARN] [draconicevolution/]: **Explosion Imminent!!!**
+[06Jun2025 21:32:37.358] [modloading-worker-0/INFO] [BrandonsCore/]: Well...... fork...
+[06Jun2025 21:32:37.444] [Voidscape Donator Loader/INFO] [voidscape/]: Donor data loaded
+[06Jun2025 21:32:43.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@5cf171b6 has been registered twice for the same name scguns:mechanical_pressing.
+[06Jun2025 21:32:43.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@370937a9 has been registered twice for the same name scguns:powered_mechanical_pressing.
+[06Jun2025 21:32:43.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@627722b5 has been registered twice for the same name scguns:macerating.
+[06Jun2025 21:32:43.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@3821067 has been registered twice for the same name scguns:powered_macerating.
+[06Jun2025 21:32:43.806] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@141142db has been registered twice for the same name scguns:gun_bench.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@1b14d898 has been registered twice for the same name scguns:lightning_battery.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MechanicalPressRecipe$Serializer@5cf171b6 has been registered twice for the same name scguns:mechanical_pressing.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMechanicalPressRecipe$Serializer@370937a9 has been registered twice for the same name scguns:powered_mechanical_pressing.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.MaceratorRecipe$Serializer@627722b5 has been registered twice for the same name scguns:macerating.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.PoweredMaceratorRecipe$Serializer@3821067 has been registered twice for the same name scguns:powered_macerating.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.GunBenchRecipe$Serializer@141142db has been registered twice for the same name scguns:gun_bench.
+[06Jun2025 21:32:43.807] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:recipe_serializer: The object top.ribs.scguns.client.screen.LightningBatteryRecipe$Serializer@1b14d898 has been registered twice for the same name scguns:lightning_battery.
+[06Jun2025 21:32:44.457] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:loot_table_alias
+[06Jun2025 21:32:44.469] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:data_handler_type
+[06Jun2025 21:32:44.478] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:dynamic_spawner
+[06Jun2025 21:32:44.482] [main/INFO] [ModdingLegacy/StructureGel/]: [structure_gel] Registering data for structure_gel:jigsaw_type
+[06Jun2025 21:32:44.902] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexmodguy.alexscaves.server.entity.living.TremorzillaEntity from class com.github.alexmodguy.alexscaves.server.entity.living.LicowitchEntity
+[06Jun2025 21:32:44.937] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.mcreator.borninchaosv.entity.BabySpiderEntity from class net.mcreator.borninchaosv.entity.MotherSpiderEntity
+[06Jun2025 21:32:45.255] [main/INFO] [Puzzles Lib/]: Loading common config for mutantmonsters
+[06Jun2025 21:32:45.958] [modloading-worker-0/INFO] [CorgiLib/]: Initializing network...
+[06Jun2025 21:32:45.976] [modloading-worker-0/INFO] [CorgiLib/]: Initialized network!
+[06Jun2025 21:32:46.006] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[06Jun2025 21:32:46.256] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/mutantmonsters.json
+[06Jun2025 21:32:46.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mutantmonsters] Found status: UP_TO_DATE Current: 8.0.7 Target: null
+[06Jun2025 21:32:46.555] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[06Jun2025 21:32:46.615] [main/INFO] [ribbits/]: Registering Ribbit umbrella types...
+[06Jun2025 21:32:46.616] [main/INFO] [ribbits/]: Registering Ribbit professions...
+[06Jun2025 21:32:46.617] [main/INFO] [ribbits/]: Registering Ribbit instruments...
+[06Jun2025 21:32:46.621] [main/INFO] [ribbits/]: Registering Ribbit data serializers...
+[06Jun2025 21:32:46.758] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1 path $
 	at com.google.gson.Gson.fromJson(Gson.java:1226) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1124) ~[gson-2.10.jar%2372!/:?]
@@ -299,609 +299,66 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:144) ~[gson-2.10.jar%2372!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
 	... 6 more
-[06Jun2025 19:02:07.660] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
-[06Jun2025 19:02:07.677] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
-[06Jun2025 19:02:07.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
-[06Jun2025 19:02:07.693] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06Jun2025 19:02:07.694] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
-[06Jun2025 19:02:07.694] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
-[06Jun2025 19:02:07.782] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
-[06Jun2025 19:02:07.783] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
-[06Jun2025 19:02:07.783] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
-[06Jun2025 19:02:07.784] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
-[06Jun2025 19:02:07.784] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
-[06Jun2025 19:02:07.784] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
-[06Jun2025 19:02:08.120] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
-[06Jun2025 19:02:08.122] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
-[06Jun2025 19:02:08.410] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
-[06Jun2025 19:02:08.420] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
-[06Jun2025 19:02:08.421] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
-[06Jun2025 19:02:08.422] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[06Jun2025 19:02:08.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
-[06Jun2025 19:02:08.423] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rediscovered] Starting version check at http://changelogs.moddinglegacy.com/rediscovered.json
-[06Jun2025 19:02:08.436] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[06Jun2025 19:02:08.440] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[06Jun2025 19:02:08.442] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
-[06Jun2025 19:02:08.445] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[06Jun2025 19:02:08.448] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
-[06Jun2025 19:02:08.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rediscovered] Found status: BETA Current: 2.1.0 Target: null
-[06Jun2025 19:02:08.560] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[06Jun2025 19:02:08.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
-[06Jun2025 19:02:08.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
-[06Jun2025 19:02:08.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
-[06Jun2025 19:02:08.906] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[06Jun2025 19:02:09.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
-[06Jun2025 19:02:09.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
-[06Jun2025 19:02:09.040] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
-[06Jun2025 19:02:09.041] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
-[06Jun2025 19:02:09.051] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
-[06Jun2025 19:02:09.052] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[06Jun2025 19:02:09.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
-[06Jun2025 19:02:09.061] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Starting version check at https://version-check.covers1624.net/check/?mod=CodeChickenLib&mc=1.20.1
-[06Jun2025 19:02:09.258] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06Jun2025 19:02:09.420] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[06Jun2025 19:02:09.716] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Found status: UP_TO_DATE Current: 4.4.0.516 Target: null
-[06Jun2025 19:02:09.718] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [brandonscore] Starting version check at https://version-check.covers1624.net/check/?mod=BrandonsCore&mc=1.20.1
-[06Jun2025 19:02:09.924] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [brandonscore] Found status: BETA Current: 3.2.1.302 Target: 3.2.1.302
-[06Jun2025 19:02:09.925] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [draconicevolution] Starting version check at https://version-check.covers1624.net/check/?mod=Draconic-Evolution&mc=1.20.1
-[06Jun2025 19:02:10.137] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [draconicevolution] Found status: AHEAD Current: 3.1.2.604 Target: null
-[06Jun2025 19:02:10.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_bucketable] Starting version check at https://api.modrinth.com/updates/liI36we9/forge_updates.json
-[06Jun2025 19:02:10.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_bucketable] Found status: OUTDATED Current: 3.2 Target: 3.2+mod
-[06Jun2025 19:02:10.311] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/assets/.mcassetsroot' uses unexpected schema
-[06Jun2025 19:02:10.312] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/improved-octo-system/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23263!/data/.mcassetsroot' uses unexpected schema
-[06Jun2025 19:02:14.543] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/server/commands/EnchantCommand
-[06Jun2025 19:02:14.938] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[06Jun2025 19:02:15.222] [Worker-Main-3/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag farmersdelight:tools/knives as it is missing following references: scguns:anthralite_knife (from ScorchedGuns-0.4.1-1.20.1.jar)
-[06Jun2025 19:02:16.957] [Worker-Main-3/ERROR] [net.minecraftforge.common.ForgeHooks/]: Couldn't parse element loot_tables:dungeons_and_combat:chests/blazing_fortress_loot
-com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'dungeons_and_combat:deleted_mod_element'
-	at net.minecraft.util.GsonHelper.m_13866_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
-	at net.minecraft.util.GsonHelper.m_13874_(GsonHelper.java:145) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.util.GsonHelper.m_13909_(GsonHelper.java:153) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootItem$Serializer.m_7267_(LootItem.java:40) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:151) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolSingletonContainer$Serializer.m_5921_(LootPoolSingletonContainer.java:129) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:86) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.entries.LootPoolEntryContainer$Serializer.m_7561_(LootPoolEntryContainer.java:74) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.GsonAdapterFactory$JsonAdapter.deserialize(GsonAdapterFactory.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.util.GsonHelper.m_13836_(GsonHelper.java:471) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:192) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.LootPool$Serializer.deserialize(LootPool.java:189) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TypeAdapterRuntimeTypeWrapper.read(TypeAdapterRuntimeTypeWrapper.java:40) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.ArrayTypeAdapter.read(ArrayTypeAdapter.java:72) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1290) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter$GsonContextImpl.deserialize(TreeTypeAdapter.java:179) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraft.util.GsonHelper.m_13808_(GsonHelper.java:463) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.util.GsonHelper.m_13845_(GsonHelper.java:481) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:294) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.LootTable$Serializer.deserialize(LootTable.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at com.google.gson.internal.bind.TreeTypeAdapter.read(TreeTypeAdapter.java:76) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1214) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1319) ~[gson-2.10.jar%2372!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:1261) ~[gson-2.10.jar%2372!/:?]
-	at net.minecraftforge.common.ForgeHooks.loadLootTable(ForgeHooks.java:871) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
-	at net.minecraftforge.common.ForgeHooks.lambda$getLootTableDeserializer$3(ForgeHooks.java:848) ~[forge-1.20.1-47.3.7-universal.jar%23268!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataType.deserialize(LootDataType.java:45) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.lambda$scheduleElementParse$4(LootDataManager.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at java.util.HashMap.forEach(HashMap.java:1421) ~[?:?]
-	at net.minecraft.world.level.storage.loot.LootDataManager.m_278660_(LootDataManager.java:55) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804) ~[?:?]
-	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?]
-	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?]
-	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
-	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
-	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06Jun2025 19:02:17.718] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.719] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/bloodworm}.pools[0].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.719] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[2].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.720] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:mofus_better_end_:entities/crown_squid}.pools[0].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.720] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[1].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.720] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:born_in_chaos_v1:entities/pumpkinhead}.pools[1].entries[0].functions[1]: Parameters [<parameter minecraft:tool>] are not provided in this context
-[06Jun2025 19:02:17.720] [main/WARN] [net.minecraft.world.level.storage.loot.LootDataManager/]: Found loot table element validation problem in {loot_tables:alexsmobs:gameplay/seal_reward}.pools[0].entries[0]->{minecraft:gameplay/fishing/junk}.pools[1].condition[0]: Parameters [<parameter minecraft:origin>] are not provided in this context
-[06Jun2025 19:02:17.726] [main/INFO] [placebo/]: Registered 34 additional loot tables.
-[06Jun2025 19:02:17.731] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rocket_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.732] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_smelting_crushed_raw_anthralite: com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
-[06Jun2025 19:02:17.737] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sheol_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.768] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ingot_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:17.769] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/vehement_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.770] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/jackhammer_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/bomb_lance: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.782] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:17.783] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.783] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/mas_55_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.785] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/dark_matter: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.786] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:17.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/waltz_conversion: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.798] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/krahg_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.799] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.802] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/cogloader_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.805] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gattaler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/astella: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.806] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/scrapper: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.809] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/large_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:17.809] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/repeating_musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.810] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[06Jun2025 19:02:17.813] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/big_bore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.814] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nitro_buckshot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.815] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.822] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/ramrod_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.824] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nether_star_fragment: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/howler_conversion: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.825] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/uppercut: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.828] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/energy_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.829] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/locust_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.829] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/waltz_conversion_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.830] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/scorched_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.834] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/prima_materia_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.837] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/lone_wonder_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.837] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/newborn_cyst: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.837] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/bearpack_shell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/deepslate_from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[06Jun2025 19:02:17.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/sequoia: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.838] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_anthralite_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.839] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/crusader: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.840] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[06Jun2025 19:02:17.843] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/laser_musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/shock_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:17.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/m22_waltz: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.844] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/depleted_energy_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:17.845] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/diamond_steel_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.846] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:17.848] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_conversion_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.849] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/brawler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.853] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/llr_director: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.853] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:17.854] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rat_king_and_queen: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.856] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/peal_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.856] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/ultra_knight_hawk_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.858] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/mk43_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/makeshift_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.859] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/carapice_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.862] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/blunderbuss: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.864] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/plasmabuss: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.870] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/floundergat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.872] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/scratches_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rat_king_and_queen_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.874] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/forlorn_hope: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.875] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/jackhammer: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.877] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/vulcanic_repeater_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.877] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/iron_javeline_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.882] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/scratches: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.883] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/dozier_rl_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.884] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/charged_amethyst_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:17.888] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pulsar_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.891] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/saketini_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.891] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/freyr: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.892] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/niami_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.893] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/scrapper_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.893] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/defender_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.894] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[06Jun2025 19:02:17.896] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sheol_dust_from_sheol_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:17.899] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
-[06Jun2025 19:02:17.900] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/inertial_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.901] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gale_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.903] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/thunderhead: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.905] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/callwell_conversion: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.906] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/boomstick: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.907] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/gunpowder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.908] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/lone_wonder: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.909] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/buckshot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.910] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/standard_copper_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.913] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/empty_blasphemy: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.913] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gattaler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.914] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/ultra_knight_hawk: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.916] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/shotgun_shell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.920] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sulfur_chunk_from_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:17.922] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/phosphor: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
-[06Jun2025 19:02:17.923] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/bruiser_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.923] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_ishi as it's serializer returned null
-[06Jun2025 19:02:17.925] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/sculk_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.927] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/soul_soil: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
-[06Jun2025 19:02:17.931] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/cr4k_mining_laser_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.931] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/hog_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.935] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/cyclone_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.937] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/venturi: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.938] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/niami: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.940] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/heavy_gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/boomstick_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.943] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/plasgun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.946] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/m3_carabine_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.947] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prima_materia: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.948] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/flayed_god_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.950] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_blend_splashing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
-[06Jun2025 19:02:17.951] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/empty_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:17.952] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[06Jun2025 19:02:17.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/mangalitsa_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:scamp_package: com.google.gson.JsonSyntaxException: Unknown item 'create:precision_mechanism'
-[06Jun2025 19:02:17.953] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/compact_copper_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/blasphemy_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.954] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/ancient_brass_brass_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:17.955] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pax: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/empty_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.956] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gyrojet_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.957] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/flayed_god: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.958] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:17.959] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/iron_spear: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.960] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/cr4k_mining_laser: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.961] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:17.963] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/raygun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.963] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deepslate_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.963] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/repeating_musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.967] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/nervepinch_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.968] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_blazing_halberd: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[06Jun2025 19:02:17.972] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sulfur_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.972] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/greaser_smg: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/rocket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:17.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/spitfire_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.974] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/umax_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.975] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pyroclastic_flow: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/cyclone: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/plasma_nugget_from_plasma_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:17.976] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/earths_corpse: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.983] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/standard_bullet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:17.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[06Jun2025 19:02:17.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/krauser: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.984] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nether_coal_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/auvtomag: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.985] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/shock_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:17.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/sculk_resonator: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.986] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/prush_gun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.994] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/whispers: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:17.998] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/basalt_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:17.998] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/soul_drummer_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.000] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/nitro_powder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.002] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:terra_blade as it's serializer returned null
-[06Jun2025 19:02:18.003] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/phosphor: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
-[06Jun2025 19:02:18.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/soul_drummer: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.004] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/large_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.006] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/shard/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:injecting'
-[06Jun2025 19:02:18.006] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/rich_phosphorite_crushing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/winnie: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.009] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/bomb_lance_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.012] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/echoes_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.013] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dungeons_and_combat:light_upgrade_molten_bone_greatsword: com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_mod_element'
-[06Jun2025 19:02:18.015] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/combat_shotgun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.017] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/osborne_slug: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.018] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/blunderbuss_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.018] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/gauss_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
-[06Jun2025 19:02:18.020] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/dark_matter_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.021] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/krauser_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/callwell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.022] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/microjet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.023] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/vulcanic_repeater: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.024] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/m22_waltz_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.025] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/shulker_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_anthralite_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:18.027] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/saketini: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.032] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/echoes_2_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.032] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/trenchur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.033] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/raw_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.034] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/m3_carabine: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.035] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_chunk: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:18.036] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[06Jun2025 19:02:18.037] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gauss_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.039] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:18.039] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/whispers_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.041] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/spitfire: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.041] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.043] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_phosphor_from_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:18.043] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/sequoia_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.044] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/auvtomag_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.045] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/charged_amethyst_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:18.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_brass_ingot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.046] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gyrojet_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/crushed_raw_anthralite_splashing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:splashing'
-[06Jun2025 19:02:18.048] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/heavy_gunpowder_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rusty_gnat_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.049] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/freyr_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.050] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/depleted_energy_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:18.051] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/diamond_steel_ingot_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.051] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/shellurker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.052] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/super_shotgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.053] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/rusty_gnat: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.054] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/advanced_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.055] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[06Jun2025 19:02:18.056] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:anthralite/anthralite_knife_smithing: com.google.gson.JsonSyntaxException: Unknown item 'farmersdelight:iron_knife'
-[06Jun2025 19:02:18.056] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/defender_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.058] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/arc_worker_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.059] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/anthralite_ingot_from_blasting_crushed_raw_anthralite: com.google.gson.JsonSyntaxException: Unknown condition type: scguns:create_mod_loaded
-[06Jun2025 19:02:18.060] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/winnie_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.062] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.062] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe mofus_better_end_:end_engine_recipe: com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod_element'
-[06Jun2025 19:02:18.063] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/shulkshot: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.065] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/glowstone_dust_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:18.067] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/bruiser: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_3: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:18.069] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/hammercrushing/hammercrushing_sulfur_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:hammer_crushing'
-[06Jun2025 19:02:18.070] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/plasmabuss_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.071] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.072] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/gunpowder_dust_from_gunpowder_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:18.073] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.074] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/shard_culler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.075] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/small_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.078] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/empty_blasphemy_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/prush_gun: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.079] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/hardened_bullet: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.080] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/uppercut_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/venturi_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.081] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/musket: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.082] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/greaser_smg_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.084] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:18.085] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/raw_anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.087] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
-[06Jun2025 19:02:18.088] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/rocket_rifle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.089] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/chunk_sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pax_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.090] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/callwell_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.091] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/large_iron_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/peal_dust_from_peal_milling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:milling'
-[06Jun2025 19:02:18.093] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/handcannon: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.094] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/clump/from_shard: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:purifying'
-[06Jun2025 19:02:18.095] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:18.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/gale: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.097] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/handcannon_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/locust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.098] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_brass_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.099] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.101] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/marlin: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.102] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_3: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.103] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_sulfur_1: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.104] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/valora: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.105] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/flintlock_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/medium_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.106] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/combat_shotgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/phosphorite_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.107] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/gibbs_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.108] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/energizing/plasma_core: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create_new_age:energising'
-[06Jun2025 19:02:18.109] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/sulfur: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
-[06Jun2025 19:02:18.110] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/lockewood: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.111] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/mangalitsa: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.112] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/grandle_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.113] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/mas_55: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.114] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/arc_worker: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/small_copper_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/iron_javeline: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.115] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/cogloader: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.116] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/heavy_gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.117] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/laser_musket_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.117] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_brass_blend_from_mixing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mixing'
-[06Jun2025 19:02:18.119] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/dozier_rl: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.119] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/flintlock_pistol_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.120] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/plasgun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.120] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/gun_parts: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/grandle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.122] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/howler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.123] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/astella_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_2: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/crusher/ore_anthralite_1: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:crusher'
-[06Jun2025 19:02:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/treated_iron_crushing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/sculk_resonator_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.124] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:drilling/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:drilling'
-[06Jun2025 19:02:18.127] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe createoreexcavation:ore_vein_type/anthralite: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createoreexcavation:vein'
-[06Jun2025 19:02:18.127] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/osgood_50: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.128] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dirty_dust/from_clump: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
-[06Jun2025 19:02:18.130] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_ingot: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:crushing'
-[06Jun2025 19:02:18.131] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/llr_director_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.133] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/valora_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.134] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/raygun_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.136] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/ore/from_raw: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:combining'
-[06Jun2025 19:02:18.138] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/shellurker_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.139] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/marlin_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.140] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/umax_pistol: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.141] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/osgood_50_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.142] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/howler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.143] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/shard_culler_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.144] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/beowulf_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.146] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deepslate_anthralite_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.146] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/lockewood_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.146] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:immersiveengineering/metalpress/shulker_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'immersiveengineering:metal_press'
-[06Jun2025 19:02:18.147] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/inertial: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.148] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/earths_corpse_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:tofu_diamond_blade as it's serializer returned null
-[06Jun2025 19:02:18.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/brawler: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.149] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/charging/plasma_block: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'createaddition:charging'
-[06Jun2025 19:02:18.150] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/floundergat_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.152] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/carapice: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.152] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_dirty_dust: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[06Jun2025 19:02:18.154] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:mekanism/dust/from_raw_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'mekanism:enriching'
-[06Jun2025 19:02:18.155] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/deploying/medium_diamond_steel_casing: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:deploying'
-[06Jun2025 19:02:18.156] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/vehement_coal: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.157] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/big_bore_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.158] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/energy_cell: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.159] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/nervepinch: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.162] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/newborn_cyst_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.163] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/iron_spear_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.164] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/sequenced_assembly/compact_advanced_round: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:sequenced_assembly'
-[06Jun2025 19:02:18.165] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/makeshift_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.166] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/trenchur_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/thunderhead_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/howler_conversion_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.167] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/mk43_rifle: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.168] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/mechanical_crafting/pulsar: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:mechanical_crafting'
-[06Jun2025 19:02:18.169] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/netherite_scrap_chunk: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.171] [main/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe scguns:create/recycling/pyroclastic_flow_recycling: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[06Jun2025 19:02:18.171] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe slashblade_addon:slashblade_tofu_metal as it's serializer returned null
-[06Jun2025 19:02:18.176] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 39 recipes
-[06Jun2025 19:02:18.453] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4751 advancements
-[06Jun2025 19:02:18.471] [main/INFO] [placebo/]: Registered 26 additional recipes.
-[06Jun2025 19:02:18.549] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 14 curio slots
-[06Jun2025 19:02:18.566] [main/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[06Jun2025 19:02:18.612] [main/INFO] [placebo/]: Registered 16 gear_sets.
-[06Jun2025 19:02:18.619] [main/INFO] [Apotheosis : Enchantment/]: Registered 29 enchanting_stats.
-[06Jun2025 19:02:18.623] [main/INFO] [Apotheosis : Adventure/]: Registered 6 rarities.
-[06Jun2025 19:02:18.640] [main/INFO] [Apotheosis : Adventure/]: Registered 81 affixes.
-[06Jun2025 19:02:18.649] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category helmetRequired: 3; Provided: 2
-[06Jun2025 19:02:18.649] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:mythic for category bootsRequired: 3; Provided: 2
-[06Jun2025 19:02:18.650] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bowRequired: 5; Provided: 4
-[06Jun2025 19:02:18.650] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category crossbowRequired: 5; Provided: 4
-[06Jun2025 19:02:18.651] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category pickaxeRequired: 5; Provided: 4
-[06Jun2025 19:02:18.651] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shovelRequired: 5; Provided: 4
-[06Jun2025 19:02:18.652] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category shieldRequired: 5; Provided: 4
-[06Jun2025 19:02:18.652] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category helmetRequired: 4; Provided: 2
-[06Jun2025 19:02:18.653] [main/WARN] [Apotheosis : Adventure/]: Insufficient number of affixes to satisfy the loot rules (ignoring backup rules) of rarity apotheosis:ancient for category bootsRequired: 4; Provided: 2
-[06Jun2025 19:02:18.671] [main/INFO] [Apotheosis : Adventure/]: Registered 19 gems.
-[06Jun2025 19:02:18.680] [main/INFO] [Apotheosis : Adventure/]: Registered 67 affix_loot_entries.
-[06Jun2025 19:02:18.690] [main/INFO] [Apotheosis : Adventure/]: Registered 17 bosses.
-[06Jun2025 19:02:18.704] [main/INFO] [Apotheosis : Adventure/]: Registered 8 rogue_spawners.
-[06Jun2025 19:02:18.707] [main/INFO] [Apotheosis : Adventure/]: Registered 5 minibosses.
-[06Jun2025 19:02:18.714] [main/INFO] [Apotheosis : Village/]: Registered 28 wanderer_trades.
-[06Jun2025 19:02:18.768] [main/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_plains
-[06Jun2025 19:02:19.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[06Jun2025 19:02:19.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[06Jun2025 19:02:19.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[06Jun2025 19:02:19.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[06Jun2025 19:02:19.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[06Jun2025 19:02:19.993] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[06Jun2025 19:02:20.069] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06Jun2025 19:02:20.070] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[06Jun2025 19:02:20.070] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06Jun2025 19:02:20.070] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[06Jun2025 19:02:20.088] [Server thread/INFO] [Puzzles Lib/]: Loading server config for mutantmonsters
-[06Jun2025 19:02:20.541] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[06Jun2025 19:02:20.541] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[06Jun2025 19:02:20.542] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
-[06Jun2025 19:02:20.575] [Server thread/INFO] [Framework/]: Loading server configs...
-[06Jun2025 19:02:20.578] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:the_nether
-[06Jun2025 19:02:20.579] [Server thread/INFO] [net.jadenxgamer.elysium_api.Elysium/]: ElysiumBiomeSource successfully initialized for minecraft:overworld
-[06Jun2025 19:02:20.587] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[06Jun2025 19:02:20.762] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06Jun2025 19:02:20.767] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[06Jun2025 19:02:21.539] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.TamableAnimal from interface com.hollingsworth.arsnouveau.common.entity.IFollowingSummon
-[06Jun2025 19:02:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[06Jun2025 19:02:25.729] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jun2025 19:02:25.734] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jun2025 19:02:25.734] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jun2025 19:02:26.000] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[06Jun2025 19:02:26.530] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 5%
-[06Jun2025 19:02:26.998] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 13%
-[06Jun2025 19:02:27.498] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 57%
-[06Jun2025 19:02:27.983] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 3487 ms
-[06Jun2025 19:02:27.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (7.903s)! For help, type "help"
-[06Jun2025 19:02:28.228] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[06Jun2025 19:02:28.259] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[06Jun2025 19:02:28.260] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[06Jun2025 19:02:28.395] [Server thread/INFO] [net.bettercombat.logic.WeaponRegistry/]: Encoded Weapon Attribute registry size (with package overhead): 204143 bytes (in 21 string chunks with the size of 10000)
-[06Jun2025 19:02:28.402] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[06Jun2025 19:02:28.408] [Server thread/WARN] [ModernFix/]: Dedicated server took 71.945 seconds to load
-[06Jun2025 19:05:21.670] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
-[06Jun2025 19:05:21.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:42323] logged in with entity id 1478 at (-5450.846265889243, 91.7531999805212, -6124.49821924541)
-[06Jun2025 19:05:22.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
-[06Jun2025 19:05:22.104] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
-[06Jun2025 19:05:59.888] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:47863] logged in with entity id 1937 at (1854.970401244511, 63.00657799259186, -549.2080185401456)
-[06Jun2025 19:05:59.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
-[06Jun2025 19:05:59.920] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityHippocampus['Hippocampus'/1938, l='ServerLevel[world]', x=1854.97, y=62.41, z=-549.21] as it would cause deadlock
-[06Jun2025 19:06:03.020] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
-[06Jun2025 19:06:03.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3180ms or 63 ticks behind
-[06Jun2025 19:06:29.023] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[06Jun2025 19:07:04.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
-[06Jun2025 19:07:26.067] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
-[06Jun2025 19:07:34.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved too quickly! 1.6807955181402576,0.0,-10.297072917034711
-[06Jun2025 19:10:04.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.2892194412753032
-[06Jun2025 19:12:08.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.6681647212106945
-[06Jun2025 19:12:09.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.7897150959484903
-[06Jun2025 19:12:09.045] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.7897150959484903
-[06Jun2025 19:12:10.247] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.8098609504765203
-[06Jun2025 19:12:10.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.818013317147217
-[06Jun2025 19:12:12.598] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.830452037865076
-[06Jun2025 19:12:12.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.8304783711758704
-[06Jun2025 19:12:14.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.8216475094128228
-[06Jun2025 19:12:14.496] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.824428723186369
-[06Jun2025 19:12:14.615] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.8257788996029768
-[06Jun2025 19:18:07.348] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.26841018367034625
-[06Jun2025 19:19:15.908] [Worker-Main-10/INFO] [ModernFix/]: Instantiating Mojang DFU
-[06Jun2025 19:19:21.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte moved wrongly!
-[06Jun2025 19:19:53.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was doomed to fall by Ice Dragon
-[06Jun2025 19:19:53.938] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
-[06Jun2025 19:22:40.256] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/16503, l='ServerLevel[world]', x=1284.62, y=89.25, z=-861.50] died, message: 'Unemployed was incinerated by Fire Dragon'
-[06Jun2025 19:22:53.594] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pet Shop Owner'/16504, l='ServerLevel[world]', x=1297.25, y=92.00, z=-887.90] died, message: 'Pet Shop Owner burned to death'
-[06Jun2025 19:22:59.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Light as a Rabbit]
-[06Jun2025 19:23:43.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Frosted Prison]
-[06Jun2025 19:24:22.336] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/16506, l='ServerLevel[world]', x=1271.10, y=92.34, z=-872.64] died, message: 'Farmer was slain by Fire Dragon'
-[06Jun2025 19:24:33.619] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/16036, l='ServerLevel[world]', x=1316.53, y=84.00, z=-832.45] died, message: 'Weaponsmith was turned into KFC by Fire Dragon'
-[06Jun2025 19:24:35.322] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Pet Shop Owner'/16037, l='ServerLevel[world]', x=1311.52, y=85.00, z=-847.70] died, message: 'Pet Shop Owner was turned into KFC by Fire Dragon'
-[06Jun2025 19:24:41.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/16060, l='ServerLevel[world]', x=1305.88, y=85.54, z=-804.88] died, message: 'Leatherworker was burnt to a crisp whilst fighting Fire Dragon'
-[06Jun2025 19:31:05.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Disconnected
-[06Jun2025 19:31:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
-[06Jun2025 19:55:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was cursed by Maledictus
-[06Jun2025 19:55:27.230] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
-[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
-[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
-[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
-[06Jun2025 19:55:27.232] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
-[06Jun2025 19:55:27.236] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
-[06Jun2025 19:56:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Crusade Against Curse]
-[06Jun2025 20:02:49.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
-[06Jun2025 20:03:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
-[06Jun2025 20:03:31.762] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
-[06Jun2025 20:03:31.763] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
-[06Jun2025 20:03:31.764] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
-[06Jun2025 20:03:35.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
-[06Jun2025 20:03:38.133] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38791, l='ServerLevel[world]', x=-781.00, y=31.00, z=-891.00] as it would cause deadlock
-[06Jun2025 20:03:51.527] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38983, l='ServerLevel[world]', x=-893.00, y=31.00, z=-889.00] as it would cause deadlock
-[06Jun2025 20:03:58.077] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39002, l='ServerLevel[world]', x=-685.00, y=31.00, z=-777.00] as it would cause deadlock
-[06Jun2025 20:05:58.504] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42673, l='ServerLevel[world]', x=-645.00, y=31.00, z=-679.00] as it would cause deadlock
-[06Jun2025 20:05:58.505] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42675, l='ServerLevel[world]', x=-643.00, y=31.00, z=-680.00] as it would cause deadlock
-[06Jun2025 20:06:52.412] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47773, l='ServerLevel[world]', x=-401.00, y=31.00, z=-555.00] as it would cause deadlock
-[06Jun2025 20:06:52.413] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47773, l='ServerLevel[world]', x=-401.00, y=31.00, z=-555.00] as it would cause deadlock
-[06Jun2025 20:06:59.306] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48692, l='ServerLevel[world]', x=-355.00, y=31.00, z=-695.00] as it would cause deadlock
-[06Jun2025 20:08:04.398] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49175, l='ServerLevel[world]', x=-620.00, y=31.00, z=-504.00] as it would cause deadlock
-[06Jun2025 20:08:04.398] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49177, l='ServerLevel[world]', x=-619.00, y=31.00, z=-506.00] as it would cause deadlock
-[06Jun2025 20:08:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Frightening Rush]
-[06Jun2025 20:09:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Rattling Remnants]
-[06Jun2025 20:11:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Non-renewable? Yeah, right..]
-[06Jun2025 20:11:35.643] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50656, l='ServerLevel[world]', x=-372.00, y=31.00, z=-381.00] as it would cause deadlock
-[06Jun2025 20:11:43.799] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50682, l='ServerLevel[world]', x=-511.10, y=31.00, z=-342.00] as it would cause deadlock
-[06Jun2025 20:11:43.800] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50684, l='ServerLevel[world]', x=-510.00, y=31.00, z=-343.00] as it would cause deadlock
-[06Jun2025 20:11:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Those Were the Days]
-[06Jun2025 20:12:05.563] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50732, l='ServerLevel[world]', x=-429.00, y=31.00, z=-332.00] as it would cause deadlock
-[06Jun2025 20:12:11.347] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50768, l='ServerLevel[world]', x=-388.00, y=31.00, z=-306.00] as it would cause deadlock
-[06Jun2025 20:17:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [War Pigs]
-[06Jun2025 20:19:05.407] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53137, l='ServerLevel[world]', x=-175.00, y=31.00, z=-302.00] as it would cause deadlock
-[06Jun2025 20:20:28.605] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
-[06Jun2025 20:20:28.606] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
-[06Jun2025 20:23:37.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Subspace Bubble]
-[06Jun2025 20:25:41.843] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5c015680[id=<null>,name=tocino20,properties={},legacy=false] (/127.142.0.33:36287) lost connection: Disconnected
-[06Jun2025 20:25:53.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tocino20[/127.142.0.33:38403] logged in with entity id 62664 at (1849.1370069142645, 63.115254209164995, -698.2562553404173)
-[06Jun2025 20:25:53.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 joined the game
-[06Jun2025 20:25:53.654] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity EntityHippocampus['Hippocampus'/62665, l='ServerLevel[world]', x=1849.14, y=62.52, z=-698.26] as it would cause deadlock
-[06Jun2025 20:25:53.712] [Server thread/INFO] [Jade/]: Syncing config to tocino20 (d419fd12-8cb3-38db-8e7e-4e52edc6e6fd)
-[06Jun2025 20:27:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Not even afraid of death]
-[06Jun2025 20:27:22.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Back to childhood]
-[06Jun2025 20:29:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [I Found It Underground]
-[06Jun2025 20:30:53.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.3872194544602984
-[06Jun2025 20:35:59.589] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/69571, l='ServerLevel[world]', x=1230.50, y=57.50, z=543.50]
-[06Jun2025 20:48:00.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Nightmare Stalker
-[06Jun2025 20:48:00.147] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
-[06Jun2025 20:50:48.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Blade Arts -Combo A-              ]
-[06Jun2025 20:50:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Blade Arts -Aerial Rave A-       ]
-[06Jun2025 20:54:02.760] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
-[06Jun2025 21:01:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The End?]
-[06Jun2025 21:01:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The Threateningly Mobs]
-[06Jun2025 21:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The End?]
-[06Jun2025 21:07:25.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91735, l='ServerLevel[world]', x=285.27, y=-128.08, z=236.49] died, message: 'Unemployed fell out of the world'
-[06Jun2025 21:19:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 burned to death
-[06Jun2025 21:19:10.138] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
-[06Jun2025 21:19:46.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
-[06Jun2025 21:19:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
-[06Jun2025 21:22:45.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:42787] logged in with entity id 94556 at (419.09156287624467, 34.0, 303.9935615273436)
-[06Jun2025 21:22:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
-[06Jun2025 21:22:45.696] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[06Jun2025 21:32:46.761] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzlesaccessapi.json
+[06Jun2025 21:32:46.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzlesaccessapi] Found status: BETA Current: 20.1.1 Target: null
+[06Jun2025 21:32:46.778] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://update.maxhenkel.de/forge/sound_physics_remastered
+[06Jun2025 21:32:46.796] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[06Jun2025 21:32:46.797] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[06Jun2025 21:32:46.798] [main/INFO] [terrablender/]: Registered region ars_nouveau:overworld to index 1 for type OVERWORLD
+[06Jun2025 21:32:46.870] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:aiming for minecraft:player
+[06Jun2025 21:32:46.870] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:reloading for minecraft:player
+[06Jun2025 21:32:46.871] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:shooting for minecraft:player
+[06Jun2025 21:32:46.871] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:burstcount for minecraft:player
+[06Jun2025 21:32:46.871] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:onburstcooldown for minecraft:player
+[06Jun2025 21:32:46.871] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key scguns:melee for minecraft:player
+[06Jun2025 21:32:47.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: OUTDATED Current: 1.20.1-1.4.10 Target: 1.20.1-1.4.13
+[06Jun2025 21:32:47.296] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Starting version check at http://changelogs.moddinglegacy.com/structure-gel.json
+[06Jun2025 21:32:47.450] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.spawn.compat.SpawnerHwylaPlugin
+[06Jun2025 21:32:47.465] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.ench.compat.EnchHwylaPlugin
+[06Jun2025 21:32:47.468] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at dev.shadowsoffire.apotheosis.adventure.compat.AdventureHwylaPlugin
+[06Jun2025 21:32:47.470] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[06Jun2025 21:32:47.492] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[06Jun2025 21:32:47.502] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[06Jun2025 21:32:47.504] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at com.hollingsworth.arsnouveau.client.waila.WailaArsNouveauPlugin
+[06Jun2025 21:32:47.505] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[06Jun2025 21:32:47.508] [modloading-worker-0/INFO] [Jade/]: Start loading plugin at ovh.corail.tombstone.compatibility.IntegrationJade
+[06Jun2025 21:32:47.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [structure_gel] Found status: BETA Current: 2.16.2 Target: null
+[06Jun2025 21:32:47.654] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rediscovered] Starting version check at http://changelogs.moddinglegacy.com/rediscovered.json
+[06Jun2025 21:32:47.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [rediscovered] Found status: BETA Current: 2.1.0 Target: null
+[06Jun2025 21:32:47.818] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[06Jun2025 21:32:47.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.4.0
+[06Jun2025 21:32:47.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Starting version check at https://github.com/Mechalopa/Hostile-Mobs-and-Girls/raw/1.20.1/update.json
+[06Jun2025 21:32:48.117] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [hmag] Found status: OUTDATED Current: 9.0.29 Target: 9.0.30
+[06Jun2025 21:32:48.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[06Jun2025 21:32:48.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.10.0.1 Target: null
+[06Jun2025 21:32:48.231] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Starting version check at https://raw.githubusercontent.com/nonamecrackers2/cwsm-update-info/main/update_checker.json
+[06Jun2025 21:32:48.245] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [witherstormmod] Found status: UP_TO_DATE Current: 4.2.1 Target: null
+[06Jun2025 21:32:48.247] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Starting version check at https://raw.githubusercontent.com/Corail31/tombstone_lite/master/update.json
+[06Jun2025 21:32:48.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [tombstone] Found status: OUTDATED Current: 8.9.4 Target: 8.9.5
+[06Jun2025 21:32:48.258] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[06Jun2025 21:32:48.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 8.1.32 Target: null
+[06Jun2025 21:32:48.276] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [codechickenlib] Starting version check at https://version-check.covers1624.net/check/?mod=CodeChickenLib&mc=1.20.1
+[06Jun2025 21:32:48.433] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[06Jun2025 21:32:48.617] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[06Jun2025 21:32:48.665] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+net.minecraft.util.DirectoryLock$LockException: /workspaces/improved-octo-system/servidor_minecraft/./world/session.lock: already locked (possibly by other Minecraft instance?)
+	at net.minecraft.util.DirectoryLock$LockException.m_13648_(DirectoryLock.java:95) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.util.DirectoryLock.m_13640_(DirectoryLock.java:41) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource$LevelStorageAccess.<init>(LevelStorageSource.java:404) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.level.storage.LevelStorageSource.m_289864_(LevelStorageSource.java:342) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.Main.main(Main.java:141) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.runTarget(CommonLaunchHandler.java:111) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonLaunchHandler.serverService(CommonLaunchHandler.java:103) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at net.minecraftforge.fml.loading.targets.CommonServerLaunchHandler.lambda$makeService$0(CommonServerLaunchHandler.java:27) ~[fmlloader-1.20.1-47.3.7.jar%2369!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:30) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:53) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:71) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.run(Launcher.java:108) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.Launcher.main(Launcher.java:78) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:26) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.modlauncher.BootstrapLaunchConsumer.accept(BootstrapLaunchConsumer.java:23) ~[modlauncher-10.0.9.jar%2355!/:?]
+	at cpw.mods.bootstraplauncher.BootstrapLauncher.main(BootstrapLauncher.java:141) ~[bootstraplauncher-1.1.2.jar:?]
