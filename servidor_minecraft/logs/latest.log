@@ -946,3 +946,5 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06Jun2025 12:30:47.636] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:33343] logged in with entity id 108471 at (585.6857108258205, 72.0, 268.246098725832)
 [06Jun2025 12:30:47.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
 [06Jun2025 12:30:47.664] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[06Jun2025 12:44:26.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Withering Heights]
+[06Jun2025 12:45:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Strong Undead]
