@@ -9298,15 +9298,51 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
+  "minecraft:recipes/food/cake": {
     "criteria": {
-      "has_advanced_pump_upgrade": "2025-06-06 09:59:40 +0000"
+      "has_egg": "2025-06-06 08:38:03 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/sculked_upgrade": {
+    "criteria": {
+      "has_paw": "2025-06-06 08:40:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/quarry_upgrade": {
+    "criteria": {
+      "has_paw": "2025-06-06 08:40:13 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-06-06 09:15:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-06-06 09:34:36 +0000"
     },
     "done": true
   },
   "tombstone:adventure/almost_unkillable": {
     "criteria": {
       "coded_trigger": "2025-06-06 09:36:32 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/combine_in_inventory": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 09:37:34 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-06-06 09:37:34 +0000"
     },
     "done": true
   },
@@ -9322,45 +9358,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
+  "sophisticatedbackpacks:recipes/misc/xp_pump_upgrade": {
     "criteria": {
-      "has_egg": "2025-06-06 08:38:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/black_dye_from_wither_rose": {
-    "criteria": {
-      "has_wither_rose": "2025-06-06 09:34:36 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/sculked_upgrade": {
-    "criteria": {
-      "has_paw": "2025-06-06 08:40:13 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/vehement_coal": {
-    "criteria": {
-      "vehement_coal": "2025-06-06 09:15:45 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/combine_in_inventory": {
-    "criteria": {
-      "coded_trigger": "2025-06-06 09:37:34 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/quarry_upgrade": {
-    "criteria": {
-      "has_paw": "2025-06-06 08:40:13 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/enchant_grave_key": {
-    "criteria": {
-      "has_upgraded_grave_key": "2025-06-06 09:37:34 +0000"
+      "has_advanced_pump_upgrade": "2025-06-06 09:59:40 +0000"
     },
     "done": true
   },
