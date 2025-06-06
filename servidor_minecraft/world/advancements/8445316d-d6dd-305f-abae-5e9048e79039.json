@@ -1806,6 +1806,7 @@
       "minecraft:ocean": "2025-05-25 19:15:18 +0000",
       "minecraft:snowy_beach": "2025-06-06 01:59:48 +0000",
       "minecraft:flower_forest": "2025-05-25 02:13:57 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-06 15:09:10 +0000",
       "minecraft:plains": "2025-05-25 02:06:02 +0000"
     },
     "done": false
@@ -7624,6 +7625,7 @@
   },
   "born_in_chaos_v1:squireofthe_dark_lord": {
     "criteria": {
+      "squireofthe_dark_lord_3": "2025-06-06 15:11:00 +0000",
       "squireofthe_dark_lord_0": "2025-05-27 07:07:39 +0000"
     },
     "done": false
@@ -9744,6 +9746,18 @@
   "mofus_better_end_:end_labyrinth_advancement": {
     "criteria": {
       "end_labyrinth_advancement_0": "2025-06-06 14:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-06-06 15:05:32 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/diamond_steel/uppercut": {
+    "criteria": {
+      "uppercut": "2025-06-06 15:13:23 +0000"
     },
     "done": true
   },

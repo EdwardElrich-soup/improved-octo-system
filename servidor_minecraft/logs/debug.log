@@ -7360,3 +7360,39 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 14:57:45.565] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
 [06Jun2025 14:59:24.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 14:59:24.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:04:24.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:04:24.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:05:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Remote Getaway]
+[06Jun2025 15:07:28.454] [Server thread/DEBUG] [net.minecraftforge.coremod.transformer.CoreModBaseTransformer/COREMOD]: Transforming com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 15:07:28.454] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 15:07:29.048] [Server thread/DEBUG] [mixin/]: Mixing EnchantmentUtilsMixin from taxfreelevels-forge.mixins.json into dev.shadowsoffire.placebo.util.EnchantmentUtils
+[06Jun2025 15:08:13.478] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:underground/smallminingoutpost
+[06Jun2025 15:08:31.076] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/building
+[06Jun2025 15:08:31.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/basement
+[06Jun2025 15:08:31.085] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:gorgon_temple/gorgon
+[06Jun2025 15:08:40.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[06Jun2025 15:08:42.770] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of ribbits:paths/path_4_0
+[06Jun2025 15:08:54.052] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_spruce
+[06Jun2025 15:08:54.385] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_leaf
+[06Jun2025 15:09:04.759] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[06Jun2025 15:09:04.761] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[06Jun2025 15:09:24.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:09:24.867] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:09:46.996] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_defender
+[06Jun2025 15:09:47.124] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_hunter
+[06Jun2025 15:09:47.141] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_bottom
+[06Jun2025 15:09:49.129] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of ars_nouveau:wilden_den_top_stalker
+[06Jun2025 15:10:06.368] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:tower_sand
+[06Jun2025 15:10:13.824] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[06Jun2025 15:10:24.097] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of apotheosis:boss_1
+[06Jun2025 15:10:28.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 15:10:48.659] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/taiga_scriber_1
+[06Jun2025 15:11:12.167] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[06Jun2025 15:12:48.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/23671, l='ServerLevel[world]', x=-1351.99, y=69.00, z=135.39] died: Asghar Ghoul was slain by tacticalMus4sh1
+[06Jun2025 15:14:24.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:14:24.831] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:14:42.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/23867, l='ServerLevel[world]', x=-1348.50, y=68.00, z=129.91] died: Asghar Ghoul was slain by tacticalMus4sh1
+[06Jun2025 15:17:55.699] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mowziesmobs:frostmaw_spawn
+[06Jun2025 15:19:24.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:19:24.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:22:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [-3826104515765896777]

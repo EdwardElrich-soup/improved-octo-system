@@ -874,3 +874,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 14:57:45.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:44435] logged in with entity id 10682 at (914.2832565363276, 161.0, -1039.1010053722039)
 [06Jun2025 14:57:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
 [06Jun2025 14:57:45.565] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[06Jun2025 15:05:32.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Remote Getaway]
+[06Jun2025 15:07:28.454] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 15:10:28.614] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 15:12:48.763] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/23671, l='ServerLevel[world]', x=-1351.99, y=69.00, z=135.39] died: Asghar Ghoul was slain by tacticalMus4sh1
+[06Jun2025 15:14:42.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Asghar Ghoul'/23867, l='ServerLevel[world]', x=-1348.50, y=68.00, z=129.91] died: Asghar Ghoul was slain by tacticalMus4sh1
+[06Jun2025 15:22:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [-3826104515765896777]
