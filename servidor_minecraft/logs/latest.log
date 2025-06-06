@@ -889,3 +889,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 20:29:02.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [I Found It Underground]
 [06Jun2025 20:30:53.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.3872194544602984
 [06Jun2025 20:35:59.589] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/69571, l='ServerLevel[world]', x=1230.50, y=57.50, z=543.50]
+[06Jun2025 20:48:00.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was slain by Nightmare Stalker
+[06Jun2025 20:48:00.147] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[06Jun2025 20:50:48.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Blade Arts -Combo A-              ]
+[06Jun2025 20:50:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Blade Arts -Aerial Rave A-       ]
+[06Jun2025 20:54:02.760] [Server thread/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in com/mrcrayfish/goblintraders/Hooks
+[06Jun2025 21:01:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The End?]
+[06Jun2025 21:01:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The Threateningly Mobs]
+[06Jun2025 21:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The End?]

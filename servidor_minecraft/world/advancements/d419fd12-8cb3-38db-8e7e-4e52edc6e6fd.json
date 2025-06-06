@@ -4961,6 +4961,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 20:53:04 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/kamuy_water": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
@@ -5021,6 +5027,12 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 20:53:04 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/laemmle": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
@@ -5033,6 +5045,18 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 21:01:23 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-06-06 20:50:48 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/kamuy_none": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
@@ -5042,6 +5066,12 @@
   "slashblade_addon:recipes/combat/nihil": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-06-06 20:53:04 +0000"
     },
     "done": true
   },
@@ -5075,6 +5105,18 @@
     },
     "done": true
   },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-06-06 20:50:56 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:the_threateningly_mobs": {
+    "criteria": {
+      "the_threateningly_mobs_0": "2025-06-06 21:01:37 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/aquablaze": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
@@ -5099,6 +5141,18 @@
     },
     "done": true
   },
+  "justhammers:recipes/tools/diamond_reinforced_impact_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 20:53:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 21:01:23 +0000"
+    },
+    "done": true
+  },
   "rediscovered:recipes/combat/studded_leggings_from_chainmail": {
     "criteria": {
       "has_chain": "2025-06-06 20:29:02 +0000"
@@ -5108,6 +5162,12 @@
   "slashblade_addon:recipes/combat/kamuy_lightning": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "justhammers:recipes/tools/diamond_destructor_hammer": {
+    "criteria": {
+      "has_material": "2025-06-06 20:53:04 +0000"
     },
     "done": true
   },

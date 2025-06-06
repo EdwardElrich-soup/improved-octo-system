@@ -7895,6 +7895,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-06 20:54:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-06-06 19:43:35 +0000"
@@ -7934,6 +7940,12 @@
   "cataclysm:find_frosted_prison": {
     "criteria": {
       "prison": "2025-06-06 19:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 21:02:05 +0000"
     },
     "done": true
   },
@@ -7994,6 +8006,12 @@
   "netherexp:nether/rattling_remnants": {
     "criteria": {
       "structure": "2025-06-06 20:09:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-06-06 21:02:05 +0000"
     },
     "done": true
   },
