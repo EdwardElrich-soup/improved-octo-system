@@ -4113,6 +4113,7 @@
       "minecraft:witch": "2025-06-05 08:16:32 +0000",
       "minecraft:wither_skeleton": "2025-05-26 05:33:49 +0000",
       "minecraft:husk": "2025-05-26 07:08:38 +0000",
+      "minecraft:ender_dragon": "2025-06-06 12:05:28 +0000",
       "minecraft:cave_spider": "2025-05-25 07:26:01 +0000",
       "minecraft:piglin": "2025-05-26 06:52:54 +0000",
       "minecraft:silverfish": "2025-05-25 03:06:24 +0000",
@@ -9364,12 +9365,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-06 11:49:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 11:48:06 +0000"
@@ -9379,12 +9374,6 @@
   "minecraft:recipes/building_blocks/cut_sandstone": {
     "criteria": {
       "has_sandstone": "2025-06-06 11:48:06 +0000"
-    },
-    "done": true
-  },
-  "rediscovered:recipes/misc/dragon_armor_plating_smithing_template": {
-    "criteria": {
-      "has_breath": "2025-06-06 11:52:49 +0000"
     },
     "done": true
   },
@@ -9418,18 +9407,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
-    "criteria": {
-      "has_end_stone": "2025-06-06 11:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_end": {
-    "criteria": {
-      "entered_end": "2025-06-06 11:49:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2025-06-06 11:48:06 +0000"
@@ -9442,27 +9419,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_bricks": {
-    "criteria": {
-      "has_end_stone": "2025-06-06 11:49:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:end/dragon_breath": {
-    "criteria": {
-      "dragon_breath": "2025-06-06 11:52:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-06-06 11:48:06 +0000"
     },
     "done": true
   },
-  "rediscovered:recipes/misc/dragon_armor_inlay_smithing_template": {
+  "minecraft:recipes/decorations/sandstone_wall": {
     "criteria": {
-      "has_breath": "2025-06-06 11:52:49 +0000"
+      "has_sandstone": "2025-06-06 11:48:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-06-06 11:49:15 +0000"
     },
     "done": true
   },
@@ -9472,9 +9443,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sandstone_wall": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab_from_end_stone_stonecutting": {
     "criteria": {
-      "has_sandstone": "2025-06-06 11:48:06 +0000"
+      "has_end_stone": "2025-06-06 11:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_stone_brick_wall_from_end_stone_stonecutting": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 11:49:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2025-06-06 11:49:30 +0000"
     },
     "done": true
   },
@@ -9487,6 +9470,42 @@
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_stonecutting": {
     "criteria": {
       "has_end_stone": "2025-06-06 11:49:30 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/dragon_armor_plating_smithing_template": {
+    "criteria": {
+      "has_breath": "2025-06-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-06-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/dragon_armor_inlay_smithing_template": {
+    "criteria": {
+      "has_breath": "2025-06-06 11:52:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-06-06 12:05:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2025-06-06 12:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-06-06 12:12:50 +0000"
     },
     "done": true
   },
