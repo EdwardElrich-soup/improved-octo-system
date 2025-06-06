@@ -9139,9 +9139,27 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_leggings_from_iron": {
+    "criteria": {
+      "has_item": "2025-06-06 00:06:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-06-06 00:04:05 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:regalhart_defeat": {
+    "criteria": {
+      "regalhart_defeat_0": "2025-06-06 00:12:50 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/building_blocks/grass_slab": {
+    "criteria": {
+      "has_item": "2025-06-06 00:14:01 +0000"
     },
     "done": true
   },
