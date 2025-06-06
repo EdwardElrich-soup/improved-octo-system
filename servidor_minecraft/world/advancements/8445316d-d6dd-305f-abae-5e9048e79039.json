@@ -4107,6 +4107,7 @@
       "minecraft:spider": "2025-05-25 02:50:10 +0000",
       "minecraft:piglin_brute": "2025-05-27 06:08:48 +0000",
       "minecraft:creeper": "2025-05-25 19:29:27 +0000",
+      "minecraft:wither": "2025-06-06 12:45:27 +0000",
       "minecraft:slime": "2025-06-01 21:26:33 +0000",
       "minecraft:phantom": "2025-06-01 21:54:04 +0000",
       "minecraft:zombified_piglin": "2025-05-26 05:51:00 +0000",
@@ -9509,9 +9510,63 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 12:45:27 +0000"
+    },
+    "done": true
+  },
+  "rediscovered:recipes/misc/nether_reactor_core": {
+    "criteria": {
+      "has_nether_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/summon_wither": {
     "criteria": {
       "summoned": "2025-06-06 12:44:26 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/god_upgrade": {
+    "criteria": {
+      "has_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/time_manipulator_upgrade": {
+    "criteria": {
+      "has_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-06-06 12:49:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/misc/super_support_beacon": {
+    "criteria": {
+      "has_nether_star": "2025-06-06 12:45:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-06-06 12:49:39 +0000"
     },
     "done": true
   },

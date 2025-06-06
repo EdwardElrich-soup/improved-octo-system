@@ -8714,3 +8714,51 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 [06Jun2025 12:44:29.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 12:44:29.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jun2025 12:45:27.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Strong Undead]
+[06Jun2025 12:49:29.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 12:49:29.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 12:49:39.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Back to childhood]
+[06Jun2025 12:49:39.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Not even afraid of death]
+[06Jun2025 12:54:29.744] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 12:54:29.764] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 12:59:29.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 12:59:29.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 13:04:29.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 13:04:29.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 13:09:29.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 13:09:29.756] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 13:10:49.509] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VeinGoblinTrader['Paco'/123307, l='ServerLevel[world]', x=297.60, y=62.00, z=231.46] died: Paco was slain by tacticalMus4sh1
+[06Jun2025 13:14:29.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 13:14:29.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 13:14:32.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[06Jun2025 13:14:32.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[06Jun2025 13:15:26.167] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[06Jun2025 13:15:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jun2025 13:15:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jun2025 13:15:26.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jun2025 13:15:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jun2025 13:15:26.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/rediscovered:skylands
+[06Jun2025 13:15:26.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[06Jun2025 13:15:26.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/voidscape:void
+[06Jun2025 13:15:26.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jun2025 13:15:26.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/witherstormmod:bowels
+[06Jun2025 13:15:26.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jun2025 13:15:26.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mahoutsukai:reality_marble
+[06Jun2025 13:15:26.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/callfromthedepth_:depth
+[06Jun2025 13:15:26.477] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 13:15:26.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 13:15:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (skylands): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (bowels): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (reality_marble): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (depth): All chunks are saved
+[06Jun2025 13:15:26.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jun2025 13:15:26.713] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jun2025 13:15:26.713] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/improved-octo-system/servidor_minecraft/config/goblintraders-entities.toml
+[06Jun2025 13:15:26.714] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[06Jun2025 13:15:26.715] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[06Jun2025 13:15:26.715] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[06Jun2025 13:15:26.715] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
