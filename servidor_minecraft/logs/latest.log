@@ -815,3 +815,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
 [06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 09:18:34.493] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/60538, l='ServerLevel[world]', x=-447.10, y=31.00, z=102.00] as it would cause deadlock
+[06Jun2025 09:23:20.493] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63376, l='ServerLevel[world]', x=178.00, y=31.00, z=-259.00] as it would cause deadlock
+[06Jun2025 09:23:20.494] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63378, l='ServerLevel[world]', x=179.00, y=31.00, z=-258.00] as it would cause deadlock

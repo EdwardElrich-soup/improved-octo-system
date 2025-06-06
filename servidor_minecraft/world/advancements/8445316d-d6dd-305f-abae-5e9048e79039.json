@@ -9309,6 +9309,12 @@
     },
     "done": true
   },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-06-06 09:15:45 +0000"
+    },
+    "done": true
+  },
   "rats:recipes/misc/upgrades/quarry_upgrade": {
     "criteria": {
       "has_paw": "2025-06-06 08:40:13 +0000"
