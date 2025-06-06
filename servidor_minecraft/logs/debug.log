@@ -6732,3 +6732,61 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 09:23:17.463] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of creature_compendium:bastion/netherite_forge
 [06Jun2025 09:23:20.493] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63376, l='ServerLevel[world]', x=178.00, y=31.00, z=-259.00] as it would cause deadlock
 [06Jun2025 09:23:20.494] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/63378, l='ServerLevel[world]', x=179.00, y=31.00, z=-258.00] as it would cause deadlock
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[06Jun2025 09:24:25.561] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[06Jun2025 09:24:25.562] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[06Jun2025 09:24:25.563] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[06Jun2025 09:24:25.563] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[06Jun2025 09:24:25.563] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[06Jun2025 09:24:25.563] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[06Jun2025 09:24:25.563] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[06Jun2025 09:24:25.573] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[06Jun2025 09:24:25.575] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@23bd0c81
+[06Jun2025 09:24:25.575] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[06Jun2025 09:24:25.585] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[06Jun2025 09:24:25.585] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[06Jun2025 09:24:25.588] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23244!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23263!/:?]
+	... 19 more
+[06Jun2025 09:24:25.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 09:24:25.688] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 09:29:25.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 09:29:25.650] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 09:29:43.862] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 10.000265016775018,-0.6453665399933186,1.0587878207784556
