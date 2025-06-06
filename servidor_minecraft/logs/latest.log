@@ -898,3 +898,10 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 21:01:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The Threateningly Mobs]
 [06Jun2025 21:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The End?]
 [06Jun2025 21:07:25.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91735, l='ServerLevel[world]', x=285.27, y=-128.08, z=236.49] died, message: 'Unemployed fell out of the world'
+[06Jun2025 21:19:10.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 burned to death
+[06Jun2025 21:19:10.138] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[06Jun2025 21:19:46.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
+[06Jun2025 21:19:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[06Jun2025 21:22:45.608] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:42787] logged in with entity id 94556 at (419.09156287624467, 34.0, 303.9935615273436)
+[06Jun2025 21:22:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[06Jun2025 21:22:45.696] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
