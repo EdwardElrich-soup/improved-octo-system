@@ -4991,6 +4991,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-06-06 21:09:55 +0000"
+    },
+    "done": true
+  },
   "slashblade:recipes/combat/muramasa": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"

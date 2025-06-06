@@ -897,3 +897,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 21:01:23.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The End?]
 [06Jun2025 21:01:37.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [The Threateningly Mobs]
 [06Jun2025 21:02:05.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The End?]
+[06Jun2025 21:07:25.484] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/91735, l='ServerLevel[world]', x=285.27, y=-128.08, z=236.49] died, message: 'Unemployed fell out of the world'
