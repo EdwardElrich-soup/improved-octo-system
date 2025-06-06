@@ -9151,6 +9151,18 @@
     },
     "done": true
   },
+  "threateningly_mobs:lich_defeat": {
+    "criteria": {
+      "lich_defeat_0": "2025-06-06 00:21:57 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2025-06-06 00:18:33 +0000"
+    },
+    "done": true
+  },
   "threateningly_mobs:regalhart_defeat": {
     "criteria": {
       "regalhart_defeat_0": "2025-06-06 00:12:50 +0000"

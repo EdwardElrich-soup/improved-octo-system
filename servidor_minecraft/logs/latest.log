@@ -169,3 +169,6 @@
 [06Jun2025 00:06:09.366] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Keith the Alien'/2791, l='ServerLevel[world]', x=70.60, y=80.00, z=303.53] died: Keith the Alien was slain by tacticalMus4sh1
 [06Jun2025 00:12:50.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [The Sovereign Aura]
 [06Jun2025 00:18:33.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Chaos Knight]
+[06Jun2025 00:21:57.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [a ominous figure Floating in the night sky.]
+[06Jun2025 00:24:55.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=364, y=65, z=180} BlockPos{x=363, y=65, z=180}
+[06Jun2025 00:25:52.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Village Defender]
