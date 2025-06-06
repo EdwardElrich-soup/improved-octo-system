@@ -811,3 +811,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 14:10:23.265] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! 8.619568312689395,0.883607417556064,5.709753067350415
 [06Jun2025 14:11:22.744] [Worker-Main-14/INFO] [ModernFix/]: Instantiating Mojang DFU
 [06Jun2025 14:12:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Rooted islands in the sky]
+[06Jun2025 14:14:44.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Is it any different than normal moss?]
+[06Jun2025 14:15:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [A Ruined Citadel]
+[06Jun2025 14:16:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Palette Swap]
+[06Jun2025 14:21:31.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[06Jun2025 14:21:41.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Was that a Shulker?]
+[06Jun2025 14:23:37.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!

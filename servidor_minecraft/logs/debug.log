@@ -6719,3 +6719,13 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 14:11:25.429] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel7 is being run through DFU (hash b405ea6bdf6d9a186c2cc9718fe508d8ed8d59e3785428407f46a50c92e86d28), this will cause launch time delays
 [06Jun2025 14:11:25.471] [Worker-Main-14/DEBUG] [ModernFix/]: Structure cataclysm:ruined_citadel16 is being run through DFU (hash c3a0075667cc96a9e603b4dbfb8651446d631e6db023453b6a977f9e6bcad14c), this will cause launch time delays
 [06Jun2025 14:12:49.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Rooted islands in the sky]
+[06Jun2025 14:14:24.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 14:14:24.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 14:14:44.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Is it any different than normal moss?]
+[06Jun2025 14:15:14.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [A Ruined Citadel]
+[06Jun2025 14:16:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Palette Swap]
+[06Jun2025 14:19:24.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 14:19:24.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 14:21:31.091] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[06Jun2025 14:21:41.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [Was that a Shulker?]
+[06Jun2025 14:23:37.235] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
