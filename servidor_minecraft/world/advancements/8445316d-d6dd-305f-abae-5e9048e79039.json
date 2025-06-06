@@ -9303,5 +9303,17 @@
     },
     "done": true
   },
+  "rats:recipes/misc/upgrades/sculked_upgrade": {
+    "criteria": {
+      "has_paw": "2025-06-06 08:40:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/quarry_upgrade": {
+    "criteria": {
+      "has_paw": "2025-06-06 08:40:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

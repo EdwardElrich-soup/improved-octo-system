@@ -812,3 +812,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 08:27:34.242] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [06Jun2025 08:32:42.396] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Madam Elton the Doominator'/4207, l='ServerLevel[world]', x=570.89, y=75.00, z=133.33] died: Madam Elton the Doominator was slain by tacticalMus4sh1
 [06Jun2025 08:36:07.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Jim the Ninja'/5353, l='ServerLevel[world]', x=236.70, y=72.00, z=-22.64] died: Jim the Ninja was slain by tacticalMus4sh1
+[06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 08:44:28.162] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
