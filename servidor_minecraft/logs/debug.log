@@ -7396,3 +7396,25 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 15:19:24.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 15:19:24.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jun2025 15:22:11.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Seed: [-3826104515765896777]
+[06Jun2025 15:24:24.798] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:24:24.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:24:43.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1497, y=69, z=-120} BlockPos{x=-1497, y=68, z=-118}
+[06Jun2025 15:25:18.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Roberta the Supreme'/29650, l='ServerLevel[world]', x=-1585.71, y=-1.15, z=7.94] died: Roberta the Supreme was slain by tacticalMus4sh1
+[06Jun2025 15:29:24.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:29:24.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:31:01.351] [Server thread/ERROR] [placebo/]: ##############################
+[06Jun2025 15:31:01.351] [Server thread/ERROR] [placebo/]: A Block apotheosis:boss_spawner with BlockEntityType minecraft:chest has subscribed as a TickingEntityBlock but is not using TickingBlockEntityType!
+[06Jun2025 15:31:01.352] [Server thread/ERROR] [placebo/]: ##############################
+[06Jun2025 15:31:51.263] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[06Jun2025 15:32:03.171] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[06Jun2025 15:32:21.967] [Worker-Main-83/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[06Jun2025 15:34:24.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:34:24.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:35:33.643] [Worker-Main-59/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[06Jun2025 15:37:48.797] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[06Jun2025 15:38:23.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[06Jun2025 15:39:24.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:39:24.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 15:40:52.234] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Professor Vanou'/50538, l='ServerLevel[world]', x=-2273.56, y=69.00, z=-301.30] died: Professor Vanou was slain by Dire Hound Leader
+[06Jun2025 15:44:24.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 15:44:24.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
