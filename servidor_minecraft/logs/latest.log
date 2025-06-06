@@ -811,3 +811,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 22:45:08.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2269ms or 45 ticks behind
 [06Jun2025 22:45:10.828] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -7.263357371548864,1.3934572556492242,16.17707383842776
 [06Jun2025 22:45:13.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -6.538713727817594,1.8883702918598146,16.734990660056155
+[06Jun2025 22:49:06.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -12.991802112515643,-9.996275628701042,7.319865774404207
+[06Jun2025 22:49:06.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
+[06Jun2025 22:53:43.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
+[06Jun2025 22:58:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Cursed Soul]
