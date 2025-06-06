@@ -4967,6 +4967,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/stolen_magic": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 21:38:57 +0000"
+    },
+    "done": true
+  },
   "slashblade_addon:recipes/combat/kamuy_water": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
@@ -5018,6 +5024,12 @@
   "slashblade_addon:recipes/combat/frosty_cherry": {
     "criteria": {
       "has_slashblade": "2025-06-06 20:40:25 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 21:39:54 +0000"
     },
     "done": true
   },
