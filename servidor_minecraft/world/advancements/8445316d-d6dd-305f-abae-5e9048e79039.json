@@ -9163,6 +9163,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_pump_upgrade": {
+    "criteria": {
+      "has_pump_upgrade": "2025-06-06 00:48:29 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:chaos_knight": {
     "criteria": {
       "chaos_knight_0": "2025-06-06 00:18:33 +0000"
@@ -9178,6 +9184,12 @@
   "rediscovered:recipes/building_blocks/grass_slab": {
     "criteria": {
       "has_item": "2025-06-06 00:14:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-06-06 01:02:00 +0000"
     },
     "done": true
   },
