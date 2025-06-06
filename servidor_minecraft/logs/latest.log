@@ -849,3 +849,32 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 19:55:27.232] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
 [06Jun2025 19:55:27.236] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
 [06Jun2025 19:56:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Crusade Against Curse]
+[06Jun2025 20:02:49.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Creative Mode]
+[06Jun2025 20:03:03.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [MarcoDelNorte: Set own game mode to Survival Mode]
+[06Jun2025 20:03:31.762] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 20:03:31.763] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 20:03:31.764] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[06Jun2025 20:03:35.880] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4669ms or 93 ticks behind
+[06Jun2025 20:03:38.133] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38791, l='ServerLevel[world]', x=-781.00, y=31.00, z=-891.00] as it would cause deadlock
+[06Jun2025 20:03:51.527] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38983, l='ServerLevel[world]', x=-893.00, y=31.00, z=-889.00] as it would cause deadlock
+[06Jun2025 20:03:58.077] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/39002, l='ServerLevel[world]', x=-685.00, y=31.00, z=-777.00] as it would cause deadlock
+[06Jun2025 20:05:58.504] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42673, l='ServerLevel[world]', x=-645.00, y=31.00, z=-679.00] as it would cause deadlock
+[06Jun2025 20:05:58.505] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42675, l='ServerLevel[world]', x=-643.00, y=31.00, z=-680.00] as it would cause deadlock
+[06Jun2025 20:06:52.412] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47773, l='ServerLevel[world]', x=-401.00, y=31.00, z=-555.00] as it would cause deadlock
+[06Jun2025 20:06:52.413] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47773, l='ServerLevel[world]', x=-401.00, y=31.00, z=-555.00] as it would cause deadlock
+[06Jun2025 20:06:59.306] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48692, l='ServerLevel[world]', x=-355.00, y=31.00, z=-695.00] as it would cause deadlock
+[06Jun2025 20:08:04.398] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49175, l='ServerLevel[world]', x=-620.00, y=31.00, z=-504.00] as it would cause deadlock
+[06Jun2025 20:08:04.398] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49177, l='ServerLevel[world]', x=-619.00, y=31.00, z=-506.00] as it would cause deadlock
+[06Jun2025 20:08:20.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Frightening Rush]
+[06Jun2025 20:09:11.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Rattling Remnants]
+[06Jun2025 20:11:03.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Non-renewable? Yeah, right..]
+[06Jun2025 20:11:35.643] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50656, l='ServerLevel[world]', x=-372.00, y=31.00, z=-381.00] as it would cause deadlock
+[06Jun2025 20:11:43.799] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50682, l='ServerLevel[world]', x=-511.10, y=31.00, z=-342.00] as it would cause deadlock
+[06Jun2025 20:11:43.800] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50684, l='ServerLevel[world]', x=-510.00, y=31.00, z=-343.00] as it would cause deadlock
+[06Jun2025 20:11:49.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Those Were the Days]
+[06Jun2025 20:12:05.563] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50732, l='ServerLevel[world]', x=-429.00, y=31.00, z=-332.00] as it would cause deadlock
+[06Jun2025 20:12:11.347] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50768, l='ServerLevel[world]', x=-388.00, y=31.00, z=-306.00] as it would cause deadlock
+[06Jun2025 20:17:21.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [War Pigs]
+[06Jun2025 20:19:05.407] [Worker-Main-11/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/53137, l='ServerLevel[world]', x=-175.00, y=31.00, z=-302.00] as it would cause deadlock
+[06Jun2025 20:20:28.605] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
+[06Jun2025 20:20:28.606] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/55448, l='ServerLevel[world]', x=-11.00, y=31.00, z=-293.00] as it would cause deadlock
