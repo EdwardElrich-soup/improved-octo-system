@@ -815,3 +815,23 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 22:49:06.683] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2704ms or 54 ticks behind
 [06Jun2025 22:53:43.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved wrongly!
 [06Jun2025 22:58:50.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The Cursed Soul]
+[06Jun2025 23:57:03.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3108, y=-52, z=3820} BlockPos{x=-3109, y=-53, z=3819}
+[06Jun2025 23:57:12.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3106, y=-52, z=3796} BlockPos{x=-3107, y=-52, z=3797}
+[06Jun2025 23:57:13.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3106, y=-51, z=3793} BlockPos{x=-3105, y=-52, z=3793}
+[06Jun2025 23:57:13.408] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3106, y=-51, z=3793} BlockPos{x=-3105, y=-52, z=3793}
+[06Jun2025 23:57:13.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3104, y=-52, z=3794} BlockPos{x=-3105, y=-52, z=3793}
+[06Jun2025 23:57:13.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3104, y=-52, z=3794} BlockPos{x=-3105, y=-52, z=3793}
+[06Jun2025 23:57:13.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3104, y=-52, z=3794} BlockPos{x=-3105, y=-52, z=3793}
+[06Jun2025 23:57:15.607] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3104, y=-52, z=3793} BlockPos{x=-3104, y=-53, z=3792}
+[06Jun2025 23:57:16.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3104, y=-52, z=3788} BlockPos{x=-3101, y=-52, z=3789}
+[06Jun2025 23:57:19.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-52, z=3788} BlockPos{x=-3099, y=-53, z=3792}
+[06Jun2025 23:57:20.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-52, z=3787} BlockPos{x=-3097, y=-52, z=3788}
+[06Jun2025 23:57:20.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-52, z=3787} BlockPos{x=-3097, y=-52, z=3788}
+[06Jun2025 23:57:32.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-51, z=3790} BlockPos{x=-3085, y=-52, z=3787}
+[06Jun2025 23:57:32.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-51, z=3790} BlockPos{x=-3085, y=-52, z=3787}
+[06Jun2025 23:57:32.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-51, z=3790} BlockPos{x=-3085, y=-52, z=3787}
+[06Jun2025 23:57:32.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3097, y=-51, z=3790} BlockPos{x=-3085, y=-52, z=3787}
+[06Jun2025 23:57:33.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3084, y=-53, z=3786} BlockPos{x=-3084, y=-52, z=3787}
+[06Jun2025 23:58:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [It Spreads]
+[06Jun2025 23:58:08.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Strange biomass]
+[06Jun2025 23:58:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Sneak 100]
