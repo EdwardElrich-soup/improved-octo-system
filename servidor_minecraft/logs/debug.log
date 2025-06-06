@@ -7331,3 +7331,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 19:42:33.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jun2025 19:47:33.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jun2025 19:47:33.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 19:52:33.636] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 19:52:33.653] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jun2025 19:55:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was cursed by Maledictus
+[06Jun2025 19:55:27.224] [Server thread/DEBUG] [tombstone/]: A new grave of the player MarcoDelNorte was created at position [x:-6091, y:74, z:-7576, dim:minecraft:overworld]
+[06Jun2025 19:55:27.230] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jun2025 19:55:27.232] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[06Jun2025 19:55:27.236] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[06Jun2025 19:56:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Crusade Against Curse]
+[06Jun2025 19:57:33.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 19:57:33.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

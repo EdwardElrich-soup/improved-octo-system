@@ -7970,6 +7970,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_maledictus": {
+    "criteria": {
+      "ignis": "2025-06-06 19:56:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-06-06 19:43:35 +0000"

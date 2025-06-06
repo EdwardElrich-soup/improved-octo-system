@@ -841,3 +841,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 19:24:41.668] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/16060, l='ServerLevel[world]', x=1305.88, y=85.54, z=-804.88] died, message: 'Leatherworker was burnt to a crisp whilst fighting Fire Dragon'
 [06Jun2025 19:31:05.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tocino20 lost connection: Disconnected
 [06Jun2025 19:31:05.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 left the game
+[06Jun2025 19:55:27.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte was cursed by Maledictus
+[06Jun2025 19:55:27.230] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[06Jun2025 19:55:27.231] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[06Jun2025 19:55:27.232] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[06Jun2025 19:55:27.236] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[06Jun2025 19:56:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has completed the challenge [Crusade Against Curse]
