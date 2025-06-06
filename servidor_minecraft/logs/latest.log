@@ -317,3 +317,95 @@
 [06Jun2025 01:07:20.392] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
 [06Jun2025 01:08:10.977] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2096ms or 41 ticks behind
 [06Jun2025 01:09:22.343] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3062ms or 61 ticks behind
+[06Jun2025 01:09:41.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [No Step on Snake]
+[06Jun2025 01:09:42.173] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4842ms or 96 ticks behind
+[06Jun2025 01:10:16.097] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/25608, l='ServerLevel[world]', x=-4529.74, y=75.00, z=-3087.50] died, message: 'Leatherworker was slain by Myrmex Worker'
+[06Jun2025 01:10:27.473] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/25605, l='ServerLevel[world]', x=-4521.94, y=75.95, z=-3079.76] died, message: 'Unemployed was slain by Myrmex Sentinel'
+[06Jun2025 01:10:46.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Eye of The Storm]
+[06Jun2025 01:10:49.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[06Jun2025 01:11:09.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[06Jun2025 01:11:24.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has reached the goal [Fortuitous Militia]
+[06Jun2025 01:11:30.402] [Worker-Main-68/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40427, l='ServerLevel[world]', x=21.00, y=31.00, z=535.00] as it would cause deadlock
+[06Jun2025 01:11:37.028] [Worker-Main-62/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40550, l='ServerLevel[world]', x=26.00, y=31.00, z=544.90] as it would cause deadlock
+[06Jun2025 01:12:16.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:12:17.405] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:12:19.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:14:33.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:14:34.030] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:19:03.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Oh Shiny]
+[06Jun2025 01:24:13.785] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/58954, l='ServerLevel[world]', x=265.42, y=73.00, z=215.49] died, message: 'Unemployed was slain by Decaying Zombie'
+[06Jun2025 01:25:48.794] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:25:49.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:25:50.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:25:52.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Cursed Pyramid]
+[06Jun2025 01:25:53.793] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:25:54.896] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:25:59.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:26:01.595] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:26:01.895] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:26:03.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [The Desert Swimmers]
+[06Jun2025 01:27:22.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:22.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:24.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:28.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:30.578] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:32.190] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:33.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:34.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:37.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:39.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:39.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:40.495] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:43.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:45.294] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:45.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:46.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:50.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:51.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:52.191] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:52.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:56.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:57.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:58.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:27:59.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:02.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:03.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:04.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:05.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:08.728] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:10.194] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:10.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:11.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:14.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:16.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:16.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:17.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:21.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:22.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:23.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:23.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:27.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:28.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:29.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:30.088] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:33.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:34.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:35.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:36.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:39.708] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:41.090] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:41.790] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:42.491] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:45.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:47.288] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:47.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:48.695] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:52.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:53.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:54.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:54.893] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:58.293] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:28:59.692] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:29:00.421] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[06Jun2025 01:29:02.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

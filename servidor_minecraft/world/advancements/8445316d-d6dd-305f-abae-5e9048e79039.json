@@ -9151,6 +9151,12 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2025-06-06 01:19:03 +0000"
+    },
+    "done": true
+  },
   "threateningly_mobs:lich_defeat": {
     "criteria": {
       "lich_defeat_0": "2025-06-06 00:21:57 +0000"
