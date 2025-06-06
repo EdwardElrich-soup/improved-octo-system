@@ -9157,6 +9157,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 00:25:52 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:chaos_knight": {
     "criteria": {
       "chaos_knight_0": "2025-06-06 00:18:33 +0000"
