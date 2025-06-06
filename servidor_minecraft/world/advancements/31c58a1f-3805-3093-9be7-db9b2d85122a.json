@@ -2378,7 +2378,9 @@
       "minecraft:wooded_badlands": "2025-06-06 01:26:46 +0000",
       "minecraft:beach": "2025-05-25 03:07:29 +0000",
       "minecraft:dark_forest": "2025-06-06 00:55:28 +0000",
+      "minecraft:sparse_jungle": "2025-06-06 02:12:16 +0000",
       "minecraft:river": "2025-05-25 02:26:29 +0000",
+      "minecraft:lukewarm_ocean": "2025-06-06 02:12:38 +0000",
       "minecraft:cold_ocean": "2025-06-05 16:52:22 +0000",
       "minecraft:forest": "2025-05-25 03:10:17 +0000",
       "minecraft:deep_cold_ocean": "2025-06-05 17:02:10 +0000",
@@ -2386,7 +2388,9 @@
       "minecraft:desert": "2025-06-06 01:08:41 +0000",
       "minecraft:deep_frozen_ocean": "2025-06-05 17:01:44 +0000",
       "minecraft:ocean": "2025-05-25 03:12:02 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-06 02:15:06 +0000",
       "minecraft:snowy_beach": "2025-06-05 17:00:35 +0000",
+      "minecraft:warm_ocean": "2025-06-06 02:03:11 +0000",
       "minecraft:flower_forest": "2025-05-25 02:13:59 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-25 03:15:35 +0000",
       "minecraft:meadow": "2025-06-01 00:13:54 +0000",
@@ -7416,6 +7420,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-06-06 02:18:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_orange_wool": "2025-06-06 01:12:54 +0000"
@@ -7494,6 +7504,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-06-06 02:19:00 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-06-06 01:11:24 +0000"
@@ -7503,6 +7519,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-06-06 01:19:00 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
     },
     "done": true
   },
@@ -7539,6 +7561,12 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 01:06:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
     },
     "done": true
   },
@@ -7638,6 +7666,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-06-06 02:05:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_blue_leggings": {
     "criteria": {
       "has_item": "2025-06-06 01:00:37 +0000"
@@ -7728,6 +7762,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-06-06 02:14:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_trident": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-06-06 01:06:26 +0000"
@@ -7751,6 +7797,12 @@
       "has_sherd": "2025-06-06 01:09:50 +0000"
     },
     "done": false
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
+    },
+    "done": true
   },
   "connectedglass:recipes/misc/clear_glass_blue2": {
     "criteria": {
@@ -7794,9 +7846,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/sea_serpent_arrow": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_cursed_pyramid": {
     "criteria": {
       "pyramid": "2025-06-06 01:25:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-06-06 02:14:03 +0000"
     },
     "done": true
   },

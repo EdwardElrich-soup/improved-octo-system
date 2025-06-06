@@ -9141,9 +9141,9 @@
     },
     "done": true
   },
-  "tombstone:adventure/neighborhood_brawl": {
+  "born_in_chaos_v1:big_boy": {
     "criteria": {
-      "coded_trigger": "2025-06-06 01:39:08 +0000"
+      "big_boy_0": "2025-06-06 00:04:05 +0000"
     },
     "done": true
   },
@@ -9153,21 +9153,21 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:big_boy": {
+  "threateningly_mobs:regalhart_defeat": {
     "criteria": {
-      "big_boy_0": "2025-06-06 00:04:05 +0000"
+      "regalhart_defeat_0": "2025-06-06 00:12:50 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:hatman": {
+  "rediscovered:recipes/building_blocks/grass_slab": {
     "criteria": {
-      "hatman_0": "2025-06-06 01:35:21 +0000"
+      "has_item": "2025-06-06 00:14:01 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:nether/distract_piglin": {
+  "born_in_chaos_v1:chaos_knight": {
     "criteria": {
-      "distract_piglin": "2025-06-06 01:19:03 +0000"
+      "chaos_knight_0": "2025-06-06 00:18:33 +0000"
     },
     "done": true
   },
@@ -9189,15 +9189,15 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:chaos_knight": {
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
-      "chaos_knight_0": "2025-06-06 00:18:33 +0000"
+      "lightning_rod_with_villager_no_fire": "2025-06-06 01:02:00 +0000"
     },
     "done": true
   },
-  "threateningly_mobs:regalhart_defeat": {
+  "minecraft:nether/distract_piglin": {
     "criteria": {
-      "regalhart_defeat_0": "2025-06-06 00:12:50 +0000"
+      "distract_piglin": "2025-06-06 01:19:03 +0000"
     },
     "done": true
   },
@@ -9207,9 +9207,27 @@
     },
     "done": true
   },
-  "rediscovered:recipes/building_blocks/grass_slab": {
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
-      "has_item": "2025-06-06 00:14:01 +0000"
+      "has_silver_ingot": "2025-06-06 01:26:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_0": "2025-06-06 01:35:21 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/neighborhood_brawl": {
+    "criteria": {
+      "coded_trigger": "2025-06-06 01:39:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-06-06 01:49:56 +0000"
     },
     "done": true
   },
@@ -9219,27 +9237,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-06-06 01:26:48 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-06-06 01:58:58 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+  "born_in_chaos_v1:wrong_santa": {
     "criteria": {
-      "lightning_rod_with_villager_no_fire": "2025-06-06 01:02:00 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/create_magic_scroll": {
-    "criteria": {
-      "has_magic_scroll": "2025-06-06 01:49:56 +0000"
+      "wrong_santa_0": "2025-06-06 06:33:47 +0000"
     },
     "done": true
   },
