@@ -4121,6 +4121,7 @@
       "minecraft:silverfish": "2025-05-25 03:06:24 +0000",
       "minecraft:enderman": "2025-05-26 06:29:57 +0000",
       "minecraft:stray": "2025-06-03 23:38:56 +0000",
+      "minecraft:endermite": "2025-06-06 14:53:05 +0000",
       "minecraft:vex": "2025-05-25 08:03:20 +0000",
       "minecraft:zombie": "2025-05-25 19:10:20 +0000",
       "minecraft:drowned": "2025-05-26 07:51:24 +0000",
@@ -9571,27 +9572,16 @@
     },
     "done": true
   },
-  "cataclysm:find_ruined_citadel": {
+  "mofus_better_end_:root_archipelago_advancement": {
     "criteria": {
-      "citadel": "2025-06-06 14:15:14 +0000"
+      "root_archipelago_advancement_0": "2025-06-06 14:12:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
+  "mofus_better_end_:moss_plains_achievement": {
     "criteria": {
-      "has_end_stone_bricks": "2025-06-06 14:23:52 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/enderiophage": {
-    "criteria": {
-      "killed_by": "2025-06-06 14:26:10 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/end_blueprint": {
-    "criteria": {
-      "end_blueprint": "2025-06-06 14:16:15 +0000"
+      "moss_plains_achievement_1": "2025-06-06 14:14:14 +0000",
+      "moss_plains_achievement_0": "2025-06-06 14:14:44 +0000"
     },
     "done": true
   },
@@ -9601,9 +9591,9 @@
     },
     "done": true
   },
-  "mofus_better_end_:root_archipelago_advancement": {
+  "cataclysm:find_ruined_citadel": {
     "criteria": {
-      "root_archipelago_advancement_0": "2025-06-06 14:12:49 +0000"
+      "citadel": "2025-06-06 14:15:14 +0000"
     },
     "done": true
   },
@@ -9613,21 +9603,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/capsid": {
+  "scguns:main/end_blueprint": {
     "criteria": {
-      "capsid": "2025-06-06 14:26:11 +0000"
+      "end_blueprint": "2025-06-06 14:16:15 +0000"
     },
     "done": true
   },
-  "minecraft:end/elytra": {
+  "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
-      "elytra": "2025-06-06 14:48:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
-    "criteria": {
-      "has_end_stone_bricks": "2025-06-06 14:23:52 +0000"
+      "has_shulker_shell": "2025-06-06 14:16:56 +0000"
     },
     "done": true
   },
@@ -9637,27 +9621,21 @@
     },
     "done": true
   },
-  "mofus_better_end_:blood_star_forest_advancement": {
+  "minecraft:recipes/building_blocks/end_stone_brick_slab": {
     "criteria": {
-      "blood_star_forest_advancement_1": "2025-06-06 14:28:30 +0000"
+      "has_end_stone_bricks": "2025-06-06 14:23:52 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/decorations/shulker_box": {
+  "minecraft:recipes/building_blocks/end_stone_brick_stairs": {
     "criteria": {
-      "has_shulker_shell": "2025-06-06 14:16:56 +0000"
+      "has_end_stone_bricks": "2025-06-06 14:23:52 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/end_stone_brick_stairs_from_end_stone_brick_stonecutting": {
     "criteria": {
       "has_end_stone_brick": "2025-06-06 14:23:52 +0000"
-    },
-    "done": true
-  },
-  "mofus_better_end_:greater_endermite_advancement": {
-    "criteria": {
-      "greater_endermite_advancement_0": "2025-06-06 14:30:20 +0000"
     },
     "done": true
   },
@@ -9679,22 +9657,93 @@
     },
     "done": true
   },
-  "minecraft:end/find_end_city": {
+  "alexsmobs:alexsmobs/enderiophage": {
     "criteria": {
-      "in_city": "2025-06-06 14:48:30 +0000"
+      "killed_by": "2025-06-06 14:26:10 +0000"
     },
     "done": true
   },
-  "mofus_better_end_:moss_plains_achievement": {
+  "alexsmobs:alexsmobs/capsid": {
     "criteria": {
-      "moss_plains_achievement_1": "2025-06-06 14:14:14 +0000",
-      "moss_plains_achievement_0": "2025-06-06 14:14:44 +0000"
+      "capsid": "2025-06-06 14:26:11 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:blood_star_forest_advancement": {
+    "criteria": {
+      "blood_star_forest_advancement_1": "2025-06-06 14:28:30 +0000"
+    },
+    "done": false
+  },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-06-06 14:30:20 +0000"
     },
     "done": true
   },
   "mofus_better_end_:end_observatory_advancement": {
     "criteria": {
       "end_observatory_advancement_0": "2025-06-06 14:47:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2025-06-06 14:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-06-06 14:48:55 +0000"
+    },
+    "done": true
+  },
+  "witherstormmod:recipes/redstone/firework_bundle": {
+    "criteria": {
+      "has_firework_rocket": "2025-06-06 14:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_pillar_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs_from_purpur_block_stonecutting": {
+    "criteria": {
+      "has_purpur_block": "2025-06-06 14:52:36 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:end_labyrinth_advancement": {
+    "criteria": {
+      "end_labyrinth_advancement_0": "2025-06-06 14:55:17 +0000"
     },
     "done": true
   },

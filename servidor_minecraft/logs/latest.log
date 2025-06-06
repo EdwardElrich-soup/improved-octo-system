@@ -866,3 +866,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 14:48:30.754] [Worker-Main-18/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-17, z=-39}
 [06Jun2025 14:48:30.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [The City at the End of the Game]
 [06Jun2025 14:48:55.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Sky's the Limit]
+[06Jun2025 14:55:17.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Who built this?]
+[06Jun2025 14:56:47.921] [Worker-Main-59/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-14, y=-47, z=-60}
+[06Jun2025 14:57:36.529] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Disconnected
+[06Jun2025 14:57:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[06Jun2025 14:57:36.603] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jun2025 14:57:45.512] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:44435] logged in with entity id 10682 at (914.2832565363276, 161.0, -1039.1010053722039)
+[06Jun2025 14:57:45.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[06Jun2025 14:57:45.565] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
