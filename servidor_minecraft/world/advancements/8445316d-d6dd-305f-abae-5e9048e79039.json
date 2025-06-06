@@ -9249,5 +9249,41 @@
     },
     "done": true
   },
+  "dungeons_and_combat:let_the_ceremony_begin": {
+    "criteria": {
+      "let_the_ceremony_begin_0": "2025-06-06 06:36:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_familiar_receptacle": {
+    "criteria": {
+      "has_receptacle_of_familiar": "2025-06-06 06:36:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2025-06-06 06:36:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-06 06:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-06 06:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-06 06:39:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

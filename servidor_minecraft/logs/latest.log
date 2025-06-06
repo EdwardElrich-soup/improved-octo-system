@@ -808,3 +808,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 06:33:47.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has reached the goal [Wrong Santa]
 [06Jun2025 06:36:21.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Let The Ceremony Begin]
 [06Jun2025 06:36:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Your First Receptacle]
+[06Jun2025 06:42:38.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 moved too quickly! -4.159822491949399,0.9859444844591536,9.146681016561388
+[06Jun2025 06:42:43.271] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: tacticalMus4sh1 lost connection: Timed out
+[06Jun2025 06:42:43.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 left the game
+[06Jun2025 06:42:43.344] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jun2025 06:42:54.191] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: tacticalMus4sh1[/127.141.37.97:53147] logged in with entity id 6885 at (-1830.8642241983202, 74.40288232151751, -1084.6161853106237)
+[06Jun2025 06:42:54.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 joined the game
+[06Jun2025 06:42:54.229] [Server thread/INFO] [Jade/]: Syncing config to tacticalMus4sh1 (8445316d-d6dd-305f-abae-5e9048e79039)
+[06Jun2025 06:44:24.130] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7437, l='ServerLevel[world]', x=-1685.13, y=-28.00, z=-821.25, removed=DISCARDED]
+[06Jun2025 06:44:24.226] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7440, l='ServerLevel[world]', x=-1684.92, y=-28.00, z=-820.39, removed=DISCARDED]
+[06Jun2025 06:44:32.926] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7946, l='ServerLevel[world]', x=-1610.51, y=-30.00, z=-801.68, removed=DISCARDED]
+[06Jun2025 06:44:33.177] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7947, l='ServerLevel[world]', x=-1609.13, y=-30.00, z=-801.68, removed=DISCARDED]
+[06Jun2025 06:44:33.177] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7954, l='ServerLevel[world]', x=-1610.23, y=-30.00, z=-800.61, removed=DISCARDED]
+[06Jun2025 06:44:33.303] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7945, l='ServerLevel[world]', x=-1608.13, y=-30.00, z=-801.47, removed=DISCARDED]
+[06Jun2025 06:44:33.379] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/7952, l='ServerLevel[world]', x=-1608.81, y=-30.00, z=-800.54, removed=DISCARDED]
+[06Jun2025 06:47:24.671] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8578, l='ServerLevel[world]', x=-1381.26, y=-128.08, z=-851.90] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:48:13.167] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8498, l='ServerLevel[world]', x=-1405.65, y=-128.08, z=-828.85] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:48:48.318] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/8409, l='ServerLevel[world]', x=-1418.14, y=-128.08, z=-875.16] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:48:50.175] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/10544, l='ServerLevel[world]', x=-1418.01, y=-128.08, z=-874.81] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:53:11.016] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11790, l='ServerLevel[world]', x=-700.70, y=-128.08, z=-550.50] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:54:08.814] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11791, l='ServerLevel[world]', x=-693.29, y=-128.08, z=-547.50] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:54:18.469] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11925, l='ServerLevel[world]', x=-668.20, y=-128.08, z=-545.20] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:55:05.121] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11793, l='ServerLevel[world]', x=-699.90, y=-128.08, z=-502.50] died, message: 'Unemployed fell out of the world'
+[06Jun2025 06:55:38.065] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/11871, l='ServerLevel[world]', x=-807.60, y=67.12, z=-445.57] died: Honeyed Archer burned to death
+[06Jun2025 06:56:49.417] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/11922, l='ServerLevel[world]', x=-664.03, y=-128.08, z=-583.49] died, message: 'Unemployed fell out of the world'
