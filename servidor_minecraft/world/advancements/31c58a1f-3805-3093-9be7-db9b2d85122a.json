@@ -8207,6 +8207,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-06-07 03:53:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 03:40:21 +0000"
@@ -8345,6 +8351,12 @@
     },
     "done": true
   },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-06-07 04:04:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-06-07 03:40:21 +0000"
@@ -8432,6 +8444,12 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 03:40:21 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/epic": {
+    "criteria": {
+      "sword": "2025-06-07 03:47:11 +0000"
     },
     "done": true
   },

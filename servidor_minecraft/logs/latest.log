@@ -858,3 +858,74 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 03:27:54.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/79558, l='ServerLevel[world]', x=480.14, y=67.26, z=180.09] died: Honeyed Archer suffocated in a wall
 [07Jun2025 03:40:34.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has completed the challenge [Master Siphoner]
 [07Jun2025 03:40:46.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Esperanza the Cheese Sprayer'/83302, l='ServerLevel[world]', x=240.05, y=64.00, z=290.12] died: Esperanza the Cheese Sprayer was slain by MarcoDelNorte
+[07Jun2025 03:47:10.650] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Piglin['Duke Leonard'/84430, l='ServerLevel[world]', x=81.16, y=62.00, z=7.58] died: Duke Leonard was slain by MarcoDelNorte
+[07Jun2025 03:47:11.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Epic!]
+[07Jun2025 03:49:48.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=264, y=65, z=266} BlockPos{x=-23, y=47, z=53}
+[07Jun2025 03:52:58.306] [Worker-Main-93/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1168, y=-23, z=101}
+[07Jun2025 03:52:58.306] [Worker-Main-93/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=1162, y=-23, z=95}
+[07Jun2025 03:53:20.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte has made the advancement [Straddle My Ol' Saddle]
+[07Jun2025 03:54:13.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-222, y=42, z=230} BlockPos{x=-237, y=47, z=244}
+[07Jun2025 03:56:50.947] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-408, y=56, z=285} BlockPos{x=-411, y=56, z=283}
+[07Jun2025 03:56:51.005] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-409, y=56, z=285} BlockPos{x=-411, y=56, z=283}
+[07Jun2025 03:56:51.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-409, y=56, z=286} BlockPos{x=-411, y=56, z=283}
+[07Jun2025 04:00:27.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:27.869] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:27.950] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.023] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.106] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.175] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.273] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.500] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.613] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.715] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.821] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:28.925] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.014] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.282] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.514] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.601] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.773] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:29.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.020] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.229] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.316] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.656] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.741] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.915] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:30.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:31.067] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:31.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:00:31.222] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[07Jun2025 04:02:35.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has reached the goal [Dark Creator]
+[07Jun2025 04:03:28.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte tried to swim in lava
+[07Jun2025 04:03:28.787] [Server thread/INFO] [tombstone/]: The player MarcoDelNorte has successfully been saved
+[07Jun2025 04:04:54.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=57, z=389} BlockPos{x=-596, y=58, z=389}
+[07Jun2025 04:04:54.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=56, z=389} BlockPos{x=-596, y=58, z=389}
+[07Jun2025 04:04:54.905] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=56, z=390} BlockPos{x=-596, y=58, z=389}
+[07Jun2025 04:04:54.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=56, z=390} BlockPos{x=-596, y=58, z=389}
+[07Jun2025 04:04:54.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=55, z=391} BlockPos{x=-596, y=58, z=389}
+[07Jun2025 04:06:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Sea? Not a Problem]
+[07Jun2025 04:08:37.076] [Worker-Main-112/INFO] [ModernFix/]: Instantiating Mojang DFU
+[07Jun2025 04:09:05.176] [Worker-Main-117/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/114277, l='ServerLevel[world]', x=-815.10, y=31.00, z=829.00] as it would cause deadlock
+[07Jun2025 04:10:49.499] [Worker-Main-101/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/119862, l='ServerLevel[world]', x=-1332.00, y=31.00, z=643.00] as it would cause deadlock
+[07Jun2025 04:11:34.717] [Worker-Main-130/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/123463, l='ServerLevel[world]', x=-1074.00, y=31.00, z=957.00] as it would cause deadlock
+[07Jun2025 04:12:28.578] [Worker-Main-93/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/129550, l='ServerLevel[world]', x=-1151.00, y=31.00, z=1066.00] as it would cause deadlock
+[07Jun2025 04:12:31.318] [Worker-Main-115/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/129614, l='ServerLevel[world]', x=-1074.00, y=31.00, z=1071.00] as it would cause deadlock
+[07Jun2025 04:15:41.353] [Worker-Main-115/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/132910, l='ServerLevel[world]', x=-1495.00, y=31.00, z=961.00] as it would cause deadlock
+[07Jun2025 04:15:41.684] [Worker-Main-117/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/132916, l='ServerLevel[world]', x=-1498.00, y=31.00, z=850.00] as it would cause deadlock
+[07Jun2025 04:15:41.685] [Worker-Main-117/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/132918, l='ServerLevel[world]', x=-1503.00, y=31.00, z=848.90] as it would cause deadlock
+[07Jun2025 04:16:30.432] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/133968, l='ServerLevel[world]', x=-1543.00, y=31.00, z=1161.00] as it would cause deadlock
+[07Jun2025 04:16:53.437] [Worker-Main-112/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/134446, l='ServerLevel[world]', x=-1636.00, y=31.00, z=870.00] as it would cause deadlock
+[07Jun2025 04:16:55.201] [Worker-Main-112/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/134525, l='ServerLevel[world]', x=-1407.00, y=31.00, z=1240.00] as it would cause deadlock
+[07Jun2025 04:17:06.446] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/134828, l='ServerLevel[world]', x=-1673.00, y=31.00, z=954.00] as it would cause deadlock
+[07Jun2025 04:18:26.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
+[07Jun2025 04:18:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
