@@ -3397,6 +3397,8 @@
       "minecraft:pillager": "2025-05-31 01:54:27 +0000",
       "minecraft:skeleton": "2025-05-30 17:34:19 +0000",
       "minecraft:spider": "2025-05-30 17:34:06 +0000",
+      "minecraft:creeper": "2025-06-07 02:12:50 +0000",
+      "minecraft:husk": "2025-06-07 02:06:21 +0000",
       "minecraft:enderman": "2025-05-31 01:48:35 +0000",
       "minecraft:zombie": "2025-05-30 04:32:33 +0000"
     },
@@ -5335,9 +5337,51 @@
     },
     "done": true
   },
+  "rediscovered:recipes/combat/studded_leggings_from_iron": {
+    "criteria": {
+      "has_item": "2025-06-07 02:06:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-06-07 02:01:59 +0000"
+    },
+    "done": true
+  },
+  "threateningly_mobs:nature_sprirt_defeat": {
+    "criteria": {
+      "nature_sprirt_defeat_0": "2025-06-07 01:57:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-06-07 01:47:22 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/damage_protection_upgrade": {
+    "criteria": {
+      "has_apple": "2025-06-07 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chef_upgrade": {
+    "criteria": {
+      "has_apple": "2025-06-07 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-06-07 02:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_any_sniffer_seed": {
+    "criteria": {
+      "torchflower": "2025-06-07 02:16:45 +0000"
     },
     "done": true
   },
