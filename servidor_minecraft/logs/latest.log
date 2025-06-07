@@ -841,3 +841,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 02:15:17.158] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=131, y=11, z=-105} BlockPos{x=133, y=11, z=-107}
 [07Jun2025 02:15:17.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=130, y=11, z=-105} BlockPos{x=133, y=11, z=-107}
 [07Jun2025 02:16:45.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Planting the Past]
+[07Jun2025 02:33:06.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has made the advancement [Dark Metallurgy]

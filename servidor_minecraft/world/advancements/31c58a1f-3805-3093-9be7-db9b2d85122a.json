@@ -8039,5 +8039,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-06-07 02:36:44 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_macerator": {
+    "criteria": {
+      "macerator": "2025-06-07 02:34:13 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
