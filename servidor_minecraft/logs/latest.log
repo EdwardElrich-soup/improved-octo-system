@@ -855,3 +855,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 02:52:42.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/72108, l='ServerLevel[world]', x=475.92, y=100.24, z=107.90] died: Honeyed Archer burned to death
 [07Jun2025 02:54:14.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has completed the challenge [Cover Me in Debris]
 [07Jun2025 03:16:00.054] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Tessa the Undoubtable'/77290, l='ServerLevel[world]', x=294.68, y=68.04, z=233.03] died: Tessa the Undoubtable was slain by MarcoDelNorte
+[07Jun2025 03:27:54.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/79558, l='ServerLevel[world]', x=480.14, y=67.26, z=180.09] died: Honeyed Archer suffocated in a wall
