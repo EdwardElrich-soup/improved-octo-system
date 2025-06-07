@@ -1849,6 +1849,7 @@
     "criteria": {
       "cooked_porkchop": "2025-06-06 19:08:24 +0000",
       "baked_potato": "2025-05-31 02:21:22 +0000",
+      "apple": "2025-06-07 01:55:38 +0000",
       "potato": "2025-05-31 02:18:51 +0000",
       "bread": "2025-05-29 04:46:33 +0000",
       "carrot": "2025-05-29 06:14:35 +0000"
@@ -5331,6 +5332,12 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-06 22:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-06-07 01:47:22 +0000"
     },
     "done": true
   },

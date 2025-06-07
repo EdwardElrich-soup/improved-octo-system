@@ -813,3 +813,11 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 01:49:52.389] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Timed out
 [07Jun2025 01:49:52.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
 [07Jun2025 01:49:52.447] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jun2025 01:52:54.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of tocino20) moved wrongly! 0.3321448434437277
+[07Jun2025 01:54:26.963] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: MarcoDelNorte[/127.142.0.33:43339] logged in with entity id 6278 at (60.02056710916469, 5.0, 9.06884880748309)
+[07Jun2025 01:54:27.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte joined the game
+[07Jun2025 01:54:27.022] [Server thread/INFO] [Jade/]: Syncing config to MarcoDelNorte (31c58a1f-3805-3093-9be7-db9b2d85122a)
+[07Jun2025 01:57:39.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has reached the goal [apostle of the earth]
+[07Jun2025 02:00:57.321] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Jun2025 02:00:57.322] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
+[07Jun2025 02:00:57.323] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [6 above bottom--1 absolute]
