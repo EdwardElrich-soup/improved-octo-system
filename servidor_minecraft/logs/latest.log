@@ -929,3 +929,16 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 04:17:06.446] [Worker-Main-102/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/134828, l='ServerLevel[world]', x=-1673.00, y=31.00, z=954.00] as it would cause deadlock
 [07Jun2025 04:18:26.287] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: MarcoDelNorte lost connection: Disconnected
 [07Jun2025 04:18:26.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: MarcoDelNorte left the game
+[07Jun2025 04:34:13.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.36093423777083444
+[07Jun2025 04:34:13.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.5598316871440829
+[07Jun2025 04:34:13.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.7556891792672786
+[07Jun2025 04:34:13.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.9479709801992158
+[07Jun2025 04:34:13.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 1.1370752128442518
+[07Jun2025 04:35:03.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/142223, l='ServerLevel[world]', x=1568.50, y=50.00, z=860.50]
+[07Jun2025 04:47:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:47:23.427] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[07Jun2025 04:49:15.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:49:15.675] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[07Jun2025 04:49:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tocino20> w
+[07Jun2025 04:51:22.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:51:22.824] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved

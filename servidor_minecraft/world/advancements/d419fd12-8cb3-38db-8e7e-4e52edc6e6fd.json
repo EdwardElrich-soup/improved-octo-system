@@ -5419,6 +5419,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-07 04:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
@@ -5434,6 +5440,12 @@
   "securitycraft:recipes/decorations/reinforced_magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-06-07 04:39:03 +0000"
     },
     "done": true
   },
@@ -5578,6 +5590,12 @@
   "rats:recipes/misc/upgrades/golem_mount_upgrade": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_bronze_to_sea_serpent_scale_block_bronze": {
+    "criteria": {
+      "has_sea_serpent_scales_bronze": "2025-06-07 04:39:03 +0000"
     },
     "done": true
   },
@@ -5728,6 +5746,12 @@
   "securitycraft:recipes/decorations/reinforced_pink_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-06-07 04:39:03 +0000"
     },
     "done": true
   },
@@ -5914,6 +5938,12 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-06-07 04:39:03 +0000"
     },
     "done": true
   },

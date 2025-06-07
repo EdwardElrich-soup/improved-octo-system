@@ -8026,3 +8026,30 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 04:27:06.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jun2025 04:32:06.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 04:32:06.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:34:13.077] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.36093423777083444
+[07Jun2025 04:34:13.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.5598316871440829
+[07Jun2025 04:34:13.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.7556891792672786
+[07Jun2025 04:34:13.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 0.9479709801992158
+[07Jun2025 04:34:13.274] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of tocino20) moved wrongly! 1.1370752128442518
+[07Jun2025 04:35:03.807] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/142223, l='ServerLevel[world]', x=1568.50, y=50.00, z=860.50]
+[07Jun2025 04:37:06.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:37:06.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:42:06.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:42:06.957] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:44:35.223] [Worker-Main-93/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:lookout_tower
+[07Jun2025 04:45:49.827] [Worker-Main-117/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[07Jun2025 04:46:01.506] [Worker-Main-102/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:mini_ferma
+[07Jun2025 04:47:06.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:47:06.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 04:47:23.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:47:23.415] [Server thread/DEBUG] [tombstone/]: A new grave of the player tocino20 was created at position [x:1534, y:70, z:1472, dim:minecraft:overworld]
+[07Jun2025 04:47:23.427] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[07Jun2025 04:49:15.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:49:15.664] [Server thread/DEBUG] [tombstone/]: A new grave of the player tocino20 was created at position [x:1535, y:72, z:1464, dim:minecraft:overworld]
+[07Jun2025 04:49:15.675] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[07Jun2025 04:49:41.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <tocino20> w
+[07Jun2025 04:51:22.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 was slain by Sea Serpent
+[07Jun2025 04:51:22.816] [Server thread/DEBUG] [tombstone/]: A new grave of the player tocino20 was created at position [x:1547, y:65, z:1526, dim:minecraft:overworld]
+[07Jun2025 04:51:22.824] [Server thread/INFO] [tombstone/]: The player tocino20 has successfully been saved
+[07Jun2025 04:52:06.916] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 04:52:06.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
