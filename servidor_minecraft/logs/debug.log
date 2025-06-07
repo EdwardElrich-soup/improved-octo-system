@@ -7887,3 +7887,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [07Jun2025 02:45:35.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Mary the Morbius'/70321, l='ServerLevel[world]', x=226.70, y=63.00, z=341.05] died: Mary the Morbius was shot by tocino20 using [Arthur's Agile Self Bow of the Sniper]
 [07Jun2025 02:47:06.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jun2025 02:47:06.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 02:52:06.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 02:52:06.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 02:52:42.177] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/72108, l='ServerLevel[world]', x=475.92, y=100.24, z=107.90] died: Honeyed Archer burned to death
+[07Jun2025 02:54:14.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tocino20 has completed the challenge [Cover Me in Debris]
+[07Jun2025 02:57:06.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 02:57:06.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
