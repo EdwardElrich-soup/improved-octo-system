@@ -6776,3 +6776,12 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [06Jun2025 23:58:07.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has completed the challenge [It Spreads]
 [06Jun2025 23:58:08.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Strange biomass]
 [06Jun2025 23:58:11.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tacticalMus4sh1 has made the advancement [Sneak 100]
+[06Jun2025 23:59:53.170] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jun2025 23:59:53.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 00:03:12.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3030, y=-49, z=3769} BlockPos{x=-3031, y=-50, z=3769}
+[07Jun2025 00:03:38.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3014, y=-52, z=3743} BlockPos{x=-3015, y=-53, z=3741}
+[07Jun2025 00:03:38.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3013, y=-51, z=3747} BlockPos{x=-3013, y=-52, z=3747}
+[07Jun2025 00:04:53.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 00:04:53.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jun2025 00:09:53.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jun2025 00:09:53.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
