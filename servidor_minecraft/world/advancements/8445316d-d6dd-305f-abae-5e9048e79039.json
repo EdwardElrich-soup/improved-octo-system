@@ -9842,6 +9842,18 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-06-07 00:13:55 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/deep_dark_blueprint": {
+    "criteria": {
+      "deep_dark_blueprint": "2025-06-07 00:17:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-06-07 00:05:08 +0000"
@@ -9863,6 +9875,12 @@
   "scguns:main/peal": {
     "criteria": {
       "peal": "2025-06-07 00:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-06-07 00:17:03 +0000"
     },
     "done": true
   },
