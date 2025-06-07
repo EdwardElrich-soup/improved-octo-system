@@ -5460,6 +5460,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-06-07 03:40:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/decorations/reinforced_orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-06-07 02:20:04 +0000"
